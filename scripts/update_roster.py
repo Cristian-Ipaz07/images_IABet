@@ -1,5 +1,4 @@
 import json
-import os
 import argparse
 from pathlib import Path
 
@@ -12,14 +11,30 @@ TEAMS_JSON = DATA_DIR / "teams_id.json"
 
 
 def fetch_team_roster(team_id: int, season: str):
-    response = commonteamroster.CommonTeamRoster(team_id=team_id, season=season)
-    data = response.get_normalized_dict()
-    return data.get("CommonTeamRoster", [])
+    """Return the roster for a team and season.
+
+    The NBA API sometimes returns an empty dataset for seasons that are not yet
+    available. Network errors are also possible in the execution environment.
+    In both cases an empty list is returned so the caller can decide how to
+    proceed.
+    """
+
+    try:
+        response = commonteamroster.CommonTeamRoster(team_id=team_id, season=season)
+        data = response.get_normalized_dict()
+        return data.get("CommonTeamRoster", [])
+    except Exception:
+        return []
 
 
 def build_rosters(season: str):
     with open(TEAMS_JSON, "r", encoding="utf-8") as f:
         teams = json.load(f)
+
+    existing = {}
+    if PLAYERS_JSON.exists():
+        with open(PLAYERS_JSON, "r", encoding="utf-8") as f:
+            existing = json.load(f)
 
     rosters = {}
     used_ids = set()
@@ -27,6 +42,21 @@ def build_rosters(season: str):
 
     for abbr, info in teams.items():
         roster_data = fetch_team_roster(info["id"], season)
+
+        # If the API returned nothing, keep any existing roster data so that
+        # the file is not overwritten with empty lists.
+        if not roster_data:
+            if abbr in existing:
+                rosters[abbr] = existing[abbr]
+                for p in existing[abbr].get("jugadores", []):
+                    used_ids.add(p["id"])
+            else:
+                rosters[abbr] = {
+                    "nombre_completo": info["nombre"],
+                    "jugadores": []
+                }
+            continue
+
         players = []
         for player in roster_data:
             player_id = player["PLAYER_ID"]
@@ -40,6 +70,7 @@ def build_rosters(season: str):
                 "dorsal": player["NUM"],
                 "posicion": player["POSITION"]
             })
+
         rosters[abbr] = {
             "nombre_completo": info["nombre"],
             "jugadores": players
