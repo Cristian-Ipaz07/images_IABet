@@ -17,8 +17,9 @@ and refresh `players_id.json` with:
 python scripts/generate_roster_diff.py
 ```
 
-The script creates `data/roster_diff_2025_offseason.json` and rewrites
-`data/players_id.json` with up-to-date rosters.
+The script creates `data/roster_diff_2025_offseason.json` (each entry contains
+`id`, `nombre` and an optional `novato: true`) and rewrites `data/players_id.json`
+with up-to-date rosters.
 
 ## Updating Rosters
 Use `scripts/update_roster.py` to refresh `data/players_id.json` with official rosters from the NBA API.

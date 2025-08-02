@@ -1,7 +1,9 @@
 """
 Generates `roster_diff_2025_offseason.json` with all players who landed on a new
-NBA franchise during the 2025 offseason (15 Jun – 31 Jul). The script also
-refreshes `data/players_id.json` using official NBA API rosters, removing any
+NBA franchise during the 2025 offseason (15 Jun – 31 Jul).  The resulting file
+keeps the same naming conventions as the project: each entry contains an ``id``
+and ``nombre`` field (plus ``novato: true`` for rookies).  The script also
+refreshes ``data/players_id.json`` using official NBA API rosters, removing any
 duplicate player IDs in the process.
 
 Requirements:
@@ -78,12 +80,12 @@ def build_roster_diff():
     for name in sorted(veterans):
         pid = player_id_lookup(name)
         if pid:
-            roster.append({"id": pid, "name": name})
+            roster.append({"id": pid, "nombre": name})
         else:
             print(f"[WARN] sin id: {name}")
 
     for name, pid in draft_map.items():
-        roster.append({"id": pid, "name": name, "rookie": True})
+        roster.append({"id": pid, "nombre": name, "novato": True})
 
     with open(ROSTER_DIFF_JSON, "w", encoding="utf-8") as f:
         json.dump(roster, f, ensure_ascii=False, indent=2)
