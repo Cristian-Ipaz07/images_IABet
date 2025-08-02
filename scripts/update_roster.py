@@ -10,12 +10,17 @@ DATA_DIR = BASE_DIR / "data"
 PLAYERS_JSON = DATA_DIR / "players_id.json"
 TEAMS_JSON = DATA_DIR / "teams_id.json"
 
-
 def fetch_team_roster(team_id: int, season: str):
-    response = commonteamroster.CommonTeamRoster(team_id=team_id, season=season)
-    data = response.get_normalized_dict()
-    return data.get("CommonTeamRoster", [])
+    try:
+        # Aquí ya puede saltar KeyError("Coaches") dentro de __init__ o get_request()
+        endpoint = commonteamroster.CommonTeamRoster(team_id=team_id, season=season)
+    except KeyError:
+        # Si la API ya no incluye “Coaches”, devolvemos un roster vacío
+        return []
 
+    # Si llegamos aquí, la instancia fue exitosa
+    data = endpoint.get_normalized_dict()
+    return data.get("CommonTeamRoster", [])
 
 def build_rosters(season: str):
     with open(TEAMS_JSON, "r", encoding="utf-8") as f:
