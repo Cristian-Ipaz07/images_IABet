@@ -22,9 +22,10 @@ The script creates `data/roster_diff_2025_offseason.json` (each entry contains
 with up-to-date rosters.
 
 ## Updating Rosters
-Use `scripts/update_roster.py` to refresh `data/players_id.json` with official rosters from the NBA API.
-If the API does not yet expose a roster for the requested season, the script
-keeps the previously stored players so existing data is not lost.
+Use `scripts/update_roster.py` to refresh `data/players_id.json` with official
+rosters from the NBA API. The script loads the current file and only replaces a
+team's player list when the API returns data, preserving existing rosters when
+information is missing so that the file is never overwritten with empty lists.
 
 ```bash
 python scripts/update_roster.py --season 2025-26
