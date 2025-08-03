@@ -1,10 +1,13 @@
 [
   {
     "id": 201950,
+    "nombre": "Jrue Holiday",
     "equipo": "LAL"
   },
   {
     "id": 999999,
-    "equipo": "BOS"
+    "nombre": "Juan Rookie",
+    "equipo": "BOS",
+    "novato": true
   }
 ]

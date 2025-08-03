@@ -8,7 +8,7 @@ TEAMS_FILE = Path('data/teams_id.json')
 
 
 def normalizar_entrada(entrada):
-    """Normaliza y devuelve (equipo, jugador_id)"""
+    """Normaliza y devuelve (equipo, jugador_id, nombre)"""
     equipo = entrada.get('equipo') or entrada.get('team')
     if not equipo:
         raise ValueError('Entrada sin equipo: %s' % entrada)
@@ -18,7 +18,9 @@ def normalizar_entrada(entrada):
     except (TypeError, ValueError):
         raise ValueError('Entrada sin id válido: %s' % entrada)
 
-    return equipo, jugador_id
+    nombre = entrada.get('nombre') or entrada.get('name')
+
+    return equipo, jugador_id, nombre
 
 
 def cargar_json(path):
@@ -32,26 +34,33 @@ def guardar_json(path, data):
 
 
 def remover_jugador(data, jugador_id):
+    """Elimina al jugador y devuelve su nombre si existe."""
     for equipo, info in data.items():
         jugadores = info.get('jugadores', [])
-        info['jugadores'] = [j for j in jugadores if int(j) != jugador_id]
+        for idx, j in enumerate(list(jugadores)):
+            jid = j.get('id') if isinstance(j, dict) else int(j)
+            if int(jid) == jugador_id:
+                nombre = j.get('nombre') if isinstance(j, dict) else None
+                jugadores.pop(idx)
+                return nombre
+    return None
 
 
-def insertar_jugador(data, equipo, jugador_id):
+def insertar_jugador(data, equipo, jugador_id, nombre):
     if equipo not in data:
         equipos = cargar_json(TEAMS_FILE)
-        nombre = equipos.get(equipo, {}).get('nombre', equipo)
-        data[equipo] = {'nombre_completo': nombre, 'jugadores': []}
+        nombre_equipo = equipos.get(equipo, {}).get('nombre', equipo)
+        data[equipo] = {'nombre_completo': nombre_equipo, 'jugadores': []}
     jugadores = data[equipo].setdefault('jugadores', [])
-    if jugador_id not in jugadores:
-        jugadores.append(jugador_id)
+    if not any(int(j.get('id')) == jugador_id for j in jugadores):
+        jugadores.append({'id': jugador_id, 'nombre': nombre})
 
 
 def buscar_duplicados(data):
     ids = defaultdict(list)
     for equipo, info in data.items():
         for j in info.get('jugadores', []):
-            ids[int(j)].append(equipo)
+            ids[int(j.get('id'))].append(equipo)
     return {i: e for i, e in ids.items() if len(e) > 1}
 
 
@@ -78,9 +87,9 @@ def main():
         raise ValueError('Formato de diff no soportado')
 
     for entrada in cambios:
-        equipo, jugador_id = normalizar_entrada(entrada)
-        remover_jugador(jugadores_data, jugador_id)
-        insertar_jugador(jugadores_data, equipo, jugador_id)
+        equipo, jugador_id, nombre = normalizar_entrada(entrada)
+        previo = remover_jugador(jugadores_data, jugador_id)
+        insertar_jugador(jugadores_data, equipo, jugador_id, nombre or previo or '')
 
     duplicados = buscar_duplicados(jugadores_data)
     if duplicados:

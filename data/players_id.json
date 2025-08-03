@@ -2,686 +2,2291 @@
   "BOS": {
     "nombre_completo": "Boston Celtics",
     "jugadores": [
-      1628369,
-      1627759,
-      204001,
-      1628401,
-      1630202,
-      201143,
-      1628436,
-      1631248,
-      1631104,
-      1630573,
-      1628470,
-      1631123,
-      1641936,
-      1629667,
-      1630214,
-      1631210,
-      999999
+      {
+        "id": 1628369,
+        "nombre": "Jayson Tatum"
+      },
+      {
+        "id": 1627759,
+        "nombre": "Jaylen Brown"
+      },
+      {
+        "id": 204001,
+        "nombre": "Kristaps Porzingis"
+      },
+      {
+        "id": 1628401,
+        "nombre": "Derrick White"
+      },
+      {
+        "id": 1630202,
+        "nombre": "Payton Pritchard"
+      },
+      {
+        "id": 201143,
+        "nombre": "Al Horford"
+      },
+      {
+        "id": 1628436,
+        "nombre": "Luke Kornet"
+      },
+      {
+        "id": 1631248,
+        "nombre": "Baylor Scheierman"
+      },
+      {
+        "id": 1631104,
+        "nombre": "Jordan Walsh"
+      },
+      {
+        "id": 1630573,
+        "nombre": "Sam Hauser"
+      },
+      {
+        "id": 1628470,
+        "nombre": "Torrey Craig"
+      },
+      {
+        "id": 1631123,
+        "nombre": "JD Davison"
+      },
+      {
+        "id": 1641936,
+        "nombre": "Miles Norris"
+      },
+      {
+        "id": 1629667,
+        "nombre": "Neemias Queta"
+      },
+      {
+        "id": 1630214,
+        "nombre": "Xavier Tillman"
+      },
+      {
+        "id": 1631210,
+        "nombre": "Drew Peterson"
+      },
+      {
+        "id": 999999,
+        "nombre": "Juan Rookie"
+      }
     ]
   },
   "BKN": {
     "nombre_completo": "Brooklyn Nets",
     "jugadores": [
-      1629661,
-      1630560,
-      1629651,
-      1631219,
-      1630553,
-      1626156,
-      1630533,
-      1630231,
-      1630592,
-      1630610,
-      1631214,
-      1641787,
-      1631241,
-      1641727,
-      1631106,
-      1641736,
-      1631101,
-      1629001
+      {
+        "id": 1629661,
+        "nombre": "Cameron Johnson"
+      },
+      {
+        "id": 1630560,
+        "nombre": "Cam Thomas"
+      },
+      {
+        "id": 1629651,
+        "nombre": "Nicolas Claxton"
+      },
+      {
+        "id": 1631219,
+        "nombre": "Drew Timme"
+      },
+      {
+        "id": 1630553,
+        "nombre": "Keon Johnson"
+      },
+      {
+        "id": 1626156,
+        "nombre": "D'Angelo Russell"
+      },
+      {
+        "id": 1630533,
+        "nombre": "Ziaire Williams"
+      },
+      {
+        "id": 1630231,
+        "nombre": "Tyrese Martin"
+      },
+      {
+        "id": 1630592,
+        "nombre": "Jalen Wilson"
+      },
+      {
+        "id": 1630610,
+        "nombre": "Trendon Watford"
+      },
+      {
+        "id": 1631214,
+        "nombre": "Noah Clowney"
+      },
+      {
+        "id": 1641787,
+        "nombre": "Tosan Evbuomwan"
+      },
+      {
+        "id": 1631241,
+        "nombre": "Maxwell Lewis"
+      },
+      {
+        "id": 1641727,
+        "nombre": "Dariq Whitehead"
+      },
+      {
+        "id": 1631106,
+        "nombre": "Tyson Etienne"
+      },
+      {
+        "id": 1641736,
+        "nombre": "Reece Beekman"
+      },
+      {
+        "id": 1631101,
+        "nombre": "Day'Ron Sharpe"
+      },
+      {
+        "id": 1629001,
+        "nombre": "De'Anthony Melton"
+      }
     ]
   },
   "CHA": {
     "nombre_completo": "Charlotte Hornets",
     "jugadores": [
-      1630163,
-      1628964,
-      203552,
-      1631109,
-      1631217,
-      1626204,
-      1630544,
-      1630188,
-      1631223,
-      1629684,
-      1642354,
-      1627832,
-      1631098,
-      1641733,
-      1631243,
-      1631231,
-      1629006,
-      1631111
+      {
+        "id": 1630163,
+        "nombre": "LaMelo Ball"
+      },
+      {
+        "id": 1628964,
+        "nombre": "Miles Bridges"
+      },
+      {
+        "id": 203552,
+        "nombre": "Seth Curry"
+      },
+      {
+        "id": 1631109,
+        "nombre": "Mark Williams"
+      },
+      {
+        "id": 1631217,
+        "nombre": "Brandon Miller"
+      },
+      {
+        "id": 1626204,
+        "nombre": "Jusuf Nurkic"
+      },
+      {
+        "id": 1630544,
+        "nombre": "Tre Mann"
+      },
+      {
+        "id": 1630188,
+        "nombre": "Josh Green"
+      },
+      {
+        "id": 1631223,
+        "nombre": "Tidjane Salaun"
+      },
+      {
+        "id": 1629684,
+        "nombre": "Grant Williams"
+      },
+      {
+        "id": 1642354,
+        "nombre": "KJ Simpson"
+      },
+      {
+        "id": 1627832,
+        "nombre": "Taj Gibson"
+      },
+      {
+        "id": 1631098,
+        "nombre": "Moussa Diabaté"
+      },
+      {
+        "id": 1641733,
+        "nombre": "Nick Smith Jr."
+      },
+      {
+        "id": 1631243,
+        "nombre": "DaQuan Jeffries"
+      },
+      {
+        "id": 1631231,
+        "nombre": "Damion Baugh"
+      },
+      {
+        "id": 1629006,
+        "nombre": "Josh Okogie"
+      },
+      {
+        "id": 1631111,
+        "nombre": "Wendell Moore Jr."
+      }
     ]
   },
   "ATL": {
     "nombre_completo": "Atlanta Hawks",
     "jugadores": [
-      1629027,
-      1641715,
-      1629611,
-      1631110,
-      1630169,
-      1630547,
-      1631342,
-      1641716,
-      1641717,
-      1630688,
-      1631093,
-      203512,
-      203991,
-      1627747,
-      1641718,
-      1630322,
-      1629726,
-      1626204
+      {
+        "id": 1629027,
+        "nombre": "Trae Young"
+      },
+      {
+        "id": 1641715,
+        "nombre": "Kobe Bufkin"
+      },
+      {
+        "id": 1629611,
+        "nombre": "Terance Mann"
+      },
+      {
+        "id": 1631110,
+        "nombre": "Dominick Barlow"
+      },
+      {
+        "id": 1630169,
+        "nombre": "Onyeka Okongwu"
+      },
+      {
+        "id": 1630547,
+        "nombre": "Dyson Daniels"
+      },
+      {
+        "id": 1631342,
+        "nombre": "Daeqwon Plowden"
+      },
+      {
+        "id": 1641716,
+        "nombre": "Zaccharie Risacher"
+      },
+      {
+        "id": 1641717,
+        "nombre": "Mouhamed Gueye"
+      },
+      {
+        "id": 1630688,
+        "nombre": "Vit Krejci"
+      },
+      {
+        "id": 1631093,
+        "nombre": "Jalen Johnson"
+      },
+      {
+        "id": 203512,
+        "nombre": "Georges Niang"
+      },
+      {
+        "id": 203991,
+        "nombre": "Clint Capela"
+      },
+      {
+        "id": 1627747,
+        "nombre": "Caris LeVert"
+      },
+      {
+        "id": 1641718,
+        "nombre": "Jacob Toppin"
+      },
+      {
+        "id": 1630322,
+        "nombre": "Keaton Wallace"
+      },
+      {
+        "id": 1629726,
+        "nombre": "Garrison Mathews"
+      },
+      {
+        "id": 1626204,
+        "nombre": "Larry Nance Jr."
+      }
     ]
   },
   "CHI": {
     "nombre_completo": "Chicago Bulls",
     "jugadores": [
-      1630581,
-      1641725,
-      1629632,
-      1630163,
-      202696,
-      1628989,
-      1630245,
-      1628381,
-      1630172,
-      1630200,
-      1630188,
-      1631207,
-      1628975,
-      1641732,
-      1641763,
-      1641801,
-      1630604,
-      1629659
+      {
+        "id": 1630581,
+        "nombre": "Josh Giddey"
+      },
+      {
+        "id": 1641725,
+        "nombre": "Matas Buzelis"
+      },
+      {
+        "id": 1629632,
+        "nombre": "Coby White"
+      },
+      {
+        "id": 1630163,
+        "nombre": "Lonzo Ball"
+      },
+      {
+        "id": 202696,
+        "nombre": "Nikola Vučević"
+      },
+      {
+        "id": 1628989,
+        "nombre": "Kevin Huerter"
+      },
+      {
+        "id": 1630245,
+        "nombre": "Ayo Dosunmu"
+      },
+      {
+        "id": 1628381,
+        "nombre": "Zach Collins"
+      },
+      {
+        "id": 1630172,
+        "nombre": "Patrick Williams"
+      },
+      {
+        "id": 1630200,
+        "nombre": "Tre Jones"
+      },
+      {
+        "id": 1630188,
+        "nombre": "Jalen Smith"
+      },
+      {
+        "id": 1631207,
+        "nombre": "Dalen Terry"
+      },
+      {
+        "id": 1628975,
+        "nombre": "Jevon Carter"
+      },
+      {
+        "id": 1641732,
+        "nombre": "Jahmir Young"
+      },
+      {
+        "id": 1641763,
+        "nombre": "Julian Phillips"
+      },
+      {
+        "id": 1641801,
+        "nombre": "Emanuel Miller"
+      },
+      {
+        "id": 1630604,
+        "nombre": "E.J. Liddell"
+      },
+      {
+        "id": 1629659,
+        "nombre": "Talen Horton-Tucker"
+      }
     ]
   },
   "CLE": {
     "nombre_completo": "Cleveland Cavaliers",
     "jugadores": [
-      1628378,
-      1629636,
-      1630596,
-      1629660,
-      1628386,
-      1641721,
-      202684,
-      1629750,
-      1629731,
-      1630241,
-      1641734,
-      1630171,
-      1629631,
-      1631216,
-      1641723,
-      1629646,
-      1641730,
-      1641729
+      {
+        "id": 1628378,
+        "nombre": "Donovan Mitchell"
+      },
+      {
+        "id": 1629636,
+        "nombre": "Darius Garland"
+      },
+      {
+        "id": 1630596,
+        "nombre": "Evan Mobley"
+      },
+      {
+        "id": 1629660,
+        "nombre": "Ty Jerome"
+      },
+      {
+        "id": 1628386,
+        "nombre": "Jarrett Allen"
+      },
+      {
+        "id": 1641721,
+        "nombre": "Max Strus"
+      },
+      {
+        "id": 202684,
+        "nombre": "Tristan Thompson"
+      },
+      {
+        "id": 1629750,
+        "nombre": "Javonte Green"
+      },
+      {
+        "id": 1629731,
+        "nombre": "Dean Wade"
+      },
+      {
+        "id": 1630241,
+        "nombre": "Sam Merrill"
+      },
+      {
+        "id": 1641734,
+        "nombre": "Emoni Bates"
+      },
+      {
+        "id": 1630171,
+        "nombre": "Isaac Okoro"
+      },
+      {
+        "id": 1629631,
+        "nombre": "De'Andre Hunter"
+      },
+      {
+        "id": 1631216,
+        "nombre": "Luke Travers"
+      },
+      {
+        "id": 1641723,
+        "nombre": "Jaylon Tyson"
+      },
+      {
+        "id": 1629646,
+        "nombre": "Chuma Okeke"
+      },
+      {
+        "id": 1641730,
+        "nombre": "Craig Porter Jr."
+      },
+      {
+        "id": 1641729,
+        "nombre": "Nae'Qwan Tomlin"
+      }
     ]
   },
   "DET": {
     "nombre_completo": "Detroit Pistons",
     "jugadores": [
-      1630595,
-      1631098,
-      1641713,
-      1627736,
-      203471,
-      1631093,
-      1630191,
-      202699,
-      1641720,
-      203501,
-      1631212,
-      1631323,
-      1631207,
-      1630194,
-      1641727,
-      1641731,
-      1641724,
-      1631221
+      {
+        "id": 1630595,
+        "nombre": "Cade Cunningham"
+      },
+      {
+        "id": 1631098,
+        "nombre": "Jalen Duren"
+      },
+      {
+        "id": 1641713,
+        "nombre": "Ausar Thompson"
+      },
+      {
+        "id": 1627736,
+        "nombre": "Malik Beasley"
+      },
+      {
+        "id": 203471,
+        "nombre": "Dennis Schröder"
+      },
+      {
+        "id": 1631093,
+        "nombre": "Jaden Ivey"
+      },
+      {
+        "id": 1630191,
+        "nombre": "Isaiah Stewart"
+      },
+      {
+        "id": 202699,
+        "nombre": "Tobias Harris"
+      },
+      {
+        "id": 1641720,
+        "nombre": "Ron Holland"
+      },
+      {
+        "id": 203501,
+        "nombre": "Tim Hardaway Jr."
+      },
+      {
+        "id": 1631212,
+        "nombre": "Lindy Waters III"
+      },
+      {
+        "id": 1631323,
+        "nombre": "Simone Fontecchio"
+      },
+      {
+        "id": 1631207,
+        "nombre": "Marcus Sasser"
+      },
+      {
+        "id": 1630194,
+        "nombre": "Paul Reed"
+      },
+      {
+        "id": 1641727,
+        "nombre": "Bobi Klintman"
+      },
+      {
+        "id": 1641731,
+        "nombre": "Tolu Smith"
+      },
+      {
+        "id": 1641724,
+        "nombre": "Daniss Jenkins"
+      },
+      {
+        "id": 1631221,
+        "nombre": "Ron Harper Jr."
+      }
     ]
   },
   "IND": {
     "nombre_completo": "Indiana Pacers",
     "jugadores": [
-      1630169,
-      202683,
-      1626167,
-      1630194,
-      1630174,
-      1631097,
-      1630167,
-      201949,
-      1641722,
-      1628418,
-      204456,
-      1641712,
-      1641711,
-      1630543,
-      1628467,
-      1631288,
-      1641733,
-      1641726
+      {
+        "id": 1630169,
+        "nombre": "Tyrese Haliburton"
+      },
+      {
+        "id": 202683,
+        "nombre": "Pascal Siakam"
+      },
+      {
+        "id": 1626167,
+        "nombre": "Myles Turner"
+      },
+      {
+        "id": 1630194,
+        "nombre": "Andrew Nembhard"
+      },
+      {
+        "id": 1630174,
+        "nombre": "Aaron Nesmith"
+      },
+      {
+        "id": 1631097,
+        "nombre": "Bennedict Mathurin"
+      },
+      {
+        "id": 1630167,
+        "nombre": "Obi Toppin"
+      },
+      {
+        "id": 201949,
+        "nombre": "James Johnson"
+      },
+      {
+        "id": 1641722,
+        "nombre": "Johnny Furphy"
+      },
+      {
+        "id": 1628418,
+        "nombre": "Thomas Bryant"
+      },
+      {
+        "id": 204456,
+        "nombre": "T.J. McConnell"
+      },
+      {
+        "id": 1641712,
+        "nombre": "Ben Sheppard"
+      },
+      {
+        "id": 1641711,
+        "nombre": "Jarace Walker"
+      },
+      {
+        "id": 1630543,
+        "nombre": "Isaiah Jackson"
+      },
+      {
+        "id": 1628467,
+        "nombre": "Tony Bradley"
+      },
+      {
+        "id": 1631288,
+        "nombre": "Quenton Jackson"
+      },
+      {
+        "id": 1641733,
+        "nombre": "RayJ Dennis"
+      },
+      {
+        "id": 1641726,
+        "nombre": "Enrique Freeman"
+      }
     ]
   },
   "MIA": {
     "nombre_completo": "Miami Heat",
     "jugadores": [
-      1629639,
-      1628389,
-      203952,
-      1630558,
-      1631107,
-      201567,
-      1629130,
-      1626179,
-      1641710,
-      1641709,
-      203937,
-      202692,
-      1641734,
-      1629312,
-      1630528,
-      1641735,
-      1641736,
-      1630696
+      {
+        "id": 1629639,
+        "nombre": "Tyler Herro"
+      },
+      {
+        "id": 1628389,
+        "nombre": "Bam Adebayo"
+      },
+      {
+        "id": 203952,
+        "nombre": "Andrew Wiggins"
+      },
+      {
+        "id": 1630558,
+        "nombre": "Davion Mitchell"
+      },
+      {
+        "id": 1631107,
+        "nombre": "Nikola Jović"
+      },
+      {
+        "id": 201567,
+        "nombre": "Kevin Love"
+      },
+      {
+        "id": 1629130,
+        "nombre": "Duncan Robinson"
+      },
+      {
+        "id": 1626179,
+        "nombre": "Terry Rozier"
+      },
+      {
+        "id": 1641710,
+        "nombre": "Pelle Larsson"
+      },
+      {
+        "id": 1641709,
+        "nombre": "Jaime Jaquez Jr."
+      },
+      {
+        "id": 203937,
+        "nombre": "Kyle Anderson"
+      },
+      {
+        "id": 202692,
+        "nombre": "Alec Burks"
+      },
+      {
+        "id": 1641734,
+        "nombre": "Kel'el Ware"
+      },
+      {
+        "id": 1629312,
+        "nombre": "Haywood Highsmith"
+      },
+      {
+        "id": 1630528,
+        "nombre": "Josh Christopher"
+      },
+      {
+        "id": 1641735,
+        "nombre": "Keshad Johnson"
+      },
+      {
+        "id": 1641736,
+        "nombre": "Isaiah Stevens"
+      },
+      {
+        "id": 1630696,
+        "nombre": "Dru Smith"
+      }
     ]
   },
   "MIL": {
     "nombre_completo": "Milwaukee Bucks",
     "jugadores": [
-      203507,
-      203081,
-      1628398,
-      201572,
-      1626171,
-      1631131,
-      1629018,
-      1630578,
-      1631157,
-      1631260,
-      1627752,
-      1626192,
-      1641737,
-      1631123,
-      1641738,
-      1631103,
-      1630539,
-      1641739
+      {
+        "id": 203507,
+        "nombre": "Giannis Antetokounmpo"
+      },
+      {
+        "id": 203081,
+        "nombre": "Damian Lillard"
+      },
+      {
+        "id": 1628398,
+        "nombre": "Kyle Kuzma"
+      },
+      {
+        "id": 201572,
+        "nombre": "Brook Lopez"
+      },
+      {
+        "id": 1626171,
+        "nombre": "Bobby Portis"
+      },
+      {
+        "id": 1631131,
+        "nombre": "Kevin Porter Jr."
+      },
+      {
+        "id": 1629018,
+        "nombre": "Gary Trent Jr."
+      },
+      {
+        "id": 1630578,
+        "nombre": "Jericho Sims"
+      },
+      {
+        "id": 1631157,
+        "nombre": "Ryan Rollins"
+      },
+      {
+        "id": 1631260,
+        "nombre": "A.J. Green"
+      },
+      {
+        "id": 1627752,
+        "nombre": "Taurean Prince"
+      },
+      {
+        "id": 1626192,
+        "nombre": "Pat Connaughton"
+      },
+      {
+        "id": 1641737,
+        "nombre": "Pete Nance"
+      },
+      {
+        "id": 1631123,
+        "nombre": "Jamaree Bouyea"
+      },
+      {
+        "id": 1641738,
+        "nombre": "Chris Livingston"
+      },
+      {
+        "id": 1631103,
+        "nombre": "Andre Jackson Jr."
+      },
+      {
+        "id": 1630539,
+        "nombre": "Stanley Umude"
+      },
+      {
+        "id": 1641739,
+        "nombre": "Tyler Smith"
+      }
     ]
   },
   "NYK": {
     "nombre_completo": "New York Knicks",
     "jugadores": [
-      1628973,
-      1626157,
-      1628969,
-      1628384,
-      1628404,
-      1629011,
-      1630540,
-      1641740,
-      1626166,
-      200782,
-      1626153,
-      1630699,
-      1629013,
-      1641741,
-      1630173,
-      1641817,
-      1642359,
-      1641744
+      {
+        "id": 1628973,
+        "nombre": "Jalen Brunson"
+      },
+      {
+        "id": 1626157,
+        "nombre": "Karl-Anthony Towns"
+      },
+      {
+        "id": 1628969,
+        "nombre": "Mikal Bridges"
+      },
+      {
+        "id": 1628384,
+        "nombre": "OG Anunoby"
+      },
+      {
+        "id": 1628404,
+        "nombre": "Josh Hart"
+      },
+      {
+        "id": 1629011,
+        "nombre": "Mitchell Robinson"
+      },
+      {
+        "id": 1630540,
+        "nombre": "Miles McBride"
+      },
+      {
+        "id": 1641740,
+        "nombre": "Tyler Kolek"
+      },
+      {
+        "id": 1626166,
+        "nombre": "Cameron Payne"
+      },
+      {
+        "id": 200782,
+        "nombre": "P.J. Tucker"
+      },
+      {
+        "id": 1626153,
+        "nombre": "Delon Wright"
+      },
+      {
+        "id": 1630699,
+        "nombre": "MarJon Beauchamp"
+      },
+      {
+        "id": 1629013,
+        "nombre": "Landry Shamet"
+      },
+      {
+        "id": 1641741,
+        "nombre": "Ariel Hukporti"
+      },
+      {
+        "id": 1630173,
+        "nombre": "Precious Achiuwa"
+      },
+      {
+        "id": 1641817,
+        "nombre": "Anton Watson"
+      },
+      {
+        "id": 1642359,
+        "nombre": "Pacôme Dadiet"
+      },
+      {
+        "id": 1641744,
+        "nombre": "Kevin McCullar Jr."
+      }
     ]
   },
   "ORL": {
     "nombre_completo": "Orlando Magic",
     "jugadores": [
-      1641745,
-      1630532,
-      1630591,
-      1630644,
-      1629021,
-      1630175,
-      1641710,
-      1629048,
-      1628371,
-      1641747,
-      203527,
-      203484,
-      1628976,
-      203914,
-      1641748,
-      1631216,
-      1641749,
-      1630249
+      {
+        "id": 1641745,
+        "nombre": "Paolo Banchero"
+      },
+      {
+        "id": 1630532,
+        "nombre": "Franz Wagner"
+      },
+      {
+        "id": 1630591,
+        "nombre": "Jalen Suggs"
+      },
+      {
+        "id": 1630644,
+        "nombre": "Mac McClung"
+      },
+      {
+        "id": 1629021,
+        "nombre": "Moritz Wagner"
+      },
+      {
+        "id": 1630175,
+        "nombre": "Cole Anthony"
+      },
+      {
+        "id": 1641710,
+        "nombre": "Anthony Black"
+      },
+      {
+        "id": 1629048,
+        "nombre": "Goga Bitadze"
+      },
+      {
+        "id": 1628371,
+        "nombre": "Jonathan Isaac"
+      },
+      {
+        "id": 1641747,
+        "nombre": "Tristan da Silva"
+      },
+      {
+        "id": 203527,
+        "nombre": "Cory Joseph"
+      },
+      {
+        "id": 203484,
+        "nombre": "Kentavious Caldwell-Pope"
+      },
+      {
+        "id": 1628976,
+        "nombre": "Wendell Carter Jr."
+      },
+      {
+        "id": 203914,
+        "nombre": "Gary Harris"
+      },
+      {
+        "id": 1641748,
+        "nombre": "Jett Howard"
+      },
+      {
+        "id": 1631216,
+        "nombre": "Caleb Houstan"
+      },
+      {
+        "id": 1641749,
+        "nombre": "Ethan Thompson"
+      },
+      {
+        "id": 1630249,
+        "nombre": "Trevelin Queen"
+      }
     ]
   },
   "PHI": {
     "nombre_completo": "Philadelphia 76ers",
     "jugadores": [
-      203954,
-      202331,
-      1630178,
-      1629656,
-      1642272,
-      1627824,
-      1629022,
-      1642348,
-      1630215,
-      203083,
-      200768,
-      1626162,
-      1641752,
-      1641753,
-      1641754,
-      201569,
-      1641755,
-      1641756
+      {
+        "id": 203954,
+        "nombre": "Joel Embiid"
+      },
+      {
+        "id": 202331,
+        "nombre": "Paul George"
+      },
+      {
+        "id": 1630178,
+        "nombre": "Tyrese Maxey"
+      },
+      {
+        "id": 1629656,
+        "nombre": "Quentin Grimes"
+      },
+      {
+        "id": 1642272,
+        "nombre": "Jared McCain"
+      },
+      {
+        "id": 1627824,
+        "nombre": "Guerschon Yabusele"
+      },
+      {
+        "id": 1629022,
+        "nombre": "Lonnie Walker IV"
+      },
+      {
+        "id": 1642348,
+        "nombre": "Justin Edwards"
+      },
+      {
+        "id": 1630215,
+        "nombre": "Jared Butler"
+      },
+      {
+        "id": 203083,
+        "nombre": "Andre Drummond"
+      },
+      {
+        "id": 200768,
+        "nombre": "Kyle Lowry"
+      },
+      {
+        "id": 1626162,
+        "nombre": "Kelly Oubre Jr."
+      },
+      {
+        "id": 1641752,
+        "nombre": "Adem Bona"
+      },
+      {
+        "id": 1641753,
+        "nombre": "Alex Reese"
+      },
+      {
+        "id": 1641754,
+        "nombre": "Ricky Council IV"
+      },
+      {
+        "id": 201569,
+        "nombre": "Eric Gordon"
+      },
+      {
+        "id": 1641755,
+        "nombre": "Jeff Dowtin"
+      },
+      {
+        "id": 1641756,
+        "nombre": "Jalen Hood-Schifino"
+      }
     ]
   },
   "TOR": {
     "nombre_completo": "Toronto Raptors",
     "jugadores": [
-      1627742,
-      1630567,
-      1641757,
-      1641758,
-      1627751,
-      1630193,
-      1628449,
-      1630658,
-      1641760,
-      1630639,
-      1630534,
-      1631197,
-      1642367,
-      1641763,
-      202066,
-      1641764,
-      1641765
+      {
+        "id": 1627742,
+        "nombre": "Brandon Ingram"
+      },
+      {
+        "id": 1630567,
+        "nombre": "Scottie Barnes"
+      },
+      {
+        "id": 1641757,
+        "nombre": "Rowan Alexander"
+      },
+      {
+        "id": 1641758,
+        "nombre": "Gradey Dick"
+      },
+      {
+        "id": 1627751,
+        "nombre": "Jakob Poeltl"
+      },
+      {
+        "id": 1630193,
+        "nombre": "Immanuel Quickley"
+      },
+      {
+        "id": 1628449,
+        "nombre": "Chris Boucher"
+      },
+      {
+        "id": 1630658,
+        "nombre": "Colin Castleton"
+      },
+      {
+        "id": 1641760,
+        "nombre": "Jamal Shead"
+      },
+      {
+        "id": 1630639,
+        "nombre": "A.J. Lawson"
+      },
+      {
+        "id": 1630534,
+        "nombre": "Ochai Agbaji"
+      },
+      {
+        "id": 1631197,
+        "nombre": "Jared Rhoden"
+      },
+      {
+        "id": 1642367,
+        "nombre": "Jonathan Mogbo"
+      },
+      {
+        "id": 1641763,
+        "nombre": "Jamison Battle"
+      },
+      {
+        "id": 202066,
+        "nombre": "Garrett Temple"
+      },
+      {
+        "id": 1641764,
+        "nombre": "Ulrich Chomche"
+      },
+      {
+        "id": 1641765,
+        "nombre": "Ja'Kobe Walter"
+      }
     ]
   },
   "WAS": {
     "nombre_completo": "Washington Wizards",
     "jugadores": [
-      1630190,
-      1641766,
-      203935,
-      203114,
-      1641767,
-      1642358,
-      1641731,
-      1642273,
-      1630557,
-      1630577,
-      1627763,
-      1641771,
-      1630180,
-      1630550,
-      1641772,
-      1630264,
-      1641773,
-      1626158
+      {
+        "id": 1630190,
+        "nombre": "Jordan Poole"
+      },
+      {
+        "id": 1641766,
+        "nombre": "Alexandre Sarr"
+      },
+      {
+        "id": 203935,
+        "nombre": "Marcus Smart"
+      },
+      {
+        "id": 203114,
+        "nombre": "Khris Middleton"
+      },
+      {
+        "id": 1641767,
+        "nombre": "Bub Carrington"
+      },
+      {
+        "id": 1642358,
+        "nombre": "A.J. Johnson"
+      },
+      {
+        "id": 1641731,
+        "nombre": "Bilal Coulibaly"
+      },
+      {
+        "id": 1642273,
+        "nombre": "Kyshawn George"
+      },
+      {
+        "id": 1630557,
+        "nombre": "Corey Kispert"
+      },
+      {
+        "id": 1630577,
+        "nombre": "Justin Champagnie"
+      },
+      {
+        "id": 1627763,
+        "nombre": "Malcolm Brogdon"
+      },
+      {
+        "id": 1641771,
+        "nombre": "Tristan Vukcevic"
+      },
+      {
+        "id": 1630180,
+        "nombre": "Saddiq Bey"
+      },
+      {
+        "id": 1630550,
+        "nombre": "JT Thor"
+      },
+      {
+        "id": 1641772,
+        "nombre": "Colby Jones"
+      },
+      {
+        "id": 1630264,
+        "nombre": "Anthony Gill"
+      },
+      {
+        "id": 1641773,
+        "nombre": "Jaylen Martin"
+      },
+      {
+        "id": 1626158,
+        "nombre": "Richaun Holmes"
+      }
     ]
   },
   "DAL": {
     "nombre_completo": "Dallas Mavericks",
     "jugadores": [
-      202681,
-      203076,
-      202691,
-      1629023,
-      1631108,
-      1631112,
-      1629655,
-      1630553,
-      1629627,
-      1628997,
-      1630230,
-      203915,
-      203939,
-      1630556,
-      203957,
-      1630702,
-      1630195
+      {
+        "id": 202681,
+        "nombre": "Kyrie Irving"
+      },
+      {
+        "id": 203076,
+        "nombre": "Anthony Davis"
+      },
+      {
+        "id": 202691,
+        "nombre": "Klay Thompson"
+      },
+      {
+        "id": 1629023,
+        "nombre": "P. J. Washington"
+      },
+      {
+        "id": 1631108,
+        "nombre": "Max Christie"
+      },
+      {
+        "id": 1631112,
+        "nombre": "Dereck Lively II"
+      },
+      {
+        "id": 1629655,
+        "nombre": "Daniel Gafford"
+      },
+      {
+        "id": 1630553,
+        "nombre": "Kai Jones"
+      },
+      {
+        "id": 1629627,
+        "nombre": "Brandon Williams"
+      },
+      {
+        "id": 1628997,
+        "nombre": "Caleb Martin"
+      },
+      {
+        "id": 1630230,
+        "nombre": "Naji Marshall"
+      },
+      {
+        "id": 203915,
+        "nombre": "Spencer Dinwiddie"
+      },
+      {
+        "id": 203939,
+        "nombre": "Dwight Powell"
+      },
+      {
+        "id": 1630556,
+        "nombre": "Kessler Edwards"
+      },
+      {
+        "id": 203957,
+        "nombre": "Dante Exum"
+      },
+      {
+        "id": 1630702,
+        "nombre": "Jaden Hardy"
+      },
+      {
+        "id": 1630195,
+        "nombre": "Olivier-Maxence Prosper"
+      }
     ]
   },
   "DEN": {
     "nombre_completo": "Denver Nuggets",
     "jugadores": [
-      203999,
-      201566,
-      203932,
-      1627750,
-      1631128,
-      1629008,
-      1631124,
-      201599,
-      1631212,
-      1630691,
-      203967,
-      1628427,
-      1641790,
-      1630192,
-      1631205,
-      1631098,
-      1641725,
-      1642461
+      {
+        "id": 203999,
+        "nombre": "Nikola Jokić"
+      },
+      {
+        "id": 201566,
+        "nombre": "Russell Westbrook"
+      },
+      {
+        "id": 203932,
+        "nombre": "Aaron Gordon"
+      },
+      {
+        "id": 1627750,
+        "nombre": "Jamal Murray"
+      },
+      {
+        "id": 1631128,
+        "nombre": "Christian Braun"
+      },
+      {
+        "id": 1629008,
+        "nombre": "Michael Porter Jr."
+      },
+      {
+        "id": 1631124,
+        "nombre": "Julian Strawther"
+      },
+      {
+        "id": 201599,
+        "nombre": "DeAndre Jordan"
+      },
+      {
+        "id": 1631212,
+        "nombre": "Peyton Watson"
+      },
+      {
+        "id": 1630691,
+        "nombre": "Jalen Pickett"
+      },
+      {
+        "id": 203967,
+        "nombre": "Dario Šarić"
+      },
+      {
+        "id": 1628427,
+        "nombre": "Vlatko Čančar"
+      },
+      {
+        "id": 1641790,
+        "nombre": "PJ Hall"
+      },
+      {
+        "id": 1630192,
+        "nombre": "Zeke Nnaji"
+      },
+      {
+        "id": 1631205,
+        "nombre": "Hunter Tyson"
+      },
+      {
+        "id": 1631098,
+        "nombre": "DaRon Holmes II"
+      },
+      {
+        "id": 1641725,
+        "nombre": "Trey Alexander"
+      },
+      {
+        "id": 1642461,
+        "nombre": "Spencer Jones"
+      }
     ]
   },
   "GSW": {
     "nombre_completo": "Golden State Warriors",
     "jugadores": [
-      201939,
-      202710,
-      1630228,
-      203110,
-      1631210,
-      1630183,
-      1642366,
-      1630311,
-      1627780,
-      1630541,
-      1631254,
-      1628995,
-      1641705,
-      1641706,
-      1626172,
-      1628962,
-      1631217
+      {
+        "id": 201939,
+        "nombre": "Stephen Curry"
+      },
+      {
+        "id": 202710,
+        "nombre": "Jimmy Butler"
+      },
+      {
+        "id": 1630228,
+        "nombre": "Jonathan Kuminga"
+      },
+      {
+        "id": 203110,
+        "nombre": "Draymond Green"
+      },
+      {
+        "id": 1631210,
+        "nombre": "Brandin Podziemski"
+      },
+      {
+        "id": 1630183,
+        "nombre": "Buddy Hield"
+      },
+      {
+        "id": 1642366,
+        "nombre": "Quinten Post"
+      },
+      {
+        "id": 1630311,
+        "nombre": "Pat Spencer"
+      },
+      {
+        "id": 1627780,
+        "nombre": "Gary Payton II"
+      },
+      {
+        "id": 1630541,
+        "nombre": "Moses Moody"
+      },
+      {
+        "id": 1631254,
+        "nombre": "Gui Santos"
+      },
+      {
+        "id": 1628995,
+        "nombre": "Kevin Knox II"
+      },
+      {
+        "id": 1641705,
+        "nombre": "Jackson Rowe"
+      },
+      {
+        "id": 1641706,
+        "nombre": "Taran Armstrong"
+      },
+      {
+        "id": 1626172,
+        "nombre": "Kevon Looney"
+      },
+      {
+        "id": 1628962,
+        "nombre": "Braxton Key"
+      },
+      {
+        "id": 1631217,
+        "nombre": "Trayce Jackson-Davis"
+      }
     ]
   },
   "HOU": {
     "nombre_completo": "Houston Rockets",
     "jugadores": [
-      1630578,
-      1630582,
-      1641707,
-      203500,
-      1628415,
-      202689,
-      1641708,
-      1631110,
-      1631096,
-      1641709,
-      201145,
-      1628988,
-      1629111,
-      1631173,
-      1641710,
-      1630256,
-      1641711,
-      1641712
+      {
+        "id": 1630578,
+        "nombre": "Alperen Şengün"
+      },
+      {
+        "id": 1630582,
+        "nombre": "Jalen Green"
+      },
+      {
+        "id": 1641707,
+        "nombre": "Amen Thompson"
+      },
+      {
+        "id": 203500,
+        "nombre": "Steven Adams"
+      },
+      {
+        "id": 1628415,
+        "nombre": "Dillon Brooks"
+      },
+      {
+        "id": 202689,
+        "nombre": "Fred VanVleet"
+      },
+      {
+        "id": 1641708,
+        "nombre": "Reed Sheppard"
+      },
+      {
+        "id": 1631110,
+        "nombre": "Tari Eason"
+      },
+      {
+        "id": 1631096,
+        "nombre": "Jabari Smith Jr."
+      },
+      {
+        "id": 1641709,
+        "nombre": "Cam Whitmore"
+      },
+      {
+        "id": 201145,
+        "nombre": "Jeff Green"
+      },
+      {
+        "id": 1628988,
+        "nombre": "Aaron Holiday"
+      },
+      {
+        "id": 1629111,
+        "nombre": "Jock Landale"
+      },
+      {
+        "id": 1631173,
+        "nombre": "David Roddy"
+      },
+      {
+        "id": 1641710,
+        "nombre": "Jeenathan Williams"
+      },
+      {
+        "id": 1630256,
+        "nombre": "Jae'Sean Tate"
+      },
+      {
+        "id": 1641711,
+        "nombre": "N'Faly Dante"
+      },
+      {
+        "id": 1641712,
+        "nombre": "Jack McVeigh"
+      }
     ]
   },
   "LAC": {
     "nombre_completo": "Los Angeles Clippers",
     "jugadores": [
-      202695,
-      201935,
-      1627732,
-      1627826,
-      1626181,
-      203992,
-      1627739,
-      201587,
-      1641713,
-      201988,
-      1629599,
-      1629234,
-      1641738,
-      1627885,
-      1641715,
-      1641716,
-      1641717,
-      1631117
+      {
+        "id": 202695,
+        "nombre": "Kawhi Leonard"
+      },
+      {
+        "id": 201935,
+        "nombre": "James Harden"
+      },
+      {
+        "id": 1627732,
+        "nombre": "Ben Simmons"
+      },
+      {
+        "id": 1627826,
+        "nombre": "Ivica Zubac"
+      },
+      {
+        "id": 1626181,
+        "nombre": "Norman Powell"
+      },
+      {
+        "id": 203992,
+        "nombre": "Bogdan Bogdanović"
+      },
+      {
+        "id": 1627739,
+        "nombre": "Kris Dunn"
+      },
+      {
+        "id": 201587,
+        "nombre": "Nicolas Batum"
+      },
+      {
+        "id": 1641713,
+        "nombre": "Cam Christie"
+      },
+      {
+        "id": 201988,
+        "nombre": "Patty Mills"
+      },
+      {
+        "id": 1629599,
+        "nombre": "Amir Coffey"
+      },
+      {
+        "id": 1629234,
+        "nombre": "Drew Eubanks"
+      },
+      {
+        "id": 1641738,
+        "nombre": "Kobe Brown"
+      },
+      {
+        "id": 1627885,
+        "nombre": "Derrick Jones Jr."
+      },
+      {
+        "id": 1641715,
+        "nombre": "Jordan Miller"
+      },
+      {
+        "id": 1641716,
+        "nombre": "Seth Lundy"
+      },
+      {
+        "id": 1641717,
+        "nombre": "Trentyn Flowers"
+      },
+      {
+        "id": 1631117,
+        "nombre": "Patrick Baldwin Jr."
+      }
     ]
   },
   "LAL": {
     "nombre_completo": "Los Angeles Lakers",
     "jugadores": [
-      2544,
-      1629029,
-      1642355,
-      1629060,
-      1642261,
-      1629637,
-      1630559,
-      203458,
-      1631105,
-      1641998,
-      1629216,
-      202693,
-      1630692,
-      1630181,
-      1628970,
-      1631132,
-      1628467,
-      201950
+      {
+        "id": 2544,
+        "nombre": "LeBron James"
+      },
+      {
+        "id": 1629029,
+        "nombre": "Luka Dončić"
+      },
+      {
+        "id": 1642355,
+        "nombre": "Bronny James"
+      },
+      {
+        "id": 1629060,
+        "nombre": "Rui Hachimura"
+      },
+      {
+        "id": 1642261,
+        "nombre": "Dalton Knecht"
+      },
+      {
+        "id": 1629637,
+        "nombre": "Jaxson Hayes"
+      },
+      {
+        "id": 1630559,
+        "nombre": "Austin Reaves"
+      },
+      {
+        "id": 203458,
+        "nombre": "Alex Len"
+      },
+      {
+        "id": 1631105,
+        "nombre": "Jarred Vanderbilt"
+      },
+      {
+        "id": 1641998,
+        "nombre": "Trey Jennison"
+      },
+      {
+        "id": 1629216,
+        "nombre": "Gabe Vincent"
+      },
+      {
+        "id": 202693,
+        "nombre": "Markieff Morris"
+      },
+      {
+        "id": 1630692,
+        "nombre": "Jordan Goodwin"
+      },
+      {
+        "id": 1630181,
+        "nombre": "Shake Milton"
+      },
+      {
+        "id": 1628970,
+        "nombre": "Dorian Finney-Smith"
+      },
+      {
+        "id": 1631132,
+        "nombre": "Christian Koloko"
+      },
+      {
+        "id": 1628467,
+        "nombre": "Maxi Kleber"
+      },
+      {
+        "id": 201950,
+        "nombre": "Jrue Holiday"
+      }
     ]
   },
   "MEM": {
     "nombre_completo": "Memphis Grizzlies",
     "jugadores": [
-      1629630,
-      1641705,
-      1641706,
-      1630217,
-      1628991,
-      1641707,
-      1630583,
-      1630590,
-      1628379,
-      1641708,
-      1641709,
-      1628963,
-      1629634,
-      1630533,
-      1630271,
-      1641710,
-      1631246,
-      1629723
+      {
+        "id": 1629630,
+        "nombre": "Ja Morant"
+      },
+      {
+        "id": 1641705,
+        "nombre": "Zach Edey"
+      },
+      {
+        "id": 1641706,
+        "nombre": "Yuki Kawamura"
+      },
+      {
+        "id": 1630217,
+        "nombre": "Desmond Bane"
+      },
+      {
+        "id": 1628991,
+        "nombre": "Jaren Jackson Jr."
+      },
+      {
+        "id": 1641707,
+        "nombre": "Jaylen Wells"
+      },
+      {
+        "id": 1630583,
+        "nombre": "Santi Aldama"
+      },
+      {
+        "id": 1630590,
+        "nombre": "Scotty Pippen Jr."
+      },
+      {
+        "id": 1628379,
+        "nombre": "Luke Kennard"
+      },
+      {
+        "id": 1641708,
+        "nombre": "Cam Spencer"
+      },
+      {
+        "id": 1641709,
+        "nombre": "GG Jackson"
+      },
+      {
+        "id": 1628963,
+        "nombre": "Marvin Bagley III"
+      },
+      {
+        "id": 1629634,
+        "nombre": "Brandon Clarke"
+      },
+      {
+        "id": 1630533,
+        "nombre": "Jay Huff"
+      },
+      {
+        "id": 1630271,
+        "nombre": "Lamar Stevens"
+      },
+      {
+        "id": 1641710,
+        "nombre": "Zyon Pullin"
+      },
+      {
+        "id": 1631246,
+        "nombre": "Vince Williams Jr."
+      },
+      {
+        "id": 1629723,
+        "nombre": "John Konchar"
+      }
     ]
   },
   "MIN": {
     "nombre_completo": "Minnesota Timberwolves",
     "jugadores": [
-      1630162,
-      203944,
-      203497,
-      1628978,
-      1630183,
-      1629675,
-      1641711,
-      1630568,
-      1641712,
-      201144,
-      204060,
-      1630538,
-      1641713,
-      1642399,
-      1641715,
-      1631094,
-      1631169,
-      1641716
+      {
+        "id": 1630162,
+        "nombre": "Anthony Edwards"
+      },
+      {
+        "id": 203944,
+        "nombre": "Julius Randle"
+      },
+      {
+        "id": 203497,
+        "nombre": "Rudy Gobert"
+      },
+      {
+        "id": 1628978,
+        "nombre": "Donte DiVincenzo"
+      },
+      {
+        "id": 1630183,
+        "nombre": "Jaden McDaniels"
+      },
+      {
+        "id": 1629675,
+        "nombre": "Naz Reid"
+      },
+      {
+        "id": 1641711,
+        "nombre": "Rob Dillingham"
+      },
+      {
+        "id": 1630568,
+        "nombre": "Luka Garza"
+      },
+      {
+        "id": 1641712,
+        "nombre": "Jaylen Clark"
+      },
+      {
+        "id": 201144,
+        "nombre": "Mike Conley"
+      },
+      {
+        "id": 204060,
+        "nombre": "Joe Ingles"
+      },
+      {
+        "id": 1630538,
+        "nombre": "Bones Hyland"
+      },
+      {
+        "id": 1641713,
+        "nombre": "Terrence Shannon Jr."
+      },
+      {
+        "id": 1642399,
+        "nombre": "Jesse Edwards"
+      },
+      {
+        "id": 1641715,
+        "nombre": "Tristen Newton"
+      },
+      {
+        "id": 1631094,
+        "nombre": "Nickeil Alexander-Walker"
+      },
+      {
+        "id": 1631169,
+        "nombre": "Josh Minott"
+      },
+      {
+        "id": 1641716,
+        "nombre": "Leonard Miller"
+      }
     ]
   },
   "NOP": {
     "nombre_completo": "New Orleans Pelicans",
     "jugadores": [
-      1629627,
-      1630530,
-      203468,
-      1630631,
-      1627749,
-      1641717,
-      203482,
-      1630529,
-      1641718,
-      1628971,
-      1641722,
-      1641720,
-      1641721,
-      203901,
-      1641722,
-      1630527,
-      1641723,
-      1630526
+      {
+        "id": 1629627,
+        "nombre": "Zion Williamson"
+      },
+      {
+        "id": 1630530,
+        "nombre": "Trey Murphy III"
+      },
+      {
+        "id": 203468,
+        "nombre": "CJ McCollum"
+      },
+      {
+        "id": 1630631,
+        "nombre": "Jose Alvarado"
+      },
+      {
+        "id": 1627749,
+        "nombre": "Dejounte Murray"
+      },
+      {
+        "id": 1641717,
+        "nombre": "Yves Missi"
+      },
+      {
+        "id": 203482,
+        "nombre": "Kelly Olynyk"
+      },
+      {
+        "id": 1630529,
+        "nombre": "Herbert Jones"
+      },
+      {
+        "id": 1641718,
+        "nombre": "Karlo Matković"
+      },
+      {
+        "id": 1628971,
+        "nombre": "Bruce Brown"
+      },
+      {
+        "id": 1641722,
+        "nombre": "Jordan Hawkins"
+      },
+      {
+        "id": 1641720,
+        "nombre": "Antonio Reeves"
+      },
+      {
+        "id": 1641721,
+        "nombre": "Lester Quiñones"
+      },
+      {
+        "id": 203901,
+        "nombre": "Elfrid Payton"
+      },
+      {
+        "id": 1641722,
+        "nombre": "Jamal Cain"
+      },
+      {
+        "id": 1630527,
+        "nombre": "Brandon Boston Jr."
+      },
+      {
+        "id": 1641723,
+        "nombre": "Kelon Brooks"
+      },
+      {
+        "id": 1630526,
+        "nombre": "Jeremiah Robinson-Earl"
+      }
     ]
   },
   "OKC": {
     "nombre_completo": "Oklahoma City Thunder",
     "jugadores": [
-      1628983,
-      1631114,
-      1641724,
-      1628392,
-      1631119,
-      1627936,
-      1630598,
-      1629652,
-      1641725,
-      1630198,
-      1641726,
-      1641727,
-      1630322,
-      1642349,
-      1631172,
-      1641729,
-      1641730,
-      1641731
+      {
+        "id": 1628983,
+        "nombre": "Shai Gilgeous-Alexander"
+      },
+      {
+        "id": 1631114,
+        "nombre": "Jalen Williams"
+      },
+      {
+        "id": 1641724,
+        "nombre": "Chet Holmgren"
+      },
+      {
+        "id": 1628392,
+        "nombre": "Isaiah Hartenstein"
+      },
+      {
+        "id": 1631119,
+        "nombre": "Jaylin Williams"
+      },
+      {
+        "id": 1627936,
+        "nombre": "Alex Caruso"
+      },
+      {
+        "id": 1630598,
+        "nombre": "Aaron Wiggins"
+      },
+      {
+        "id": 1629652,
+        "nombre": "Luguentz Dort"
+      },
+      {
+        "id": 1641725,
+        "nombre": "Cason Wallace"
+      },
+      {
+        "id": 1630198,
+        "nombre": "Isaiah Joe"
+      },
+      {
+        "id": 1641726,
+        "nombre": "Nikola Topić"
+      },
+      {
+        "id": 1641727,
+        "nombre": "Branden Carlson"
+      },
+      {
+        "id": 1630322,
+        "nombre": "Kenrich Williams"
+      },
+      {
+        "id": 1642349,
+        "nombre": "Ajay Mitchell"
+      },
+      {
+        "id": 1631172,
+        "nombre": "Ousmane Dieng"
+      },
+      {
+        "id": 1641729,
+        "nombre": "Alex Ducas"
+      },
+      {
+        "id": 1641730,
+        "nombre": "Dillon Jones"
+      },
+      {
+        "id": 1641731,
+        "nombre": "Adam Flagler"
+      }
     ]
   },
   "PHX": {
     "nombre_completo": "Phoenix Suns",
     "jugadores": [
-      201142,
-      1626164,
-      203078,
-      1629626,
-      1628960,
-      1641732,
-      1630208,
-      1626185,
-      1626145,
-      203486,
-      1641733,
-      1641734,
-      203995,
-      203530,
-      202721,
-      1641735,
-      1626220,
-      1631102
+      {
+        "id": 201142,
+        "nombre": "Kevin Durant"
+      },
+      {
+        "id": 1626164,
+        "nombre": "Devin Booker"
+      },
+      {
+        "id": 203078,
+        "nombre": "Bradley Beal"
+      },
+      {
+        "id": 1629626,
+        "nombre": "Bol Bol"
+      },
+      {
+        "id": 1628960,
+        "nombre": "Grayson Allen"
+      },
+      {
+        "id": 1641732,
+        "nombre": "Collin Gillespie"
+      },
+      {
+        "id": 1630208,
+        "nombre": "Nick Richards"
+      },
+      {
+        "id": 1626185,
+        "nombre": "Cody Martin"
+      },
+      {
+        "id": 1626145,
+        "nombre": "Tyus Jones"
+      },
+      {
+        "id": 203486,
+        "nombre": "Mason Plumlee"
+      },
+      {
+        "id": 1641733,
+        "nombre": "Oso Ighodaro"
+      },
+      {
+        "id": 1641734,
+        "nombre": "Ryan Dunn"
+      },
+      {
+        "id": 203995,
+        "nombre": "Vasilije Micić"
+      },
+      {
+        "id": 203530,
+        "nombre": "Damion Lee"
+      },
+      {
+        "id": 202721,
+        "nombre": "Monte Morris"
+      },
+      {
+        "id": 1641735,
+        "nombre": "Jalen Bridges"
+      },
+      {
+        "id": 1626220,
+        "nombre": "Royce O'Neale"
+      },
+      {
+        "id": 1631102,
+        "nombre": "TyTy Washington"
+      }
     ]
   },
   "POR": {
     "nombre_completo": "Portland Trail Blazers",
     "jugadores": [
-      1630166,
-      1629014,
-      1641736,
-      1631113,
-      1631101,
-      1641737,
-      1629028,
-      203924,
-      1629680,
-      1629057,
-      1630625,
-      1641738,
-      1629019,
-      1631133,
-      1641739,
-      1631303,
-      1641740,
-      1631121
+      {
+        "id": 1630166,
+        "nombre": "Deni Avdija"
+      },
+      {
+        "id": 1629014,
+        "nombre": "Anfernee Simons"
+      },
+      {
+        "id": 1641736,
+        "nombre": "Donovan Clingan"
+      },
+      {
+        "id": 1631113,
+        "nombre": "Scoot Henderson"
+      },
+      {
+        "id": 1631101,
+        "nombre": "Shaedon Sharpe"
+      },
+      {
+        "id": 1641737,
+        "nombre": "Toumani Camara"
+      },
+      {
+        "id": 1629028,
+        "nombre": "Deandre Ayton"
+      },
+      {
+        "id": 203924,
+        "nombre": "Jerami Grant"
+      },
+      {
+        "id": 1629680,
+        "nombre": "Matisse Thybulle"
+      },
+      {
+        "id": 1629057,
+        "nombre": "Robert Williams"
+      },
+      {
+        "id": 1630625,
+        "nombre": "Dalano Banton"
+      },
+      {
+        "id": 1641738,
+        "nombre": "Kris Murray"
+      },
+      {
+        "id": 1629019,
+        "nombre": "Duop Reath"
+      },
+      {
+        "id": 1631133,
+        "nombre": "Jabari Walker"
+      },
+      {
+        "id": 1641739,
+        "nombre": "Sidy Cissoko"
+      },
+      {
+        "id": 1631303,
+        "nombre": "Justin Minaya"
+      },
+      {
+        "id": 1641740,
+        "nombre": "Rayan Rupert"
+      },
+      {
+        "id": 1631121,
+        "nombre": "Bryce McGowens"
+      }
     ]
   },
   "SAC": {
     "nombre_completo": "Sacramento Kings",
     "jugadores": [
-      203107,
-      201942,
-      203897,
-      1628370,
-      202685,
-      1631099,
-      1628365,
-      1631165,
-      1641741,
-      1631222,
-      203109,
-      203926,
-      1626168,
-      1629056,
-      1642403,
-      1642384,
-      1630222
+      {
+        "id": 203107,
+        "nombre": "Domantas Sabonis"
+      },
+      {
+        "id": 201942,
+        "nombre": "DeMar DeRozan"
+      },
+      {
+        "id": 203897,
+        "nombre": "Zach LaVine"
+      },
+      {
+        "id": 1628370,
+        "nombre": "Malik Monk"
+      },
+      {
+        "id": 202685,
+        "nombre": "Jonas Valančiūnas"
+      },
+      {
+        "id": 1631099,
+        "nombre": "Keegan Murray"
+      },
+      {
+        "id": 1628365,
+        "nombre": "Markelle Fultz"
+      },
+      {
+        "id": 1631165,
+        "nombre": "Keon Ellis"
+      },
+      {
+        "id": 1641741,
+        "nombre": "Devin Carter"
+      },
+      {
+        "id": 1631222,
+        "nombre": "Jake LaRavia"
+      },
+      {
+        "id": 203109,
+        "nombre": "Jae Crowder"
+      },
+      {
+        "id": 203926,
+        "nombre": "Doug McDermott"
+      },
+      {
+        "id": 1626168,
+        "nombre": "Trey Lyles"
+      },
+      {
+        "id": 1629056,
+        "nombre": "Terence Davis"
+      },
+      {
+        "id": 1642403,
+        "nombre": "Isaac Jones"
+      },
+      {
+        "id": 1642384,
+        "nombre": "Isaiah Crawford"
+      },
+      {
+        "id": 1630222,
+        "nombre": "Mason Jones"
+      }
     ]
   },
   "SAS": {
     "nombre_completo": "San Antonio Spurs",
     "jugadores": [
-      1641744,
-      1641745,
-      101108,
-      1631110,
-      1630170,
-      1630572,
-      1628368,
-      1629640,
-      203084,
-      202687,
-      1630577,
-      1629646,
-      1642434,
-      1631103,
-      1631104,
-      1641747,
-      1629162,
-      1630561
+      {
+        "id": 1641744,
+        "nombre": "Victor Wembanyama"
+      },
+      {
+        "id": 1641745,
+        "nombre": "Stephon Castle"
+      },
+      {
+        "id": 101108,
+        "nombre": "Chris Paul"
+      },
+      {
+        "id": 1631110,
+        "nombre": "Jeremy Sochan"
+      },
+      {
+        "id": 1630170,
+        "nombre": "Devin Vassell"
+      },
+      {
+        "id": 1630572,
+        "nombre": "Sandro Mamukelashvili"
+      },
+      {
+        "id": 1628368,
+        "nombre": "De'Aaron Fox"
+      },
+      {
+        "id": 1629640,
+        "nombre": "Keldon Johnson"
+      },
+      {
+        "id": 203084,
+        "nombre": "Harrison Barnes"
+      },
+      {
+        "id": 202687,
+        "nombre": "Bismack Biyombo"
+      },
+      {
+        "id": 1630577,
+        "nombre": "Julian Champagnie"
+      },
+      {
+        "id": 1629646,
+        "nombre": "Charles Bassey"
+      },
+      {
+        "id": 1642434,
+        "nombre": "Riley Minix"
+      },
+      {
+        "id": 1631103,
+        "nombre": "Malaki Branham"
+      },
+      {
+        "id": 1631104,
+        "nombre": "Blake Wesley"
+      },
+      {
+        "id": 1641747,
+        "nombre": "Harrison Ingram"
+      },
+      {
+        "id": 1629162,
+        "nombre": "Jordan McLaughlin"
+      },
+      {
+        "id": 1630561,
+        "nombre": "David Duke Jr."
+      }
     ]
   },
   "UTA": {
     "nombre_completo": "Utah Jazz",
     "jugadores": [
-      1628378,
-      203903,
-      1631117,
-      1629012,
-      1641748,
-      1641749,
-      1641710,
-      1641709,
-      201960,
-      1630538,
-      1629004,
-      1630531,
-      1641752,
-      1641753,
-      1641754,
-      1630231,
-      1641755,
-      1630695
+      {
+        "id": 1628378,
+        "nombre": "Lauri Markkanen"
+      },
+      {
+        "id": 203903,
+        "nombre": "Jordan Clarkson"
+      },
+      {
+        "id": 1631117,
+        "nombre": "Walker Kessler"
+      },
+      {
+        "id": 1629012,
+        "nombre": "Collin Sexton"
+      },
+      {
+        "id": 1641748,
+        "nombre": "Kyle Filipowski"
+      },
+      {
+        "id": 1641749,
+        "nombre": "Keyonte George"
+      },
+      {
+        "id": 1641710,
+        "nombre": "Isaiah Collier"
+      },
+      {
+        "id": 1641709,
+        "nombre": "Cody Williams"
+      },
+      {
+        "id": 201960,
+        "nombre": "John Collins"
+      },
+      {
+        "id": 1630538,
+        "nombre": "Johnny Juzang"
+      },
+      {
+        "id": 1629004,
+        "nombre": "Sviatoslav Mykhailiuk"
+      },
+      {
+        "id": 1630531,
+        "nombre": "Jaden Springer"
+      },
+      {
+        "id": 1641752,
+        "nombre": "Brice Sensabaugh"
+      },
+      {
+        "id": 1641753,
+        "nombre": "Taylor Hendricks"
+      },
+      {
+        "id": 1641754,
+        "nombre": "Oscar Tshiebwe"
+      },
+      {
+        "id": 1630231,
+        "nombre": "Kenyon Martin Jr."
+      },
+      {
+        "id": 1641755,
+        "nombre": "Elijah Harkless"
+      },
+      {
+        "id": 1630695,
+        "nombre": "Micah Potter"
+      }
     ]
   }
 }
