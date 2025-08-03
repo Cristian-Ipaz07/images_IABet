@@ -1,18 +1,10 @@
 [
   {
     "id": 201950,
-    "nombre": "Jrue Holiday",
-    "dorsal": 4,
-    "posicion": "Base",
-    "equipo": "LAL",
-    "novato": false
+    "equipo": "LAL"
   },
   {
     "id": 999999,
-    "nombre": "Juan Rookie",
-    "dorsal": 99,
-    "posicion": "Alero",
-    "equipo": "BOS",
-    "novato": true
+    "equipo": "BOS"
   }
 ]

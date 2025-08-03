@@ -2,3361 +2,686 @@
   "BOS": {
     "nombre_completo": "Boston Celtics",
     "jugadores": [
-      {
-        "id": 1628369,
-        "nombre": "Jayson Tatum",
-        "dorsal": 0,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1627759,
-        "nombre": "Jaylen Brown",
-        "dorsal": 7,
-        "posicion": "Alero"
-      },
-      {
-        "id": 204001,
-        "nombre": "Kristaps Porzingis",
-        "dorsal": 8,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628401,
-        "nombre": "Derrick White",
-        "dorsal": 4,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630202,
-        "nombre": "Payton Pritchard",
-        "dorsal": 11,
-        "posicion": "Base"
-      },
-      {
-        "id": 201143,
-        "nombre": "Al Horford",
-        "dorsal": 42,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628436,
-        "nombre": "Luke Kornet",
-        "dorsal": 40,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631248,
-        "nombre": "Baylor Scheierman",
-        "dorsal": 15,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631104,
-        "nombre": "Jordan Walsh",
-        "dorsal": 27,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630573,
-        "nombre": "Sam Hauser",
-        "dorsal": 30,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628470,
-        "nombre": "Torrey Craig",
-        "dorsal": 13,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631123,
-        "nombre": "JD Davison",
-        "dorsal": 20,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641936,
-        "nombre": "Miles Norris",
-        "dorsal": 21,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629667,
-        "nombre": "Neemias Queta",
-        "dorsal": 88,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630214,
-        "nombre": "Xavier Tillman",
-        "dorsal": 26,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631210,
-        "nombre": "Drew Peterson",
-        "dorsal": 25,
-        "posicion": "Alero"
-      },
-      {
-        "id": 999999,
-        "nombre": "Juan Rookie",
-        "dorsal": 99,
-        "posicion": "Alero"
-      }
+      1628369,
+      1627759,
+      204001,
+      1628401,
+      1630202,
+      201143,
+      1628436,
+      1631248,
+      1631104,
+      1630573,
+      1628470,
+      1631123,
+      1641936,
+      1629667,
+      1630214,
+      1631210,
+      999999
     ]
   },
   "BKN": {
     "nombre_completo": "Brooklyn Nets",
     "jugadores": [
-      {
-        "id": 1629661,
-        "nombre": "Cameron Johnson",
-        "dorsal": 2,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630560,
-        "nombre": "Cam Thomas",
-        "dorsal": 24,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629651,
-        "nombre": "Nicolas Claxton",
-        "dorsal": 33,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631219,
-        "nombre": "Drew Timme",
-        "dorsal": 12,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630553,
-        "nombre": "Keon Johnson",
-        "dorsal": 45,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626156,
-        "nombre": "D'Angelo Russell",
-        "dorsal": 1,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630533,
-        "nombre": "Ziaire Williams",
-        "dorsal": 8,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630231,
-        "nombre": "Tyrese Martin",
-        "dorsal": 22,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630592,
-        "nombre": "Jalen Wilson",
-        "dorsal": 10,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630610,
-        "nombre": "Trendon Watford",
-        "dorsal": 9,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631214,
-        "nombre": "Noah Clowney",
-        "dorsal": 21,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641787,
-        "nombre": "Tosan Evbuomwan",
-        "dorsal": 14,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631241,
-        "nombre": "Maxwell Lewis",
-        "dorsal": 23,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641727,
-        "nombre": "Dariq Whitehead",
-        "dorsal": 3,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631106,
-        "nombre": "Tyson Etienne",
-        "dorsal": 5,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641736,
-        "nombre": "Reece Beekman",
-        "dorsal": 15,
-        "posicion": "Base"
-      },
-      {
-        "id": 1631101,
-        "nombre": "Day'Ron Sharpe",
-        "dorsal": 20,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1629001,
-        "nombre": "De'Anthony Melton",
-        "dorsal": 4,
-        "posicion": "Base"
-      }
+      1629661,
+      1630560,
+      1629651,
+      1631219,
+      1630553,
+      1626156,
+      1630533,
+      1630231,
+      1630592,
+      1630610,
+      1631214,
+      1641787,
+      1631241,
+      1641727,
+      1631106,
+      1641736,
+      1631101,
+      1629001
     ]
   },
   "CHA": {
     "nombre_completo": "Charlotte Hornets",
     "jugadores": [
-      {
-        "id": 1630163,
-        "nombre": "LaMelo Ball",
-        "dorsal": 1,
-        "posicion": "Base"
-      },
-      {
-        "id": 1628964,
-        "nombre": "Miles Bridges",
-        "dorsal": 0,
-        "posicion": "Alero"
-      },
-      {
-        "id": 203552,
-        "nombre": "Seth Curry",
-        "dorsal": 30,
-        "posicion": "Base"
-      },
-      {
-        "id": 1631109,
-        "nombre": "Mark Williams",
-        "dorsal": 5,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631217,
-        "nombre": "Brandon Miller",
-        "dorsal": 24,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626204,
-        "nombre": "Jusuf Nurkic",
-        "dorsal": 27,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630544,
-        "nombre": "Tre Mann",
-        "dorsal": 23,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630188,
-        "nombre": "Josh Green",
-        "dorsal": 8,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631223,
-        "nombre": "Tidjane Salaun",
-        "dorsal": 17,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629684,
-        "nombre": "Grant Williams",
-        "dorsal": 12,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642354,
-        "nombre": "KJ Simpson",
-        "dorsal": 2,
-        "posicion": "Base"
-      },
-      {
-        "id": 1627832,
-        "nombre": "Taj Gibson",
-        "dorsal": 67,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631098,
-        "nombre": "Moussa Diabaté",
-        "dorsal": 25,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1641733,
-        "nombre": "Nick Smith Jr.",
-        "dorsal": 7,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631243,
-        "nombre": "DaQuan Jeffries",
-        "dorsal": 10,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631231,
-        "nombre": "Damion Baugh",
-        "dorsal": 3,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1629006,
-        "nombre": "Josh Okogie",
-        "dorsal": 9,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631111,
-        "nombre": "Wendell Moore Jr.",
-        "dorsal": 6,
-        "posicion": "Alero"
-      }
+      1630163,
+      1628964,
+      203552,
+      1631109,
+      1631217,
+      1626204,
+      1630544,
+      1630188,
+      1631223,
+      1629684,
+      1642354,
+      1627832,
+      1631098,
+      1641733,
+      1631243,
+      1631231,
+      1629006,
+      1631111
     ]
   },
   "ATL": {
     "nombre_completo": "Atlanta Hawks",
     "jugadores": [
-      {
-        "id": 1629027,
-        "nombre": "Trae Young",
-        "dorsal": 11,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641715,
-        "nombre": "Kobe Bufkin",
-        "dorsal": 4,
-        "posicion": "Base"
-      },
-      {
-        "id": 1629611,
-        "nombre": "Terance Mann",
-        "dorsal": 14,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631110,
-        "nombre": "Dominick Barlow",
-        "dorsal": 26,
-        "posicion": "Ala-Pívot"
-      },
-      {
-        "id": 1630169,
-        "nombre": "Onyeka Okongwu",
-        "dorsal": 17,
-        "posicion": "Pívot"
-      },
-      {
-        "id": 1630547,
-        "nombre": "Dyson Daniels",
-        "dorsal": 11,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631342,
-        "nombre": "Daeqwon Plowden",
-        "dorsal": 24,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641716,
-        "nombre": "Zaccharie Risacher",
-        "dorsal": 10,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641717,
-        "nombre": "Mouhamed Gueye",
-        "dorsal": 19,
-        "posicion": "Ala-Pívot"
-      },
-      {
-        "id": 1630688,
-        "nombre": "Vit Krejci",
-        "dorsal": 27,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631093,
-        "nombre": "Jalen Johnson",
-        "dorsal": 1,
-        "posicion": "Alero"
-      },
-      {
-        "id": 203512,
-        "nombre": "Georges Niang",
-        "dorsal": 20,
-        "posicion": "Ala-Pívot"
-      },
-      {
-        "id": 203991,
-        "nombre": "Clint Capela",
-        "dorsal": 15,
-        "posicion": "Pívot"
-      },
-      {
-        "id": 1627747,
-        "nombre": "Caris LeVert",
-        "dorsal": 3,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641718,
-        "nombre": "Jacob Toppin",
-        "dorsal": 21,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630322,
-        "nombre": "Keaton Wallace",
-        "dorsal": 8,
-        "posicion": "Base"
-      },
-      {
-        "id": 1629726,
-        "nombre": "Garrison Mathews",
-        "dorsal": 25,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1626204,
-        "nombre": "Larry Nance Jr.",
-        "dorsal": 22,
-        "posicion": "Ala-Pívot"
-      }
+      1629027,
+      1641715,
+      1629611,
+      1631110,
+      1630169,
+      1630547,
+      1631342,
+      1641716,
+      1641717,
+      1630688,
+      1631093,
+      203512,
+      203991,
+      1627747,
+      1641718,
+      1630322,
+      1629726,
+      1626204
     ]
   },
   "CHI": {
     "nombre_completo": "Chicago Bulls",
     "jugadores": [
-      {
-        "id": 1630581,
-        "nombre": "Josh Giddey",
-        "dorsal": 3,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641725,
-        "nombre": "Matas Buzelis",
-        "dorsal": 50,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629632,
-        "nombre": "Coby White",
-        "dorsal": 0,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630163,
-        "nombre": "Lonzo Ball",
-        "dorsal": 2,
-        "posicion": "Base"
-      },
-      {
-        "id": 202696,
-        "nombre": "Nikola Vučević",
-        "dorsal": 9,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1628989,
-        "nombre": "Kevin Huerter",
-        "dorsal": 7,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630245,
-        "nombre": "Ayo Dosunmu",
-        "dorsal": 12,
-        "posicion": "Base"
-      },
-      {
-        "id": 1628381,
-        "nombre": "Zach Collins",
-        "dorsal": 23,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630172,
-        "nombre": "Patrick Williams",
-        "dorsal": 44,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630200,
-        "nombre": "Tre Jones",
-        "dorsal": 33,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630188,
-        "nombre": "Jalen Smith",
-        "dorsal": 25,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631207,
-        "nombre": "Dalen Terry",
-        "dorsal": 20,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628975,
-        "nombre": "Jevon Carter",
-        "dorsal": 5,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641732,
-        "nombre": "Jahmir Young",
-        "dorsal": 1,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641763,
-        "nombre": "Julian Phillips",
-        "dorsal": 15,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641801,
-        "nombre": "Emanuel Miller",
-        "dorsal": 18,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630604,
-        "nombre": "E.J. Liddell",
-        "dorsal": 32,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629659,
-        "nombre": "Talen Horton-Tucker",
-        "dorsal": 6,
-        "posicion": "Alero"
-      }
+      1630581,
+      1641725,
+      1629632,
+      1630163,
+      202696,
+      1628989,
+      1630245,
+      1628381,
+      1630172,
+      1630200,
+      1630188,
+      1631207,
+      1628975,
+      1641732,
+      1641763,
+      1641801,
+      1630604,
+      1629659
     ]
   },
   "CLE": {
     "nombre_completo": "Cleveland Cavaliers",
     "jugadores": [
-      {
-        "id": 1628378,
-        "nombre": "Donovan Mitchell",
-        "dorsal": 45,
-        "posicion": "Base"
-      },
-      {
-        "id": 1629636,
-        "nombre": "Darius Garland",
-        "dorsal": 10,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630596,
-        "nombre": "Evan Mobley",
-        "dorsal": 4,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629660,
-        "nombre": "Ty Jerome",
-        "dorsal": 2,
-        "posicion": "Base"
-      },
-      {
-        "id": 1628386,
-        "nombre": "Jarrett Allen",
-        "dorsal": 31,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1641721,
-        "nombre": "Max Strus",
-        "dorsal": 1,
-        "posicion": "Alero"
-      },
-      {
-        "id": 202684,
-        "nombre": "Tristan Thompson",
-        "dorsal": 13,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629750,
-        "nombre": "Javonte Green",
-        "dorsal": 24,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629731,
-        "nombre": "Dean Wade",
-        "dorsal": 32,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630241,
-        "nombre": "Sam Merrill",
-        "dorsal": 5,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641734,
-        "nombre": "Emoni Bates",
-        "dorsal": 21,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630171,
-        "nombre": "Isaac Okoro",
-        "dorsal": 35,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629631,
-        "nombre": "De'Andre Hunter",
-        "dorsal": 12,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631216,
-        "nombre": "Luke Travers",
-        "dorsal": 15,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641723,
-        "nombre": "Jaylon Tyson",
-        "dorsal": 8,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629646,
-        "nombre": "Chuma Okeke",
-        "dorsal": 30,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641730,
-        "nombre": "Craig Porter Jr.",
-        "dorsal": 9,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641729,
-        "nombre": "Nae'Qwan Tomlin",
-        "dorsal": 22,
-        "posicion": "Ala-pivot"
-      }
+      1628378,
+      1629636,
+      1630596,
+      1629660,
+      1628386,
+      1641721,
+      202684,
+      1629750,
+      1629731,
+      1630241,
+      1641734,
+      1630171,
+      1629631,
+      1631216,
+      1641723,
+      1629646,
+      1641730,
+      1641729
     ]
   },
   "DET": {
     "nombre_completo": "Detroit Pistons",
     "jugadores": [
-      {
-        "id": 1630595,
-        "nombre": "Cade Cunningham",
-        "dorsal": 2,
-        "posicion": "Base"
-      },
-      {
-        "id": 1631098,
-        "nombre": "Jalen Duren",
-        "dorsal": 0,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641713,
-        "nombre": "Ausar Thompson",
-        "dorsal": 9,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1627736,
-        "nombre": "Malik Beasley",
-        "dorsal": 5,
-        "posicion": "Alero"
-      },
-      {
-        "id": 203471,
-        "nombre": "Dennis Schröder",
-        "dorsal": 17,
-        "posicion": "Base"
-      },
-      {
-        "id": 1631093,
-        "nombre": "Jaden Ivey",
-        "dorsal": 23,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630191,
-        "nombre": "Isaiah Stewart",
-        "dorsal": 28,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 202699,
-        "nombre": "Tobias Harris",
-        "dorsal": 12,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641720,
-        "nombre": "Ron Holland",
-        "dorsal": 7,
-        "posicion": "Alero"
-      },
-      {
-        "id": 203501,
-        "nombre": "Tim Hardaway Jr.",
-        "dorsal": 10,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631212,
-        "nombre": "Lindy Waters III",
-        "dorsal": 21,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631323,
-        "nombre": "Simone Fontecchio",
-        "dorsal": 18,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631207,
-        "nombre": "Marcus Sasser",
-        "dorsal": 25,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630194,
-        "nombre": "Paul Reed",
-        "dorsal": 44,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641727,
-        "nombre": "Bobi Klintman",
-        "dorsal": 33,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641731,
-        "nombre": "Tolu Smith",
-        "dorsal": 14,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641724,
-        "nombre": "Daniss Jenkins",
-        "dorsal": 3,
-        "posicion": "Base"
-      },
-      {
-        "id": 1631221,
-        "nombre": "Ron Harper Jr.",
-        "dorsal": 19,
-        "posicion": "Alero"
-      }
+      1630595,
+      1631098,
+      1641713,
+      1627736,
+      203471,
+      1631093,
+      1630191,
+      202699,
+      1641720,
+      203501,
+      1631212,
+      1631323,
+      1631207,
+      1630194,
+      1641727,
+      1641731,
+      1641724,
+      1631221
     ]
   },
   "IND": {
     "nombre_completo": "Indiana Pacers",
     "jugadores": [
-      {
-        "id": 1630169,
-        "nombre": "Tyrese Haliburton",
-        "dorsal": 0,
-        "posicion": "Base"
-      },
-      {
-        "id": 202683,
-        "nombre": "Pascal Siakam",
-        "dorsal": 43,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1626167,
-        "nombre": "Myles Turner",
-        "dorsal": 33,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630194,
-        "nombre": "Andrew Nembhard",
-        "dorsal": 2,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630174,
-        "nombre": "Aaron Nesmith",
-        "dorsal": 23,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631097,
-        "nombre": "Bennedict Mathurin",
-        "dorsal": "00",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630167,
-        "nombre": "Obi Toppin",
-        "dorsal": 1,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 201949,
-        "nombre": "James Johnson",
-        "dorsal": 16,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641722,
-        "nombre": "Johnny Furphy",
-        "dorsal": 11,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628418,
-        "nombre": "Thomas Bryant",
-        "dorsal": 31,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 204456,
-        "nombre": "T.J. McConnell",
-        "dorsal": 9,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641712,
-        "nombre": "Ben Sheppard",
-        "dorsal": 26,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641711,
-        "nombre": "Jarace Walker",
-        "dorsal": 8,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630543,
-        "nombre": "Isaiah Jackson",
-        "dorsal": 22,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628467,
-        "nombre": "Tony Bradley",
-        "dorsal": 13,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631288,
-        "nombre": "Quenton Jackson",
-        "dorsal": 5,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641733,
-        "nombre": "RayJ Dennis",
-        "dorsal": 4,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641726,
-        "nombre": "Enrique Freeman",
-        "dorsal": 17,
-        "posicion": "Ala-pivot"
-      }
+      1630169,
+      202683,
+      1626167,
+      1630194,
+      1630174,
+      1631097,
+      1630167,
+      201949,
+      1641722,
+      1628418,
+      204456,
+      1641712,
+      1641711,
+      1630543,
+      1628467,
+      1631288,
+      1641733,
+      1641726
     ]
   },
   "MIA": {
     "nombre_completo": "Miami Heat",
     "jugadores": [
-      {
-        "id": 1629639,
-        "nombre": "Tyler Herro",
-        "dorsal": 14,
-        "posicion": "Base"
-      },
-      {
-        "id": 1628389,
-        "nombre": "Bam Adebayo",
-        "dorsal": 13,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 203952,
-        "nombre": "Andrew Wiggins",
-        "dorsal": 22,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630558,
-        "nombre": "Davion Mitchell",
-        "dorsal": 15,
-        "posicion": "Base"
-      },
-      {
-        "id": 1631107,
-        "nombre": "Nikola Jović",
-        "dorsal": 5,
-        "posicion": "Alero"
-      },
-      {
-        "id": 201567,
-        "nombre": "Kevin Love",
-        "dorsal": 42,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629130,
-        "nombre": "Duncan Robinson",
-        "dorsal": 55,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626179,
-        "nombre": "Terry Rozier",
-        "dorsal": 2,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641710,
-        "nombre": "Pelle Larsson",
-        "dorsal": 25,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641709,
-        "nombre": "Jaime Jaquez Jr.",
-        "dorsal": 11,
-        "posicion": "Alero"
-      },
-      {
-        "id": 203937,
-        "nombre": "Kyle Anderson",
-        "dorsal": 1,
-        "posicion": "Alero"
-      },
-      {
-        "id": 202692,
-        "nombre": "Alec Burks",
-        "dorsal": 10,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641734,
-        "nombre": "Kel'el Ware",
-        "dorsal": 21,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1629312,
-        "nombre": "Haywood Highsmith",
-        "dorsal": 24,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630528,
-        "nombre": "Josh Christopher",
-        "dorsal": 9,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641735,
-        "nombre": "Keshad Johnson",
-        "dorsal": 3,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641736,
-        "nombre": "Isaiah Stevens",
-        "dorsal": 7,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630696,
-        "nombre": "Dru Smith",
-        "dorsal": 8,
-        "posicion": "Escolta"
-      }
+      1629639,
+      1628389,
+      203952,
+      1630558,
+      1631107,
+      201567,
+      1629130,
+      1626179,
+      1641710,
+      1641709,
+      203937,
+      202692,
+      1641734,
+      1629312,
+      1630528,
+      1641735,
+      1641736,
+      1630696
     ]
   },
   "MIL": {
     "nombre_completo": "Milwaukee Bucks",
     "jugadores": [
-      {
-        "id": 203507,
-        "nombre": "Giannis Antetokounmpo",
-        "dorsal": 34,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 203081,
-        "nombre": "Damian Lillard",
-        "dorsal": 0,
-        "posicion": "Base"
-      },
-      {
-        "id": 1628398,
-        "nombre": "Kyle Kuzma",
-        "dorsal": 33,
-        "posicion": "Alero"
-      },
-      {
-        "id": 201572,
-        "nombre": "Brook Lopez",
-        "dorsal": 11,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1626171,
-        "nombre": "Bobby Portis",
-        "dorsal": 9,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631131,
-        "nombre": "Kevin Porter Jr.",
-        "dorsal": 3,
-        "posicion": "Base"
-      },
-      {
-        "id": 1629018,
-        "nombre": "Gary Trent Jr.",
-        "dorsal": 2,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630578,
-        "nombre": "Jericho Sims",
-        "dorsal": 20,
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631157,
-        "nombre": "Ryan Rollins",
-        "dorsal": 5,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631260,
-        "nombre": "A.J. Green",
-        "dorsal": 22,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1627752,
-        "nombre": "Taurean Prince",
-        "dorsal": 12,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626192,
-        "nombre": "Pat Connaughton",
-        "dorsal": 24,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641737,
-        "nombre": "Pete Nance",
-        "dorsal": 21,
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631123,
-        "nombre": "Jamaree Bouyea",
-        "dorsal": 25,
-        "posicion": "Base"
-      },
-      {
-        "id": 1641738,
-        "nombre": "Chris Livingston",
-        "dorsal": 7,
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631103,
-        "nombre": "Andre Jackson Jr.",
-        "dorsal": 44,
-        "posicion": "Base"
-      },
-      {
-        "id": 1630539,
-        "nombre": "Stanley Umude",
-        "dorsal": 10,
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641739,
-        "nombre": "Tyler Smith",
-        "dorsal": 15,
-        "posicion": "Ala-pivot"
-      }
+      203507,
+      203081,
+      1628398,
+      201572,
+      1626171,
+      1631131,
+      1629018,
+      1630578,
+      1631157,
+      1631260,
+      1627752,
+      1626192,
+      1641737,
+      1631123,
+      1641738,
+      1631103,
+      1630539,
+      1641739
     ]
   },
   "NYK": {
     "nombre_completo": "New York Knicks",
     "jugadores": [
-      {
-        "id": 1628973,
-        "nombre": "Jalen Brunson",
-        "dorsal": "11",
-        "posicion": "Base"
-      },
-      {
-        "id": 1626157,
-        "nombre": "Karl-Anthony Towns",
-        "dorsal": "32",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628969,
-        "nombre": "Mikal Bridges",
-        "dorsal": "1",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628384,
-        "nombre": "OG Anunoby",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628404,
-        "nombre": "Josh Hart",
-        "dorsal": "3",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629011,
-        "nombre": "Mitchell Robinson",
-        "dorsal": "23",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630540,
-        "nombre": "Miles McBride",
-        "dorsal": "2",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641740,
-        "nombre": "Tyler Kolek",
-        "dorsal": "4",
-        "posicion": "Base"
-      },
-      {
-        "id": 1626166,
-        "nombre": "Cameron Payne",
-        "dorsal": "15",
-        "posicion": "Base"
-      },
-      {
-        "id": 200782,
-        "nombre": "P.J. Tucker",
-        "dorsal": "17",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1626153,
-        "nombre": "Delon Wright",
-        "dorsal": "55",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630699,
-        "nombre": "MarJon Beauchamp",
-        "dorsal": "5",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629013,
-        "nombre": "Landry Shamet",
-        "dorsal": "14",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641741,
-        "nombre": "Ariel Hukporti",
-        "dorsal": "28",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630173,
-        "nombre": "Precious Achiuwa",
-        "dorsal": "21",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641817,
-        "nombre": "Anton Watson",
-        "dorsal": "20",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642359,
-        "nombre": "Pacôme Dadiet",
-        "dorsal": "7",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641744,
-        "nombre": "Kevin McCullar Jr.",
-        "dorsal": "9",
-        "posicion": "Alero"
-      }
+      1628973,
+      1626157,
+      1628969,
+      1628384,
+      1628404,
+      1629011,
+      1630540,
+      1641740,
+      1626166,
+      200782,
+      1626153,
+      1630699,
+      1629013,
+      1641741,
+      1630173,
+      1641817,
+      1642359,
+      1641744
     ]
   },
   "ORL": {
     "nombre_completo": "Orlando Magic",
     "jugadores": [
-      {
-        "id": 1641745,
-        "nombre": "Paolo Banchero",
-        "dorsal": "5",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630532,
-        "nombre": "Franz Wagner",
-        "dorsal": "22",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630591,
-        "nombre": "Jalen Suggs",
-        "dorsal": "4",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630644,
-        "nombre": "Mac McClung",
-        "dorsal": "9",
-        "posicion": "Base"
-      },
-      {
-        "id": 1629021,
-        "nombre": "Moritz Wagner",
-        "dorsal": "21",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630175,
-        "nombre": "Cole Anthony",
-        "dorsal": "50",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641710,
-        "nombre": "Anthony Black",
-        "dorsal": "0",
-        "posicion": "Base"
-      },
-      {
-        "id": 1629048,
-        "nombre": "Goga Bitadze",
-        "dorsal": "35",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1628371,
-        "nombre": "Jonathan Isaac",
-        "dorsal": "1",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641747,
-        "nombre": "Tristan da Silva",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203527,
-        "nombre": "Cory Joseph",
-        "dorsal": "6",
-        "posicion": "Base"
-      },
-      {
-        "id": 203484,
-        "nombre": "Kentavious Caldwell-Pope",
-        "dorsal": "12",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628976,
-        "nombre": "Wendell Carter Jr.",
-        "dorsal": "34",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 203914,
-        "nombre": "Gary Harris",
-        "dorsal": "14",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641748,
-        "nombre": "Jett Howard",
-        "dorsal": "13",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631216,
-        "nombre": "Caleb Houstan",
-        "dorsal": "2",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641749,
-        "nombre": "Ethan Thompson",
-        "dorsal": "8",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1630249,
-        "nombre": "Trevelin Queen",
-        "dorsal": "3",
-        "posicion": "Base"
-      }
+      1641745,
+      1630532,
+      1630591,
+      1630644,
+      1629021,
+      1630175,
+      1641710,
+      1629048,
+      1628371,
+      1641747,
+      203527,
+      203484,
+      1628976,
+      203914,
+      1641748,
+      1631216,
+      1641749,
+      1630249
     ]
   },
   "PHI": {
     "nombre_completo": "Philadelphia 76ers",
     "jugadores": [
-      {
-        "id": 203954,
-        "nombre": "Joel Embiid",
-        "dorsal": "21",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 202331,
-        "nombre": "Paul George",
-        "dorsal": "13",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630178,
-        "nombre": "Tyrese Maxey",
-        "dorsal": "0",
-        "posicion": "Base"
-      },
-      {
-        "id": 1629656,
-        "nombre": "Quentin Grimes",
-        "dorsal": "5",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642272,
-        "nombre": "Jared McCain",
-        "dorsal": "3",
-        "posicion": "Base"
-      },
-      {
-        "id": 1627824,
-        "nombre": "Guerschon Yabusele",
-        "dorsal": "28",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629022,
-        "nombre": "Lonnie Walker IV",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642348,
-        "nombre": "Justin Edwards",
-        "dorsal": "1",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630215,
-        "nombre": "Jared Butler",
-        "dorsal": "12",
-        "posicion": "Base"
-      },
-      {
-        "id": 203083,
-        "nombre": "Andre Drummond",
-        "dorsal": "9",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 200768,
-        "nombre": "Kyle Lowry",
-        "dorsal": "7",
-        "posicion": "Base"
-      },
-      {
-        "id": 1626162,
-        "nombre": "Kelly Oubre Jr.",
-        "dorsal": "23",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641752,
-        "nombre": "Adem Bona",
-        "dorsal": "20",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641753,
-        "nombre": "Alex Reese",
-        "dorsal": "15",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641754,
-        "nombre": "Ricky Council IV",
-        "dorsal": "10",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 201569,
-        "nombre": "Eric Gordon",
-        "dorsal": "14",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641755,
-        "nombre": "Jeff Dowtin",
-        "dorsal": "6",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641756,
-        "nombre": "Jalen Hood-Schifino",
-        "dorsal": "4",
-        "posicion": "Escolta"
-      }
+      203954,
+      202331,
+      1630178,
+      1629656,
+      1642272,
+      1627824,
+      1629022,
+      1642348,
+      1630215,
+      203083,
+      200768,
+      1626162,
+      1641752,
+      1641753,
+      1641754,
+      201569,
+      1641755,
+      1641756
     ]
   },
   "TOR": {
     "nombre_completo": "Toronto Raptors",
     "jugadores": [
-      {
-        "id": 1627742,
-        "nombre": "Brandon Ingram",
-        "dorsal": "14",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630567,
-        "nombre": "Scottie Barnes",
-        "dorsal": "4",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641757,
-        "nombre": "Rowan Alexander",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641758,
-        "nombre": "Gradey Dick",
-        "dorsal": "1",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1627751,
-        "nombre": "Jakob Poeltl",
-        "dorsal": "19",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630193,
-        "nombre": "Immanuel Quickley",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1628449,
-        "nombre": "Chris Boucher",
-        "dorsal": "25",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630658,
-        "nombre": "Colin Castleton",
-        "dorsal": "12",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1641760,
-        "nombre": "Jamal Shead",
-        "dorsal": "2",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630639,
-        "nombre": "A.J. Lawson",
-        "dorsal": "9",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1630534,
-        "nombre": "Ochai Agbaji",
-        "dorsal": "30",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631197,
-        "nombre": "Jared Rhoden",
-        "dorsal": "13",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1642367,
-        "nombre": "Jonathan Mogbo",
-        "dorsal": "15",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641763,
-        "nombre": "Jamison Battle",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 202066,
-        "nombre": "Garrett Temple",
-        "dorsal": "17",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641764,
-        "nombre": "Ulrich Chomche",
-        "dorsal": "21",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641765,
-        "nombre": "Ja'Kobe Walter",
-        "dorsal": "3",
-        "posicion": "Escolta"
-      }
+      1627742,
+      1630567,
+      1641757,
+      1641758,
+      1627751,
+      1630193,
+      1628449,
+      1630658,
+      1641760,
+      1630639,
+      1630534,
+      1631197,
+      1642367,
+      1641763,
+      202066,
+      1641764,
+      1641765
     ]
   },
   "WAS": {
     "nombre_completo": "Washington Wizards",
     "jugadores": [
-      {
-        "id": 1630190,
-        "nombre": "Jordan Poole",
-        "dorsal": "13",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641766,
-        "nombre": "Alexandre Sarr",
-        "dorsal": "20",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 203935,
-        "nombre": "Marcus Smart",
-        "dorsal": "36",
-        "posicion": "Base"
-      },
-      {
-        "id": 203114,
-        "nombre": "Khris Middleton",
-        "dorsal": "22",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641767,
-        "nombre": "Bub Carrington",
-        "dorsal": "4",
-        "posicion": "Base"
-      },
-      {
-        "id": 1642358,
-        "nombre": "A.J. Johnson",
-        "dorsal": "1",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641731,
-        "nombre": "Bilal Coulibaly",
-        "dorsal": "0",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642273,
-        "nombre": "Kyshawn George",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630557,
-        "nombre": "Corey Kispert",
-        "dorsal": "24",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630577,
-        "nombre": "Justin Champagnie",
-        "dorsal": "11",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1627763,
-        "nombre": "Malcolm Brogdon",
-        "dorsal": "12",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641771,
-        "nombre": "Tristan Vukcevic",
-        "dorsal": "21",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630180,
-        "nombre": "Saddiq Bey",
-        "dorsal": "41",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630550,
-        "nombre": "JT Thor",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641772,
-        "nombre": "Colby Jones",
-        "dorsal": "5",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1630264,
-        "nombre": "Anthony Gill",
-        "dorsal": "16",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641773,
-        "nombre": "Jaylen Martin",
-        "dorsal": "9",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626158,
-        "nombre": "Richaun Holmes",
-        "dorsal": "22",
-        "posicion": "Ala-pivot"
-      }
+      1630190,
+      1641766,
+      203935,
+      203114,
+      1641767,
+      1642358,
+      1641731,
+      1642273,
+      1630557,
+      1630577,
+      1627763,
+      1641771,
+      1630180,
+      1630550,
+      1641772,
+      1630264,
+      1641773,
+      1626158
     ]
   },
   "DAL": {
     "nombre_completo": "Dallas Mavericks",
     "jugadores": [
-      {
-        "id": 202681,
-        "nombre": "Kyrie Irving",
-        "dorsal": "11",
-        "posicion": "Base"
-      },
-      {
-        "id": 203076,
-        "nombre": "Anthony Davis",
-        "dorsal": "3",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 202691,
-        "nombre": "Klay Thompson",
-        "dorsal": "11",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629023,
-        "nombre": "P. J. Washington",
-        "dorsal": "25",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631108,
-        "nombre": "Max Christie",
-        "dorsal": "10",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631112,
-        "nombre": "Dereck Lively II",
-        "dorsal": "2",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629655,
-        "nombre": "Daniel Gafford",
-        "dorsal": "21",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630553,
-        "nombre": "Kai Jones",
-        "dorsal": "23",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629627,
-        "nombre": "Brandon Williams",
-        "dorsal": "33",
-        "posicion": "Base"
-      },
-      {
-        "id": 1628997,
-        "nombre": "Caleb Martin",
-        "dorsal": "16",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630230,
-        "nombre": "Naji Marshall",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203915,
-        "nombre": "Spencer Dinwiddie",
-        "dorsal": "26",
-        "posicion": "Base"
-      },
-      {
-        "id": 203939,
-        "nombre": "Dwight Powell",
-        "dorsal": "7",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630556,
-        "nombre": "Kessler Edwards",
-        "dorsal": "14",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203957,
-        "nombre": "Dante Exum",
-        "dorsal": "5",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630702,
-        "nombre": "Jaden Hardy",
-        "dorsal": "1",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630195,
-        "nombre": "Olivier-Maxence Prosper",
-        "dorsal": "18",
-        "posicion": "Ala-pivot"
-      }
+      202681,
+      203076,
+      202691,
+      1629023,
+      1631108,
+      1631112,
+      1629655,
+      1630553,
+      1629627,
+      1628997,
+      1630230,
+      203915,
+      203939,
+      1630556,
+      203957,
+      1630702,
+      1630195
     ]
   },
   "DEN": {
     "nombre_completo": "Denver Nuggets",
     "jugadores": [
-      {
-        "id": 203999,
-        "nombre": "Nikola Jokić",
-        "dorsal": "15",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 201566,
-        "nombre": "Russell Westbrook",
-        "dorsal": "0",
-        "posicion": "Base"
-      },
-      {
-        "id": 203932,
-        "nombre": "Aaron Gordon",
-        "dorsal": "50",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1627750,
-        "nombre": "Jamal Murray",
-        "dorsal": "27",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631128,
-        "nombre": "Christian Braun",
-        "dorsal": "0",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629008,
-        "nombre": "Michael Porter Jr.",
-        "dorsal": "1",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631124,
-        "nombre": "Julian Strawther",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 201599,
-        "nombre": "DeAndre Jordan",
-        "dorsal": "6",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631212,
-        "nombre": "Peyton Watson",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630691,
-        "nombre": "Jalen Pickett",
-        "dorsal": "24",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203967,
-        "nombre": "Dario Šarić",
-        "dorsal": "20",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628427,
-        "nombre": "Vlatko Čančar",
-        "dorsal": "31",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641790,
-        "nombre": "PJ Hall",
-        "dorsal": "28",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630192,
-        "nombre": "Zeke Nnaji",
-        "dorsal": "22",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631205,
-        "nombre": "Hunter Tyson",
-        "dorsal": "9",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631098,
-        "nombre": "DaRon Holmes II",
-        "dorsal": "4",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641725,
-        "nombre": "Trey Alexander",
-        "dorsal": "12",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1642461,
-        "nombre": "Spencer Jones",
-        "dorsal": "17",
-        "posicion": "Alero"
-      }
+      203999,
+      201566,
+      203932,
+      1627750,
+      1631128,
+      1629008,
+      1631124,
+      201599,
+      1631212,
+      1630691,
+      203967,
+      1628427,
+      1641790,
+      1630192,
+      1631205,
+      1631098,
+      1641725,
+      1642461
     ]
   },
   "GSW": {
     "nombre_completo": "Golden State Warriors",
     "jugadores": [
-      {
-        "id": 201939,
-        "nombre": "Stephen Curry",
-        "dorsal": "30",
-        "posicion": "Base"
-      },
-      {
-        "id": 202710,
-        "nombre": "Jimmy Butler",
-        "dorsal": "22",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630228,
-        "nombre": "Jonathan Kuminga",
-        "dorsal": "00",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 203110,
-        "nombre": "Draymond Green",
-        "dorsal": "23",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1631210,
-        "nombre": "Brandin Podziemski",
-        "dorsal": "2",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1630183,
-        "nombre": "Buddy Hield",
-        "dorsal": "24",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642366,
-        "nombre": "Quinten Post",
-        "dorsal": "44",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630311,
-        "nombre": "Pat Spencer",
-        "dorsal": "15",
-        "posicion": "Base"
-      },
-      {
-        "id": 1627780,
-        "nombre": "Gary Payton II",
-        "dorsal": "8",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630541,
-        "nombre": "Moses Moody",
-        "dorsal": "4",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631254,
-        "nombre": "Gui Santos",
-        "dorsal": "16",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628995,
-        "nombre": "Kevin Knox II",
-        "dorsal": "20",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641705,
-        "nombre": "Jackson Rowe",
-        "dorsal": "33",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641706,
-        "nombre": "Taran Armstrong",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1626172,
-        "nombre": "Kevon Looney",
-        "dorsal": "5",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628962,
-        "nombre": "Braxton Key",
-        "dorsal": "12",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631217,
-        "nombre": "Trayce Jackson-Davis",
-        "dorsal": "32",
-        "posicion": "Ala-pivot"
-      }
+      201939,
+      202710,
+      1630228,
+      203110,
+      1631210,
+      1630183,
+      1642366,
+      1630311,
+      1627780,
+      1630541,
+      1631254,
+      1628995,
+      1641705,
+      1641706,
+      1626172,
+      1628962,
+      1631217
     ]
   },
   "HOU": {
     "nombre_completo": "Houston Rockets",
     "jugadores": [
-      {
-        "id": 1630578,
-        "nombre": "Alperen Şengün",
-        "dorsal": "28",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630582,
-        "nombre": "Jalen Green",
-        "dorsal": "4",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641707,
-        "nombre": "Amen Thompson",
-        "dorsal": "1",
-        "posicion": "Base"
-      },
-      {
-        "id": 203500,
-        "nombre": "Steven Adams",
-        "dorsal": "12",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1628415,
-        "nombre": "Dillon Brooks",
-        "dorsal": "9",
-        "posicion": "Alero"
-      },
-      {
-        "id": 202689,
-        "nombre": "Fred VanVleet",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641708,
-        "nombre": "Reed Sheppard",
-        "dorsal": "15",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631110,
-        "nombre": "Tari Eason",
-        "dorsal": "17",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631096,
-        "nombre": "Jabari Smith Jr.",
-        "dorsal": "10",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641709,
-        "nombre": "Cam Whitmore",
-        "dorsal": "7",
-        "posicion": "Alero"
-      },
-      {
-        "id": 201145,
-        "nombre": "Jeff Green",
-        "dorsal": "32",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628988,
-        "nombre": "Aaron Holiday",
-        "dorsal": "0",
-        "posicion": "Base"
-      },
-      {
-        "id": 1629111,
-        "nombre": "Jock Landale",
-        "dorsal": "2",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631173,
-        "nombre": "David Roddy",
-        "dorsal": "21",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641710,
-        "nombre": "Jeenathan Williams",
-        "dorsal": "24",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1630256,
-        "nombre": "Jae'Sean Tate",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641711,
-        "nombre": "N'Faly Dante",
-        "dorsal": "14",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1641712,
-        "nombre": "Jack McVeigh",
-        "dorsal": "19",
-        "posicion": "Ala-pivot"
-      }
+      1630578,
+      1630582,
+      1641707,
+      203500,
+      1628415,
+      202689,
+      1641708,
+      1631110,
+      1631096,
+      1641709,
+      201145,
+      1628988,
+      1629111,
+      1631173,
+      1641710,
+      1630256,
+      1641711,
+      1641712
     ]
   },
   "LAC": {
     "nombre_completo": "Los Angeles Clippers",
     "jugadores": [
-      {
-        "id": 202695,
-        "nombre": "Kawhi Leonard",
-        "dorsal": "2",
-        "posicion": "Alero"
-      },
-      {
-        "id": 201935,
-        "nombre": "James Harden",
-        "dorsal": "1",
-        "posicion": "Base"
-      },
-      {
-        "id": 1627732,
-        "nombre": "Ben Simmons",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1627826,
-        "nombre": "Ivica Zubac",
-        "dorsal": "40",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1626181,
-        "nombre": "Norman Powell",
-        "dorsal": "24",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203992,
-        "nombre": "Bogdan Bogdanović",
-        "dorsal": "13",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1627739,
-        "nombre": "Kris Dunn",
-        "dorsal": "11",
-        "posicion": "Base"
-      },
-      {
-        "id": 201587,
-        "nombre": "Nicolas Batum",
-        "dorsal": "33",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641713,
-        "nombre": "Cam Christie",
-        "dorsal": "3",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 201988,
-        "nombre": "Patty Mills",
-        "dorsal": "8",
-        "posicion": "Base"
-      },
-      {
-        "id": 1629599,
-        "nombre": "Amir Coffey",
-        "dorsal": "7",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629234,
-        "nombre": "Drew Eubanks",
-        "dorsal": "14",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641738,
-        "nombre": "Kobe Brown",
-        "dorsal": "21",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1627885,
-        "nombre": "Derrick Jones Jr.",
-        "dorsal": "5",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641715,
-        "nombre": "Jordan Miller",
-        "dorsal": "6",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641716,
-        "nombre": "Seth Lundy",
-        "dorsal": "20",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641717,
-        "nombre": "Trentyn Flowers",
-        "dorsal": "12",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631117,
-        "nombre": "Patrick Baldwin Jr.",
-        "dorsal": "17",
-        "posicion": "Alero"
-      }
+      202695,
+      201935,
+      1627732,
+      1627826,
+      1626181,
+      203992,
+      1627739,
+      201587,
+      1641713,
+      201988,
+      1629599,
+      1629234,
+      1641738,
+      1627885,
+      1641715,
+      1641716,
+      1641717,
+      1631117
     ]
   },
   "LAL": {
     "nombre_completo": "Los Angeles Lakers",
     "jugadores": [
-      {
-        "id": 2544,
-        "nombre": "LeBron James",
-        "dorsal": "23",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629029,
-        "nombre": "Luka Dončić",
-        "dorsal": "77",
-        "posicion": "Base"
-      },
-      {
-        "id": 1642355,
-        "nombre": "Bronny James",
-        "dorsal": "9",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1629060,
-        "nombre": "Rui Hachimura",
-        "dorsal": "28",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642261,
-        "nombre": "Dalton Knecht",
-        "dorsal": "12",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629637,
-        "nombre": "Jaxson Hayes",
-        "dorsal": "11",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630559,
-        "nombre": "Austin Reaves",
-        "dorsal": "15",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203458,
-        "nombre": "Alex Len",
-        "dorsal": "25",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631105,
-        "nombre": "Jarred Vanderbilt",
-        "dorsal": "2",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641998,
-        "nombre": "Trey Jennison",
-        "dorsal": "21",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1629216,
-        "nombre": "Gabe Vincent",
-        "dorsal": "7",
-        "posicion": "Base"
-      },
-      {
-        "id": 202693,
-        "nombre": "Markieff Morris",
-        "dorsal": "88",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630692,
-        "nombre": "Jordan Goodwin",
-        "dorsal": "30",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630181,
-        "nombre": "Shake Milton",
-        "dorsal": "18",
-        "posicion": "Base"
-      },
-      {
-        "id": 1628970,
-        "nombre": "Dorian Finney-Smith",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631132,
-        "nombre": "Christian Koloko",
-        "dorsal": "13",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1628467,
-        "nombre": "Maxi Kleber",
-        "dorsal": "14",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 201950,
-        "nombre": "Jrue Holiday",
-        "dorsal": 4,
-        "posicion": "Base"
-      }
+      2544,
+      1629029,
+      1642355,
+      1629060,
+      1642261,
+      1629637,
+      1630559,
+      203458,
+      1631105,
+      1641998,
+      1629216,
+      202693,
+      1630692,
+      1630181,
+      1628970,
+      1631132,
+      1628467,
+      201950
     ]
   },
   "MEM": {
     "nombre_completo": "Memphis Grizzlies",
     "jugadores": [
-      {
-        "id": 1629630,
-        "nombre": "Ja Morant",
-        "dorsal": "12",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641705,
-        "nombre": "Zach Edey",
-        "dorsal": "55",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1641706,
-        "nombre": "Yuki Kawamura",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630217,
-        "nombre": "Desmond Bane",
-        "dorsal": "22",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628991,
-        "nombre": "Jaren Jackson Jr.",
-        "dorsal": "13",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641707,
-        "nombre": "Jaylen Wells",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630583,
-        "nombre": "Santi Aldama",
-        "dorsal": "7",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630590,
-        "nombre": "Scotty Pippen Jr.",
-        "dorsal": "1",
-        "posicion": "Base"
-      },
-      {
-        "id": 1628379,
-        "nombre": "Luke Kennard",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641708,
-        "nombre": "Cam Spencer",
-        "dorsal": "20",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641709,
-        "nombre": "GG Jackson",
-        "dorsal": "45",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628963,
-        "nombre": "Marvin Bagley III",
-        "dorsal": "35",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629634,
-        "nombre": "Brandon Clarke",
-        "dorsal": "15",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630533,
-        "nombre": "Jay Huff",
-        "dorsal": "30",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630271,
-        "nombre": "Lamar Stevens",
-        "dorsal": "3",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641710,
-        "nombre": "Zyon Pullin",
-        "dorsal": "4",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631246,
-        "nombre": "Vince Williams Jr.",
-        "dorsal": "24",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629723,
-        "nombre": "John Konchar",
-        "dorsal": "46",
-        "posicion": "Alero"
-      }
+      1629630,
+      1641705,
+      1641706,
+      1630217,
+      1628991,
+      1641707,
+      1630583,
+      1630590,
+      1628379,
+      1641708,
+      1641709,
+      1628963,
+      1629634,
+      1630533,
+      1630271,
+      1641710,
+      1631246,
+      1629723
     ]
   },
   "MIN": {
     "nombre_completo": "Minnesota Timberwolves",
     "jugadores": [
-      {
-        "id": 1630162,
-        "nombre": "Anthony Edwards",
-        "dorsal": "5",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203944,
-        "nombre": "Julius Randle",
-        "dorsal": "30",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 203497,
-        "nombre": "Rudy Gobert",
-        "dorsal": "27",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1628978,
-        "nombre": "Donte DiVincenzo",
-        "dorsal": "0",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630183,
-        "nombre": "Jaden McDaniels",
-        "dorsal": "3",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629675,
-        "nombre": "Naz Reid",
-        "dorsal": "11",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1641711,
-        "nombre": "Rob Dillingham",
-        "dorsal": "4",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630568,
-        "nombre": "Luka Garza",
-        "dorsal": "55",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641712,
-        "nombre": "Jaylen Clark",
-        "dorsal": "6",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 201144,
-        "nombre": "Mike Conley",
-        "dorsal": "10",
-        "posicion": "Base"
-      },
-      {
-        "id": 204060,
-        "nombre": "Joe Ingles",
-        "dorsal": "7",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630538,
-        "nombre": "Bones Hyland",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641713,
-        "nombre": "Terrence Shannon Jr.",
-        "dorsal": "25",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1642399,
-        "nombre": "Jesse Edwards",
-        "dorsal": "14",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1641715,
-        "nombre": "Tristen Newton",
-        "dorsal": "12",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631094,
-        "nombre": "Nickeil Alexander-Walker",
-        "dorsal": "9",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631169,
-        "nombre": "Josh Minott",
-        "dorsal": "8",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641716,
-        "nombre": "Leonard Miller",
-        "dorsal": "33",
-        "posicion": "Alero"
-      }
+      1630162,
+      203944,
+      203497,
+      1628978,
+      1630183,
+      1629675,
+      1641711,
+      1630568,
+      1641712,
+      201144,
+      204060,
+      1630538,
+      1641713,
+      1642399,
+      1641715,
+      1631094,
+      1631169,
+      1641716
     ]
   },
   "NOP": {
     "nombre_completo": "New Orleans Pelicans",
     "jugadores": [
-      {
-        "id": 1629627,
-        "nombre": "Zion Williamson",
-        "dorsal": "1",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630530,
-        "nombre": "Trey Murphy III",
-        "dorsal": "25",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203468,
-        "nombre": "CJ McCollum",
-        "dorsal": "3",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630631,
-        "nombre": "Jose Alvarado",
-        "dorsal": "15",
-        "posicion": "Base"
-      },
-      {
-        "id": 1627749,
-        "nombre": "Dejounte Murray",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641717,
-        "nombre": "Yves Missi",
-        "dorsal": "21",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 203482,
-        "nombre": "Kelly Olynyk",
-        "dorsal": "41",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630529,
-        "nombre": "Herbert Jones",
-        "dorsal": "5",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641718,
-        "nombre": "Karlo Matković",
-        "dorsal": "33",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628971,
-        "nombre": "Bruce Brown",
-        "dorsal": "11",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641722,
-        "nombre": "Jordan Hawkins",
-        "dorsal": "24",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641720,
-        "nombre": "Antonio Reeves",
-        "dorsal": "15",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641721,
-        "nombre": "Lester Quiñones",
-        "dorsal": "25",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 203901,
-        "nombre": "Elfrid Payton",
-        "dorsal": "4",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641722,
-        "nombre": "Jamal Cain",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630527,
-        "nombre": "Brandon Boston Jr.",
-        "dorsal": "4",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641723,
-        "nombre": "Kelon Brooks",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630526,
-        "nombre": "Jeremiah Robinson-Earl",
-        "dorsal": "50",
-        "posicion": "Ala-pivot"
-      }
+      1629627,
+      1630530,
+      203468,
+      1630631,
+      1627749,
+      1641717,
+      203482,
+      1630529,
+      1641718,
+      1628971,
+      1641722,
+      1641720,
+      1641721,
+      203901,
+      1641722,
+      1630527,
+      1641723,
+      1630526
     ]
   },
   "OKC": {
     "nombre_completo": "Oklahoma City Thunder",
     "jugadores": [
-      {
-        "id": 1628983,
-        "nombre": "Shai Gilgeous-Alexander",
-        "dorsal": "2",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631114,
-        "nombre": "Jalen Williams",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641724,
-        "nombre": "Chet Holmgren",
-        "dorsal": "7",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628392,
-        "nombre": "Isaiah Hartenstein",
-        "dorsal": "55",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631119,
-        "nombre": "Jaylin Williams",
-        "dorsal": "6",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1627936,
-        "nombre": "Alex Caruso",
-        "dorsal": "6",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630598,
-        "nombre": "Aaron Wiggins",
-        "dorsal": "21",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629652,
-        "nombre": "Luguentz Dort",
-        "dorsal": "5",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641725,
-        "nombre": "Cason Wallace",
-        "dorsal": "22",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630198,
-        "nombre": "Isaiah Joe",
-        "dorsal": "11",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641726,
-        "nombre": "Nikola Topić",
-        "dorsal": "13",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641727,
-        "nombre": "Branden Carlson",
-        "dorsal": "30",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630322,
-        "nombre": "Kenrich Williams",
-        "dorsal": "34",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642349,
-        "nombre": "Ajay Mitchell",
-        "dorsal": "25",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631172,
-        "nombre": "Ousmane Dieng",
-        "dorsal": "13",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641729,
-        "nombre": "Alex Ducas",
-        "dorsal": "3",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641730,
-        "nombre": "Dillon Jones",
-        "dorsal": "16",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641731,
-        "nombre": "Adam Flagler",
-        "dorsal": "9",
-        "posicion": "Base"
-      }
+      1628983,
+      1631114,
+      1641724,
+      1628392,
+      1631119,
+      1627936,
+      1630598,
+      1629652,
+      1641725,
+      1630198,
+      1641726,
+      1641727,
+      1630322,
+      1642349,
+      1631172,
+      1641729,
+      1641730,
+      1641731
     ]
   },
   "PHX": {
     "nombre_completo": "Phoenix Suns",
     "jugadores": [
-      {
-        "id": 201142,
-        "nombre": "Kevin Durant",
-        "dorsal": "35",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626164,
-        "nombre": "Devin Booker",
-        "dorsal": "1",
-        "posicion": "Base"
-      },
-      {
-        "id": 203078,
-        "nombre": "Bradley Beal",
-        "dorsal": "3",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1629626,
-        "nombre": "Bol Bol",
-        "dorsal": "11",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628960,
-        "nombre": "Grayson Allen",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641732,
-        "nombre": "Collin Gillespie",
-        "dorsal": "21",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630208,
-        "nombre": "Nick Richards",
-        "dorsal": "4",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1626185,
-        "nombre": "Cody Martin",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626145,
-        "nombre": "Tyus Jones",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 203486,
-        "nombre": "Mason Plumlee",
-        "dorsal": "24",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1641733,
-        "nombre": "Oso Ighodaro",
-        "dorsal": "18",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641734,
-        "nombre": "Ryan Dunn",
-        "dorsal": "17",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203995,
-        "nombre": "Vasilije Micić",
-        "dorsal": "22",
-        "posicion": "Base"
-      },
-      {
-        "id": 203530,
-        "nombre": "Damion Lee",
-        "dorsal": "10",
-        "posicion": "Alero"
-      },
-      {
-        "id": 202721,
-        "nombre": "Monte Morris",
-        "dorsal": "7",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641735,
-        "nombre": "Jalen Bridges",
-        "dorsal": "13",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626220,
-        "nombre": "Royce O'Neale",
-        "dorsal": "23",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631102,
-        "nombre": "TyTy Washington",
-        "dorsal": "12",
-        "posicion": "Base"
-      }
+      201142,
+      1626164,
+      203078,
+      1629626,
+      1628960,
+      1641732,
+      1630208,
+      1626185,
+      1626145,
+      203486,
+      1641733,
+      1641734,
+      203995,
+      203530,
+      202721,
+      1641735,
+      1626220,
+      1631102
     ]
   },
   "POR": {
     "nombre_completo": "Portland Trail Blazers",
     "jugadores": [
-      {
-        "id": 1630166,
-        "nombre": "Deni Avdija",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629014,
-        "nombre": "Anfernee Simons",
-        "dorsal": "1",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641736,
-        "nombre": "Donovan Clingan",
-        "dorsal": "32",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631113,
-        "nombre": "Scoot Henderson",
-        "dorsal": "00",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631101,
-        "nombre": "Shaedon Sharpe",
-        "dorsal": "17",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641737,
-        "nombre": "Toumani Camara",
-        "dorsal": "33",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629028,
-        "nombre": "Deandre Ayton",
-        "dorsal": "2",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 203924,
-        "nombre": "Jerami Grant",
-        "dorsal": "9",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629680,
-        "nombre": "Matisse Thybulle",
-        "dorsal": "4",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629057,
-        "nombre": "Robert Williams",
-        "dorsal": "35",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630625,
-        "nombre": "Dalano Banton",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641738,
-        "nombre": "Kris Murray",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629019,
-        "nombre": "Duop Reath",
-        "dorsal": "26",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631133,
-        "nombre": "Jabari Walker",
-        "dorsal": "34",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641739,
-        "nombre": "Sidy Cissoko",
-        "dorsal": "25",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631303,
-        "nombre": "Justin Minaya",
-        "dorsal": "24",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641740,
-        "nombre": "Rayan Rupert",
-        "dorsal": "72",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1631121,
-        "nombre": "Bryce McGowens",
-        "dorsal": "17",
-        "posicion": "Alero"
-      }
+      1630166,
+      1629014,
+      1641736,
+      1631113,
+      1631101,
+      1641737,
+      1629028,
+      203924,
+      1629680,
+      1629057,
+      1630625,
+      1641738,
+      1629019,
+      1631133,
+      1641739,
+      1631303,
+      1641740,
+      1631121
     ]
   },
   "SAC": {
     "nombre_completo": "Sacramento Kings",
     "jugadores": [
-      {
-        "id": 203107,
-        "nombre": "Domantas Sabonis",
-        "dorsal": "10",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 201942,
-        "nombre": "DeMar DeRozan",
-        "dorsal": "11",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203897,
-        "nombre": "Zach LaVine",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628370,
-        "nombre": "Malik Monk",
-        "dorsal": "0",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 202685,
-        "nombre": "Jonas Valančiūnas",
-        "dorsal": "17",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1631099,
-        "nombre": "Keegan Murray",
-        "dorsal": "13",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1628365,
-        "nombre": "Markelle Fultz",
-        "dorsal": "20",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631165,
-        "nombre": "Keon Ellis",
-        "dorsal": "23",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641741,
-        "nombre": "Devin Carter",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631222,
-        "nombre": "Jake LaRavia",
-        "dorsal": "3",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203109,
-        "nombre": "Jae Crowder",
-        "dorsal": "99",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203926,
-        "nombre": "Doug McDermott",
-        "dorsal": "20",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1626168,
-        "nombre": "Trey Lyles",
-        "dorsal": "41",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629056,
-        "nombre": "Terence Davis",
-        "dorsal": "3",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1642403,
-        "nombre": "Isaac Jones",
-        "dorsal": "34",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1642384,
-        "nombre": "Isaiah Crawford",
-        "dorsal": "15",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630222,
-        "nombre": "Mason Jones",
-        "dorsal": "22",
-        "posicion": "Alero"
-      }
+      203107,
+      201942,
+      203897,
+      1628370,
+      202685,
+      1631099,
+      1628365,
+      1631165,
+      1641741,
+      1631222,
+      203109,
+      203926,
+      1626168,
+      1629056,
+      1642403,
+      1642384,
+      1630222
     ]
   },
   "SAS": {
     "nombre_completo": "San Antonio Spurs",
     "jugadores": [
-      {
-        "id": 1641744,
-        "nombre": "Victor Wembanyama",
-        "dorsal": "1",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641745,
-        "nombre": "Stephon Castle",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 101108,
-        "nombre": "Chris Paul",
-        "dorsal": "3",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631110,
-        "nombre": "Jeremy Sochan",
-        "dorsal": "10",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630170,
-        "nombre": "Devin Vassell",
-        "dorsal": "24",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630572,
-        "nombre": "Sandro Mamukelashvili",
-        "dorsal": "54",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1628368,
-        "nombre": "De'Aaron Fox",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1629640,
-        "nombre": "Keldon Johnson",
-        "dorsal": "3",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203084,
-        "nombre": "Harrison Barnes",
-        "dorsal": "40",
-        "posicion": "Alero"
-      },
-      {
-        "id": 202687,
-        "nombre": "Bismack Biyombo",
-        "dorsal": "8",
-        "posicion": "Pivot"
-      },
-      {
-        "id": 1630577,
-        "nombre": "Julian Champagnie",
-        "dorsal": "30",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629646,
-        "nombre": "Charles Bassey",
-        "dorsal": "28",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1642434,
-        "nombre": "Riley Minix",
-        "dorsal": "12",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631103,
-        "nombre": "Malaki Branham",
-        "dorsal": "22",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1631104,
-        "nombre": "Blake Wesley",
-        "dorsal": "14",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1641747,
-        "nombre": "Harrison Ingram",
-        "dorsal": "7",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1629162,
-        "nombre": "Jordan McLaughlin",
-        "dorsal": "6",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630561,
-        "nombre": "David Duke Jr.",
-        "dorsal": "10",
-        "posicion": "Alero"
-      }
+      1641744,
+      1641745,
+      101108,
+      1631110,
+      1630170,
+      1630572,
+      1628368,
+      1629640,
+      203084,
+      202687,
+      1630577,
+      1629646,
+      1642434,
+      1631103,
+      1631104,
+      1641747,
+      1629162,
+      1630561
     ]
   },
   "UTA": {
     "nombre_completo": "Utah Jazz",
     "jugadores": [
-      {
-        "id": 1628378,
-        "nombre": "Lauri Markkanen",
-        "dorsal": "23",
-        "posicion": "Alero"
-      },
-      {
-        "id": 203903,
-        "nombre": "Jordan Clarkson",
-        "dorsal": "00",
-        "posicion": "Base"
-      },
-      {
-        "id": 1631117,
-        "nombre": "Walker Kessler",
-        "dorsal": "24",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1629012,
-        "nombre": "Collin Sexton",
-        "dorsal": "2",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641748,
-        "nombre": "Kyle Filipowski",
-        "dorsal": "32",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641749,
-        "nombre": "Keyonte George",
-        "dorsal": "3",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641710,
-        "nombre": "Isaiah Collier",
-        "dorsal": "1",
-        "posicion": "Base"
-      },
-      {
-        "id": 1641709,
-        "nombre": "Cody Williams",
-        "dorsal": "33",
-        "posicion": "Alero"
-      },
-      {
-        "id": 201960,
-        "nombre": "John Collins",
-        "dorsal": "20",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630538,
-        "nombre": "Johnny Juzang",
-        "dorsal": "10",
-        "posicion": "Escolta"
-      },
-      {
-        "id": 1629004,
-        "nombre": "Sviatoslav Mykhailiuk",
-        "dorsal": "19",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1630531,
-        "nombre": "Jaden Springer",
-        "dorsal": "11",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641752,
-        "nombre": "Brice Sensabaugh",
-        "dorsal": "8",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641753,
-        "nombre": "Taylor Hendricks",
-        "dorsal": "0",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1641754,
-        "nombre": "Oscar Tshiebwe",
-        "dorsal": "44",
-        "posicion": "Ala-pivot"
-      },
-      {
-        "id": 1630231,
-        "nombre": "Kenyon Martin Jr.",
-        "dorsal": "6",
-        "posicion": "Alero"
-      },
-      {
-        "id": 1641755,
-        "nombre": "Elijah Harkless",
-        "dorsal": "5",
-        "posicion": "Base"
-      },
-      {
-        "id": 1630695,
-        "nombre": "Micah Potter",
-        "dorsal": "25",
-        "posicion": "Alero"
-      }
+      1628378,
+      203903,
+      1631117,
+      1629012,
+      1641748,
+      1641749,
+      1641710,
+      1641709,
+      201960,
+      1630538,
+      1629004,
+      1630531,
+      1641752,
+      1641753,
+      1641754,
+      1630231,
+      1641755,
+      1630695
     ]
   }
 }
