@@ -3,3 +3,11 @@ images/
 .env
 __pycache__/
 *.pyc
+
+# --- Imágenes (no subir) ---
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp

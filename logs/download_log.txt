@@ -673,3 +673,1848 @@
 [2025-06-12 14:15:08] Jugadores descargados: 534/534
 [2025-06-12 14:15:08] ==================================================
 
+
+
+=== Nueva ejecución: 2025-08-10 17:54:08 ===
+[2025-08-10 17:54:08] ERROR cargando JSON: Expecting property name enclosed in double quotes: line 756 column 1 (char 33897)
+
+
+=== Nueva ejecución: 2025-08-10 17:55:06 ===
+[2025-08-10 17:55:09] ⚠️ BOS: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BOS.png'
+[2025-08-10 17:55:12] ⚠️ BOS: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BOS.png'
+[2025-08-10 17:55:12] ⚠️ BOS: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BOS.png'
+[2025-08-10 17:55:12] ❌ BOS: Todos los intentos fallaron
+[2025-08-10 17:55:12] ❌ No se pudo descargar logo para BOS
+[2025-08-10 17:55:12] 
+🏀 Procesando Boston Celtics (20 jugadores)
+[2025-08-10 17:55:14] ✅ Jaylen Brown (ID: 1627759)
+[2025-08-10 17:55:16] ✅ Torrey Craig (ID: 1628470)
+[2025-08-10 17:55:18] ✅ Luka Garza (ID: 1630568)
+[2025-08-10 17:55:39] ❌ Fallo al descargar Hugo González
+[2025-08-10 17:55:58] ❌ Fallo al descargar Hayden Gray
+[2025-08-10 17:56:00] ✅ Sam Hauser (ID: 1630573)
+[2025-08-10 17:56:02] ✅ Al Horford (ID: 201143)
+[2025-08-10 17:56:03] ✅ Josh Minott (ID: 1631169)
+[2025-08-10 17:56:05] ✅ Georges Niang (ID: 1627777)
+[2025-08-10 17:56:07] ✅ Miles Norris (ID: 1641936)
+[2025-08-10 17:56:09] ✅ Payton Pritchard (ID: 1630202)
+[2025-08-10 17:56:10] ✅ Neemias Queta (ID: 1629674)
+[2025-08-10 17:56:12] ✅ Baylor Scheierman (ID: 1631248)
+[2025-08-10 17:56:31] ❌ Fallo al descargar Max Shulga
+[2025-08-10 17:56:33] ✅ Anfernee Simons (ID: 1629014)
+[2025-08-10 17:56:34] ✅ Jayson Tatum (ID: 1628369)
+[2025-08-10 17:56:36] ✅ Xavier Tillman (ID: 1630214)
+[2025-08-10 17:56:38] ✅ Jordan Walsh (ID: 1641775)
+[2025-08-10 17:56:39] ✅ Derrick White (ID: 1628401)
+[2025-08-10 17:56:58] ❌ Fallo al descargar Amari Williams
+[2025-08-10 17:57:00] ⚠️ BKN: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BKN.png'
+[2025-08-10 17:57:01] ⚠️ BKN: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BKN.png'
+[2025-08-10 17:57:02] ⚠️ BKN: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BKN.png'
+[2025-08-10 17:57:03] ⚠️ BKN: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BKN.png'
+[2025-08-10 17:57:03] ❌ BKN: Todos los intentos fallaron
+[2025-08-10 17:57:03] ❌ No se pudo descargar logo para BKN
+[2025-08-10 17:57:03] 
+🏀 Procesando Brooklyn Nets (18 jugadores)
+[2025-08-10 17:57:04] ✅ Reece Beekman (ID: 1641736)
+[2025-08-10 17:57:07] ✅ Nic Claxton (ID: 1629651)
+[2025-08-10 17:57:09] ✅ Noah Clowney (ID: 1641730)
+[2025-08-10 17:57:11] ✅ Egor Dëmin (ID: 1642856)
+[2025-08-10 17:57:13] ✅ Tyson Etienne (ID: 1630623)
+[2025-08-10 17:57:15] ✅ Tosan Evbuomwan (ID: 1641787)
+[2025-08-10 17:57:16] ✅ Keon Johnson (ID: 1630553)
+[2025-08-10 17:57:19] ✅ Terance Mann (ID: 1629611)
+[2025-08-10 17:57:21] ✅ Tyrese Martin (ID: 1631213)
+[2025-08-10 17:57:23] ✅ Michael Porter Jr. (ID: 1629008)
+[2025-08-10 17:57:25] ✅ Drake Powell (ID: 1642962)
+[2025-08-10 17:57:27] ✅ Ben Saraf (ID: 1642879)
+[2025-08-10 17:57:29] ✅ Cam Thomas (ID: 1630560)
+[2025-08-10 17:57:31] ✅ Drew Timme (ID: 1631166)
+[2025-08-10 17:57:33] ✅ Nolan Traore (ID: 1642849)
+[2025-08-10 17:57:35] ✅ Dariq Whitehead (ID: 1641727)
+[2025-08-10 17:57:37] ✅ Jalen Wilson (ID: 1630592)
+[2025-08-10 17:57:39] ✅ Danny Wolf (ID: 1642874)
+[2025-08-10 17:57:42] ⚠️ CHA: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CHA.png'
+[2025-08-10 17:57:45] ⚠️ CHA: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CHA.png'
+[2025-08-10 17:57:45] ❌ CHA: Todos los intentos fallaron
+[2025-08-10 17:57:45] ❌ No se pudo descargar logo para CHA
+[2025-08-10 17:57:45] 
+🏀 Procesando Charlotte Hornets (24 jugadores)
+[2025-08-10 17:57:47] ✅ LaMelo Ball (ID: 1630163)
+[2025-08-10 17:57:48] ✅ Miles Bridges (ID: 1628970)
+[2025-08-10 17:57:49] ✅ Pat Connaughton (ID: 1626192)
+[2025-08-10 17:57:51] ✅ Seth Curry (ID: 203552)
+[2025-08-10 17:57:53] ✅ Moussa Diabaté (ID: 1631217)
+[2025-08-10 17:57:54] ✅ Spencer Dinwiddie (ID: 203915)
+[2025-08-10 17:57:55] ✅ Taj Gibson (ID: 201959)
+[2025-08-10 17:57:57] ✅ Josh Green (ID: 1630182)
+[2025-08-10 17:58:17] ❌ Fallo al descargar Sion James
+[2025-08-10 17:58:18] ✅ DaQuan Jeffries (ID: 1629610)
+[2025-08-10 17:58:38] ❌ Fallo al descargar Ryan Kalkbrenner
+[2025-08-10 17:58:57] ❌ Fallo al descargar Kon Knueppel
+[2025-08-10 17:58:59] ✅ Tre Mann (ID: 1630544)
+[2025-08-10 17:59:18] ❌ Fallo al descargar Liam McNeeley
+[2025-08-10 17:59:20] ✅ Brandon Miller (ID: 1641706)
+[2025-08-10 17:59:22] ✅ Wendell Moore Jr. (ID: 1631111)
+[2025-08-10 17:59:23] ✅ Drew Peterson (ID: 1641809)
+[2025-08-10 17:59:25] ✅ Mason Plumlee (ID: 203486)
+[2025-08-10 17:59:27] ✅ Antonio Reeves (ID: 1641810)
+[2025-08-10 17:59:28] ✅ Tidjane Salaün (ID: 1642275)
+[2025-08-10 17:59:30] ✅ Collin Sexton (ID: 1629012)
+[2025-08-10 17:59:31] ✅ KJ Simpson (ID: 1642354)
+[2025-08-10 17:59:33] ✅ Nick Smith Jr. (ID: 1641733)
+[2025-08-10 17:59:35] ✅ Grant Williams (ID: 1629684)
+[2025-08-10 17:59:38] ⚠️ ATL: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ATL.png'
+[2025-08-10 17:59:40] ⚠️ ATL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ATL.png'
+[2025-08-10 17:59:40] ❌ ATL: Todos los intentos fallaron
+[2025-08-10 17:59:40] ❌ No se pudo descargar logo para ATL
+[2025-08-10 17:59:40] 
+🏀 Procesando Atlanta Hawks (17 jugadores)
+[2025-08-10 17:59:42] ✅ Nickeil Alexander-Walker (ID: 1629638)
+[2025-08-10 17:59:44] ✅ Kobe Bufkin (ID: 1641723)
+[2025-08-10 17:59:45] ✅ Dyson Daniels (ID: 1630700)
+[2025-08-10 18:00:05] ❌ Fallo al descargar Nikola Durišić
+[2025-08-10 18:00:08] ✅ Mouhamed Gueye (ID: 1631243)
+[2025-08-10 18:00:09] ✅ Jalen Johnson (ID: 1630552)
+[2025-08-10 18:00:11] ✅ Luke Kennard (ID: 1628379)
+[2025-08-10 18:00:13] ✅ Vít Krejčí (ID: 1630249)
+[2025-08-10 18:00:15] ✅ Garrison Mathews (ID: 1629726)
+[2025-08-10 18:00:35] ❌ Fallo al descargar Eli John Ndiaye
+[2025-08-10 18:00:55] ❌ Fallo al descargar Asa Newell
+[2025-08-10 18:00:58] ✅ Onyeka Okongwu (ID: 1630168)
+[2025-08-10 18:01:00] ✅ Kristaps Porziņģis (ID: 204001)
+[2025-08-10 18:01:02] ✅ Zaccharie Risacher (ID: 1642258)
+[2025-08-10 18:01:04] ✅ Jacob Toppin (ID: 1631210)
+[2025-08-10 18:01:06] ✅ Keaton Wallace (ID: 1630811)
+[2025-08-10 18:01:07] ✅ Trae Young (ID: 1629027)
+[2025-08-10 18:01:10] ⚠️ CHI: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CHI.png'
+[2025-08-10 18:01:13] ⚠️ CHI: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CHI.png'
+[2025-08-10 18:01:13] ❌ CHI: Todos los intentos fallaron
+[2025-08-10 18:01:13] ❌ No se pudo descargar logo para CHI
+[2025-08-10 18:01:13] 
+🏀 Procesando Chicago Bulls (22 jugadores)
+[2025-08-10 18:01:16] ✅ Matas Buzelis (ID: 1641824)
+[2025-08-10 18:01:18] ✅ Jevon Carter (ID: 1628975)
+[2025-08-10 18:01:21] ✅ Zach Collins (ID: 1628380)
+[2025-08-10 18:01:23] ✅ Ayo Dosunmu (ID: 1630245)
+[2025-08-10 18:01:43] ❌ Fallo al descargar Noa Essengue
+[2025-08-10 18:01:44] ✅ Josh Giddey (ID: 1630581)
+[2025-08-10 18:02:03] ❌ Fallo al descargar Caleb Grill
+[2025-08-10 18:02:05] ✅ Talen Horton-Tucker (ID: 1629659)
+[2025-08-10 18:02:07] ✅ Kevin Huerter (ID: 1628989)
+[2025-08-10 18:02:08] ✅ Tre Jones (ID: 1630200)
+[2025-08-10 18:02:10] ✅ Yuki Kawamura (ID: 1642530)
+[2025-08-10 18:02:12] ✅ E.J. Liddell (ID: 1630604)
+[2025-08-10 18:02:14] ✅ Emanuel Miller (ID: 1641801)
+[2025-08-10 18:02:16] ✅ Isaac Okoro (ID: 1630171)
+[2025-08-10 18:02:36] ❌ Fallo al descargar Lachlan Olbrich
+[2025-08-10 18:02:38] ✅ Julian Phillips (ID: 1641763)
+[2025-08-10 18:02:58] ❌ Fallo al descargar Wooga Poplar
+[2025-08-10 18:03:00] ✅ Jalen Smith (ID: 1630188)
+[2025-08-10 18:03:01] ✅ Dalen Terry (ID: 1631207)
+[2025-08-10 18:03:03] ✅ Nikola Vučević (ID: 202696)
+[2025-08-10 18:03:05] ✅ Coby White (ID: 1629632)
+[2025-08-10 18:03:06] ✅ Patrick Williams (ID: 1630172)
+[2025-08-10 18:03:08] ⚠️ CLE: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CLE.png'
+[2025-08-10 18:03:08] ⚠️ CLE: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CLE.png'
+[2025-08-10 18:03:10] ⚠️ CLE: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CLE.png'
+[2025-08-10 18:03:11] ⚠️ CLE: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CLE.png'
+[2025-08-10 18:03:11] ❌ CLE: Todos los intentos fallaron
+[2025-08-10 18:03:11] ❌ No se pudo descargar logo para CLE
+[2025-08-10 18:03:11] 
+🏀 Procesando Cleveland Cavaliers (20 jugadores)
+[2025-08-10 18:03:13] ✅ Jarrett Allen (ID: 1628386)
+[2025-08-10 18:03:15] ✅ Lonzo Ball (ID: 1628366)
+[2025-08-10 18:03:16] ✅ Emoni Bates (ID: 1641734)
+[2025-08-10 18:03:18] ✅ Darius Garland (ID: 1629636)
+[2025-08-10 18:03:22] ✅ Javonte Green (ID: 1629750)
+[2025-08-10 18:03:24] ✅ De'Andre Hunter (ID: 1629631)
+[2025-08-10 18:03:26] ✅ Sam Merrill (ID: 1630241)
+[2025-08-10 18:03:28] ✅ Donovan Mitchell (ID: 1628378)
+[2025-08-10 18:03:29] ✅ Evan Mobley (ID: 1630596)
+[2025-08-10 18:03:32] ✅ Larry Nance Jr. (ID: 1626204)
+[2025-08-10 18:03:34] ✅ Saliou Niang (ID: 1643008)
+[2025-08-10 18:03:36] ✅ Chuma Okeke (ID: 1629643)
+[2025-08-10 18:03:38] ✅ Craig Porter Jr. (ID: 1641854)
+[2025-08-10 18:03:39] ✅ Tyrese Proctor (ID: 1642878)
+[2025-08-10 18:03:41] ✅ Max Strus (ID: 1629622)
+[2025-08-10 18:03:43] ✅ Tristan Thompson (ID: 202684)
+[2025-08-10 18:03:46] ✅ Nae'Qwan Tomlin (ID: 1641772)
+[2025-08-10 18:03:47] ✅ Luke Travers (ID: 1631247)
+[2025-08-10 18:03:50] ✅ Jaylon Tyson (ID: 1642281)
+[2025-08-10 18:03:52] ✅ Dean Wade (ID: 1629731)
+[2025-08-10 18:03:54] ⚠️ DET: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\DET.png'
+[2025-08-10 18:03:57] ⚠️ DET: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\DET.png'
+[2025-08-10 18:03:57] ❌ DET: Todos los intentos fallaron
+[2025-08-10 18:03:57] ❌ No se pudo descargar logo para DET
+[2025-08-10 18:03:57] 
+🏀 Procesando Detroit Pistons (17 jugadores)
+[2025-08-10 18:03:59] ✅ Malik Beasley (ID: 1627736)
+[2025-08-10 18:04:00] ✅ Cade Cunningham (ID: 1630595)
+[2025-08-10 18:04:02] ✅ Jalen Duren (ID: 1631105)
+[2025-08-10 18:04:04] ✅ Tobias Harris (ID: 202699)
+[2025-08-10 18:04:05] ✅ Ronald Holland II (ID: 1641842)
+[2025-08-10 18:04:07] ✅ Jaden Ivey (ID: 1631093)
+[2025-08-10 18:04:10] ✅ Daniss Jenkins (ID: 1642450)
+[2025-08-10 18:04:11] ✅ Colby Jones (ID: 1641732)
+[2025-08-10 18:04:13] ✅ Bobi Klintman (ID: 1641752)
+[2025-08-10 18:04:33] ❌ Fallo al descargar Chaz Lanier
+[2025-08-10 18:04:35] ✅ Caris LeVert (ID: 1627747)
+[2025-08-10 18:04:37] ✅ Paul Reed (ID: 1630194)
+[2025-08-10 18:04:39] ✅ Duncan Robinson (ID: 1629130)
+[2025-08-10 18:04:42] ✅ Marcus Sasser (ID: 1631204)
+[2025-08-10 18:04:43] ✅ Tolu Smith (ID: 1642449)
+[2025-08-10 18:04:45] ✅ Isaiah Stewart (ID: 1630191)
+[2025-08-10 18:04:47] ✅ Ausar Thompson (ID: 1641709)
+[2025-08-10 18:04:49] ⚠️ IND: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\IND.png'
+[2025-08-10 18:04:52] ⚠️ IND: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\IND.png'
+[2025-08-10 18:04:52] ❌ IND: Todos los intentos fallaron
+[2025-08-10 18:04:52] ❌ No se pudo descargar logo para IND
+[2025-08-10 18:04:52] 
+🏀 Procesando Indiana Pacers (20 jugadores)
+[2025-08-10 18:04:54] ✅ Tony Bradley (ID: 1628396)
+[2025-08-10 18:04:55] ✅ Thomas Bryant (ID: 1628418)
+[2025-08-10 18:04:57] ✅ RayJ Dennis (ID: 1642484)
+[2025-08-10 18:04:59] ✅ Johnny Furphy (ID: 1642277)
+[2025-08-10 18:05:00] ✅ Tyrese Haliburton (ID: 1630169)
+[2025-08-10 18:05:02] ✅ Jay Huff (ID: 1630643)
+[2025-08-10 18:05:04] ✅ Isaiah Jackson (ID: 1630543)
+[2025-08-10 18:05:06] ✅ Quenton Jackson (ID: 1631245)
+[2025-08-10 18:05:07] ✅ James Johnson (ID: 201949)
+[2025-08-10 18:05:26] ❌ Fallo al descargar Kam Jones
+[2025-08-10 18:05:29] ✅ Bennedict Mathurin (ID: 1631097)
+[2025-08-10 18:05:31] ✅ T.J. McConnell (ID: 204456)
+[2025-08-10 18:05:33] ✅ Andrew Nembhard (ID: 1629614)
+[2025-08-10 18:05:35] ✅ Aaron Nesmith (ID: 1630174)
+[2025-08-10 18:05:54] ❌ Fallo al descargar Taelon Peter
+[2025-08-10 18:05:56] ✅ Ben Sheppard (ID: 1641767)
+[2025-08-10 18:05:58] ✅ Pascal Siakam (ID: 1627783)
+[2025-08-10 18:06:00] ✅ Obi Toppin (ID: 1630167)
+[2025-08-10 18:06:02] ✅ Jarace Walker (ID: 1641716)
+[2025-08-10 18:06:04] ✅ James Wiseman (ID: 1630164)
+[2025-08-10 18:06:07] ⚠️ MIA: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIA.png'
+[2025-08-10 18:06:09] ⚠️ MIA: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIA.png'
+[2025-08-10 18:06:09] ❌ MIA: Todos los intentos fallaron
+[2025-08-10 18:06:09] ❌ No se pudo descargar logo para MIA
+[2025-08-10 18:06:09] 
+🏀 Procesando Miami Heat (19 jugadores)
+[2025-08-10 18:06:11] ✅ Tyler Herro (ID: 1629639)
+[2025-08-10 18:06:12] ✅ Bam Adebayo (ID: 1628389)
+[2025-08-10 18:06:14] ✅ Alec Burks (ID: 202692)
+[2025-08-10 18:06:16] ✅ Josh Christopher (ID: 1630528)
+[2025-08-10 18:06:18] ✅ Simone Fontecchio (ID: 1631323)
+[2025-08-10 18:06:19] ✅ Myron Gardner (ID: 1642066)
+[2025-08-10 18:06:39] ❌ Fallo al descargar Vladislav Goldin
+[2025-08-10 18:06:41] ✅ Haywood Highsmith (ID: 1629312)
+[2025-08-10 18:07:00] ❌ Fallo al descargar Kasparas Jakučionis
+[2025-08-10 18:07:01] ✅ Jaime Jaquez Jr. (ID: 1631170)
+[2025-08-10 18:07:03] ✅ Keshad Johnson (ID: 1642352)
+[2025-08-10 18:07:05] ✅ Nikola Jović (ID: 1631107)
+[2025-08-10 18:07:06] ✅ Pelle Larsson (ID: 1641796)
+[2025-08-10 18:07:08] ✅ Davion Mitchell (ID: 1630558)
+[2025-08-10 18:07:10] ✅ Norman Powell (ID: 1626181)
+[2025-08-10 18:07:11] ✅ Terry Rozier (ID: 1626179)
+[2025-08-10 18:07:13] ✅ Dru Smith (ID: 1630696)
+[2025-08-10 18:07:15] ✅ Kel'el Ware (ID: 1642276)
+[2025-08-10 18:07:17] ✅ Andrew Wiggins (ID: 203952)
+[2025-08-10 18:07:20] ⚠️ MIL: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIL.png'
+[2025-08-10 18:07:22] ⚠️ MIL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIL.png'
+[2025-08-10 18:07:22] ❌ MIL: Todos los intentos fallaron
+[2025-08-10 18:07:23] ❌ No se pudo descargar logo para MIL
+[2025-08-10 18:07:23] 
+🏀 Procesando Milwaukee Bucks (19 jugadores)
+[2025-08-10 18:07:24] ✅ Giannis Antetokounmpo (ID: 203507)
+[2025-08-10 18:07:26] ✅ Cole Anthony (ID: 1630175)
+[2025-08-10 18:07:27] ✅ Jamaree Bouyea (ID: 1631123)
+[2025-08-10 18:07:29] ✅ AJ Green (ID: 1631260)
+[2025-08-10 18:07:31] ✅ Gary Harris (ID: 203914)
+[2025-08-10 18:07:33] ✅ Andre Jackson Jr. (ID: 1641748)
+[2025-08-10 18:07:35] ✅ Kyle Kuzma (ID: 1628398)
+[2025-08-10 18:07:37] ✅ Chris Livingston (ID: 1641753)
+[2025-08-10 18:07:57] ❌ Fallo al descargar Bogoljub Marković
+[2025-08-10 18:07:59] ✅ Pete Nance (ID: 1631250)
+[2025-08-10 18:08:00] ✅ Kevin Porter Jr. (ID: 1629645)
+[2025-08-10 18:08:02] ✅ Bobby Portis (ID: 1626171)
+[2025-08-10 18:08:04] ✅ Taurean Prince (ID: 1627752)
+[2025-08-10 18:08:06] ✅ Ryan Rollins (ID: 1631157)
+[2025-08-10 18:08:26] ❌ Fallo al descargar Mark Sears
+[2025-08-10 18:08:28] ✅ Jericho Sims (ID: 1630579)
+[2025-08-10 18:08:30] ✅ Tyler Smith (ID: 1641890)
+[2025-08-10 18:08:32] ✅ Gary Trent Jr. (ID: 1629018)
+[2025-08-10 18:08:34] ✅ Myles Turner (ID: 1626167)
+[2025-08-10 18:08:38] ⚠️ NYK: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\NYK.png'
+[2025-08-10 18:08:41] ⚠️ NYK: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\NYK.png'
+[2025-08-10 18:08:41] ❌ NYK: Todos los intentos fallaron
+[2025-08-10 18:08:41] ❌ No se pudo descargar logo para NYK
+[2025-08-10 18:08:41] 
+🏀 Procesando New York Knicks (21 jugadores)
+[2025-08-10 18:08:42] ✅ Precious Achiuwa (ID: 1630173)
+[2025-08-10 18:08:44] ✅ OG Anunoby (ID: 1628384)
+[2025-08-10 18:08:46] ✅ MarJon Beauchamp (ID: 1630699)
+[2025-08-10 18:08:48] ✅ Mikal Bridges (ID: 1628969)
+[2025-08-10 18:08:49] ✅ Jalen Brunson (ID: 1628973)
+[2025-08-10 18:08:51] ✅ Jordan Clarkson (ID: 203903)
+[2025-08-10 18:08:53] ✅ Pacôme Dadiet (ID: 1642359)
+[2025-08-10 18:09:13] ❌ Fallo al descargar Mohamed Diawara
+[2025-08-10 18:09:14] ✅ Josh Hart (ID: 1628404)
+[2025-08-10 18:09:16] ✅ Ariel Hukporti (ID: 1630574)
+[2025-08-10 18:09:18] ✅ Tyler Kolek (ID: 1642278)
+[2025-08-10 18:09:19] ✅ Miles McBride (ID: 1630540)
+[2025-08-10 18:09:21] ✅ Kevin McCullar Jr. (ID: 1641755)
+[2025-08-10 18:09:23] ✅ Cameron Payne (ID: 1626166)
+[2025-08-10 18:09:24] ✅ Mitchell Robinson (ID: 1629011)
+[2025-08-10 18:09:26] ✅ Landry Shamet (ID: 1629013)
+[2025-08-10 18:09:28] ✅ Karl-Anthony Towns (ID: 1626157)
+[2025-08-10 18:09:29] ✅ P.J. Tucker (ID: 200782)
+[2025-08-10 18:09:31] ✅ Anton Watson (ID: 1641817)
+[2025-08-10 18:09:33] ✅ Delon Wright (ID: 1626153)
+[2025-08-10 18:09:34] ✅ Guerschon Yabusele (ID: 1627824)
+[2025-08-10 18:09:36] ⚠️ ORL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ORL.png'
+[2025-08-10 18:09:37] ⚠️ ORL: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ORL.png'
+[2025-08-10 18:09:39] ⚠️ ORL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ORL.png'
+[2025-08-10 18:09:40] ⚠️ ORL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ORL.png'
+[2025-08-10 18:09:40] ❌ ORL: Todos los intentos fallaron
+[2025-08-10 18:09:40] ❌ No se pudo descargar logo para ORL
+[2025-08-10 18:09:40] 
+🏀 Procesando Orlando Magic (20 jugadores)
+[2025-08-10 18:09:42] ✅ Paolo Banchero (ID: 1631094)
+[2025-08-10 18:09:43] ✅ Desmond Bane (ID: 1630217)
+[2025-08-10 18:09:46] ✅ Goga Bitadze (ID: 1629048)
+[2025-08-10 18:09:47] ✅ Anthony Black (ID: 1641710)
+[2025-08-10 18:09:49] ✅ Jamal Cain (ID: 1631288)
+[2025-08-10 18:09:50] ✅ Wendell Carter Jr. (ID: 1628976)
+[2025-08-10 18:09:52] ✅ Tristan da Silva (ID: 1641783)
+[2025-08-10 18:09:54] ✅ Caleb Houstan (ID: 1631216)
+[2025-08-10 18:09:56] ✅ Jett Howard (ID: 1641724)
+[2025-08-10 18:09:59] ✅ Jonathan Isaac (ID: 1628371)
+[2025-08-10 18:10:01] ✅ Tyus Jones (ID: 1626145)
+[2025-08-10 18:10:03] ✅ Cory Joseph (ID: 202709)
+[2025-08-10 18:10:05] ✅ Mac McClung (ID: 1630644)
+[2025-08-10 18:10:27] ❌ Fallo al descargar Noah Penda
+[2025-08-10 18:10:30] ✅ Trevelin Queen (ID: 1630243)
+[2025-08-10 18:10:51] ❌ Fallo al descargar Jase Richardson
+[2025-08-10 18:10:53] ✅ Orlando Robinson (ID: 1631115)
+[2025-08-10 18:10:55] ✅ Jalen Suggs (ID: 1630591)
+[2025-08-10 18:10:56] ✅ Franz Wagner (ID: 1630532)
+[2025-08-10 18:10:58] ✅ Moritz Wagner (ID: 1629021)
+[2025-08-10 18:11:01] ⚠️ PHI: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\PHI.png'
+[2025-08-10 18:11:03] ⚠️ PHI: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\PHI.png'
+[2025-08-10 18:11:03] ❌ PHI: Todos los intentos fallaron
+[2025-08-10 18:11:03] ❌ No se pudo descargar logo para PHI
+[2025-08-10 18:11:03] 
+🏀 Procesando Philadelphia 76ers (21 jugadores)
+[2025-08-10 18:11:05] ✅ Dominick Barlow (ID: 1631230)
+[2025-08-10 18:11:07] ✅ Adem Bona (ID: 1641737)
+[2025-08-10 18:11:26] ❌ Fallo al descargar Johni Broome
+[2025-08-10 18:11:28] ✅ Jeff Dowtin Jr. (ID: 1630288)
+[2025-08-10 18:11:30] ✅ Andre Drummond (ID: 203083)
+[2025-08-10 18:11:50] ❌ Fallo al descargar VJ Edgecombe
+[2025-08-10 18:11:51] ✅ Justin Edwards (ID: 1642348)
+[2025-08-10 18:11:53] ✅ Joel Embiid (ID: 203954)
+[2025-08-10 18:11:54] ✅ Paul George (ID: 202331)
+[2025-08-10 18:11:56] ✅ Eric Gordon (ID: 201569)
+[2025-08-10 18:11:58] ✅ Quentin Grimes (ID: 1629656)
+[2025-08-10 18:11:59] ✅ Jalen Hood-Schifino (ID: 1641720)
+[2025-08-10 18:12:02] ✅ Kyle Lowry (ID: 200768)
+[2025-08-10 18:12:03] ✅ Tyrese Maxey (ID: 1630178)
+[2025-08-10 18:12:05] ✅ Jared McCain (ID: 1642272)
+[2025-08-10 18:12:24] ❌ Fallo al descargar Igor Milicic Jr.
+[2025-08-10 18:12:26] ✅ Kelly Oubre Jr. (ID: 1626162)
+[2025-08-10 18:12:45] ❌ Fallo al descargar Hunter Sallis
+[2025-08-10 18:12:47] ✅ Jabari Walker (ID: 1631133)
+[2025-08-10 18:12:49] ✅ Lonnie Walker IV (ID: 1629022)
+[2025-08-10 18:12:50] ✅ Trendon Watford (ID: 1630570)
+[2025-08-10 18:12:52] ⚠️ TOR: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\TOR.png'
+[2025-08-10 18:12:56] ⚠️ TOR: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\TOR.png'
+[2025-08-10 18:12:56] ❌ TOR: Todos los intentos fallaron
+[2025-08-10 18:12:56] ❌ No se pudo descargar logo para TOR
+[2025-08-10 18:12:56] 
+🏀 Procesando Toronto Raptors (21 jugadores)
+[2025-08-10 18:12:57] ✅ Ochai Agbaji (ID: 1630534)
+[2025-08-10 18:12:59] ✅ Scottie Barnes (ID: 1630567)
+[2025-08-10 18:13:01] ✅ RJ Barrett (ID: 1629628)
+[2025-08-10 18:13:03] ✅ Jamison Battle (ID: 1642419)
+[2025-08-10 18:13:04] ✅ Chris Boucher (ID: 1628449)
+[2025-08-10 18:13:06] ✅ Ulrich Chomche (ID: 1642279)
+[2025-08-10 18:13:08] ✅ Gradey Dick (ID: 1641711)
+[2025-08-10 18:13:28] ❌ Fallo al descargar Chucky Hepburn
+[2025-08-10 18:13:30] ✅ Brandon Ingram (ID: 1627742)
+[2025-08-10 18:13:31] ✅ A.J. Lawson (ID: 1630639)
+[2025-08-10 18:13:33] ✅ Sandro Mamukelashvili (ID: 1630572)
+[2025-08-10 18:13:53] ❌ Fallo al descargar Alijah Martin
+[2025-08-10 18:13:55] ✅ Jonathan Mogbo (ID: 1642367)
+[2025-08-10 18:14:14] ❌ Fallo al descargar Collin Murray-Boyles
+[2025-08-10 18:14:17] ✅ Jakob Poeltl (ID: 1627751)
+[2025-08-10 18:14:18] ✅ Immanuel Quickley (ID: 1630193)
+[2025-08-10 18:14:20] ✅ David Roddy (ID: 1631223)
+[2025-08-10 18:14:22] ✅ Olivier Sarr (ID: 1630846)
+[2025-08-10 18:14:23] ✅ Jamal Shead (ID: 1642347)
+[2025-08-10 18:14:25] ✅ Garrett Temple (ID: 202066)
+[2025-08-10 18:14:27] ✅ Ja'Kobe Walter (ID: 1642266)
+[2025-08-10 18:14:29] ⚠️ WAS: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\WAS.png'
+[2025-08-10 18:14:32] ⚠️ WAS: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\WAS.png'
+[2025-08-10 18:14:32] ❌ WAS: Todos los intentos fallaron
+[2025-08-10 18:14:32] ❌ No se pudo descargar logo para WAS
+[2025-08-10 18:14:32] 
+🏀 Procesando Washington Wizards (20 jugadores)
+[2025-08-10 18:14:34] ✅ Marvin Bagley III (ID: 1628963)
+[2025-08-10 18:14:35] ✅ Malaki Branham (ID: 1631103)
+[2025-08-10 18:14:38] ✅ Malcolm Brogdon (ID: 1627763)
+[2025-08-10 18:14:40] ✅ Bub Carrington (ID: 1642267)
+[2025-08-10 18:14:42] ✅ Justin Champagnie (ID: 1630551)
+[2025-08-10 18:14:44] ✅ Bilal Coulibaly (ID: 1641731)
+[2025-08-10 18:14:46] ✅ Kyshawn George (ID: 1642273)
+[2025-08-10 18:14:48] ✅ Anthony Gill (ID: 1630264)
+[2025-08-10 18:14:50] ✅ AJ Johnson (ID: 1642358)
+[2025-08-10 18:15:09] ❌ Fallo al descargar Tre Johnson
+[2025-08-10 18:15:12] ✅ Dillon Jones (ID: 1641794)
+[2025-08-10 18:15:13] ✅ Corey Kispert (ID: 1630557)
+[2025-08-10 18:15:15] ✅ CJ McCollum (ID: 203468)
+[2025-08-10 18:15:17] ✅ Khris Middleton (ID: 203114)
+[2025-08-10 18:15:37] ❌ Fallo al descargar Will Riley
+[2025-08-10 18:15:39] ✅ Alex Sarr (ID: 1642259)
+[2025-08-10 18:15:41] ✅ JT Thor (ID: 1630550)
+[2025-08-10 18:15:42] ✅ Tristan Vukcevic (ID: 1641774)
+[2025-08-10 18:16:02] ❌ Fallo al descargar Jamir Watkins
+[2025-08-10 18:16:05] ✅ Cam Whitmore (ID: 1641715)
+[2025-08-10 18:16:07] ⚠️ DAL: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\DAL.png'
+[2025-08-10 18:16:10] ⚠️ DAL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\DAL.png'
+[2025-08-10 18:16:10] ❌ DAL: Todos los intentos fallaron
+[2025-08-10 18:16:10] ❌ No se pudo descargar logo para DAL
+[2025-08-10 18:16:10] 
+🏀 Procesando Dallas Mavericks (22 jugadores)
+[2025-08-10 18:16:11] ✅ Max Christie (ID: 1631108)
+[2025-08-10 18:16:31] ❌ Fallo al descargar Moussa Cisse
+[2025-08-10 18:16:50] ❌ Fallo al descargar Matthew Cleveland
+[2025-08-10 18:16:52] ✅ Anthony Davis (ID: 203076)
+[2025-08-10 18:16:54] ✅ Kessler Edwards (ID: 1630556)
+[2025-08-10 18:16:56] ✅ Danté Exum (ID: 203957)
+[2025-08-10 18:17:16] ❌ Fallo al descargar Cooper Flagg
+[2025-08-10 18:17:17] ✅ Daniel Gafford (ID: 1629655)
+[2025-08-10 18:17:19] ✅ Jaden Hardy (ID: 1630702)
+[2025-08-10 18:17:21] ✅ Kyrie Irving (ID: 202681)
+[2025-08-10 18:17:22] ✅ Kai Jones (ID: 1630539)
+[2025-08-10 18:17:44] ❌ Fallo al descargar Miles Kelly
+[2025-08-10 18:17:46] ✅ Dereck Lively II (ID: 1641726)
+[2025-08-10 18:17:48] ✅ Naji Marshall (ID: 1630230)
+[2025-08-10 18:17:50] ✅ Caleb Martin (ID: 1628997)
+[2025-08-10 18:18:09] ❌ Fallo al descargar Ryan Nembhard
+[2025-08-10 18:18:11] ✅ Dwight Powell (ID: 203939)
+[2025-08-10 18:18:13] ✅ Olivier-Maxence Prosper (ID: 1641765)
+[2025-08-10 18:18:15] ✅ D'Angelo Russell (ID: 1626156)
+[2025-08-10 18:18:16] ✅ Klay Thompson (ID: 202691)
+[2025-08-10 18:18:18] ✅ P.J. Washington (ID: 1629023)
+[2025-08-10 18:18:20] ✅ Brandon Williams (ID: 1630314)
+[2025-08-10 18:18:22] ⚠️ DEN: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\DEN.png'
+[2025-08-10 18:18:26] ⚠️ DEN: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\DEN.png'
+[2025-08-10 18:18:26] ❌ DEN: Todos los intentos fallaron
+[2025-08-10 18:18:26] ❌ No se pudo descargar logo para DEN
+[2025-08-10 18:18:26] 
+🏀 Procesando Denver Nuggets (20 jugadores)
+[2025-08-10 18:18:46] ❌ Fallo al descargar Tamar Bates
+[2025-08-10 18:18:47] ✅ Christian Braun (ID: 1631128)
+[2025-08-10 18:18:49] ✅ Bruce Brown (ID: 1628971)
+[2025-08-10 18:18:51] ✅ Vlatko Čančar (ID: 1628427)
+[2025-08-10 18:18:52] ✅ Aaron Gordon (ID: 203932)
+[2025-08-10 18:18:54] ✅ Tim Hardaway Jr. (ID: 203501)
+[2025-08-10 18:18:56] ✅ Dalen Terry (ID: 1631207)
+[2025-08-10 18:18:57] ✅ Cameron Johnson (ID: 1629661)
+[2025-08-10 18:18:59] ✅ Nikola Jokić (ID: 203999)
+[2025-08-10 18:19:18] ❌ Fallo al descargar Curtis Jones
+[2025-08-10 18:19:20] ✅ Spencer Jones (ID: 1642461)
+[2025-08-10 18:19:21] ✅ DeAndre Jordan (ID: 201599)
+[2025-08-10 18:19:23] ✅ Jamal Murray (ID: 1627750)
+[2025-08-10 18:19:24] ✅ Zeke Nnaji (ID: 1630192)
+[2025-08-10 18:19:26] ✅ Jalen Pickett (ID: 1629618)
+[2025-08-10 18:19:28] ✅ Julian Strawther (ID: 1631124)
+[2025-08-10 18:19:29] ✅ Hunter Tyson (ID: 1641816)
+[2025-08-10 18:19:31] ✅ Jonas Valančiūnas (ID: 202685)
+[2025-08-10 18:19:33] ✅ Peyton Watson (ID: 1631212)
+[2025-08-10 18:19:34] ✅ Russell Westbrook (ID: 201566)
+[2025-08-10 18:19:37] ⚠️ GSW: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\GSW.png'
+[2025-08-10 18:19:40] ⚠️ GSW: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\GSW.png'
+[2025-08-10 18:19:40] ❌ GSW: Todos los intentos fallaron
+[2025-08-10 18:19:40] ❌ No se pudo descargar logo para GSW
+[2025-08-10 18:19:40] 
+🏀 Procesando Golden State Warriors (18 jugadores)
+[2025-08-10 18:19:59] ❌ Fallo al descargar Taran Armstrong
+[2025-08-10 18:20:00] ✅ Jimmy Butler III (ID: 202710)
+[2025-08-10 18:20:02] ✅ Stephen Curry (ID: 201939)
+[2025-08-10 18:20:04] ✅ Draymond Green (ID: 203110)
+[2025-08-10 18:20:06] ✅ Buddy Hield (ID: 1627741)
+[2025-08-10 18:20:07] ✅ Trayce Jackson-Davis (ID: 1631218)
+[2025-08-10 18:20:09] ✅ Braxton Key (ID: 1630296)
+[2025-08-10 18:20:10] ✅ Kevin Knox II (ID: 1628995)
+[2025-08-10 18:20:12] ✅ Jonathan Kuminga (ID: 1630228)
+[2025-08-10 18:20:13] ✅ Moses Moody (ID: 1630541)
+[2025-08-10 18:20:15] ✅ Gary Payton II (ID: 1627780)
+[2025-08-10 18:20:17] ✅ Brandin Podziemski (ID: 1641764)
+[2025-08-10 18:20:18] ✅ Quinten Post (ID: 1642366)
+[2025-08-10 18:20:37] ❌ Fallo al descargar Will Richard
+[2025-08-10 18:20:39] ✅ Jackson Rowe (ID: 1642050)
+[2025-08-10 18:20:41] ✅ Gui Santos (ID: 1630611)
+[2025-08-10 18:20:42] ✅ Pat Spencer (ID: 1630311)
+[2025-08-10 18:21:01] ❌ Fallo al descargar Alex Toohey
+[2025-08-10 18:21:04] ⚠️ HOU: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\HOU.png'
+[2025-08-10 18:21:06] ⚠️ HOU: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\HOU.png'
+[2025-08-10 18:21:06] ❌ HOU: Todos los intentos fallaron
+[2025-08-10 18:21:06] ❌ No se pudo descargar logo para HOU
+[2025-08-10 18:21:06] 
+🏀 Procesando Houston Rockets (20 jugadores)
+[2025-08-10 18:21:08] ✅ Steven Adams (ID: 203500)
+[2025-08-10 18:21:10] ✅ Clint Capela (ID: 203991)
+[2025-08-10 18:21:12] ✅ Isaiah Crawford (ID: 1642384)
+[2025-08-10 18:21:14] ✅ N'Faly Dante (ID: 1642368)
+[2025-08-10 18:21:16] ✅ JD Davison (ID: 1631120)
+[2025-08-10 18:21:17] ✅ Kevin Durant (ID: 201142)
+[2025-08-10 18:21:19] ✅ Tari Eason (ID: 1631106)
+[2025-08-10 18:21:21] ✅ Dorian Finney-Smith (ID: 1627827)
+[2025-08-10 18:21:23] ✅ Jett Howard (ID: 1641724)
+[2025-08-10 18:21:25] ✅ Kevon Harris (ID: 1630284)
+[2025-08-10 18:21:27] ✅ Aaron Holiday (ID: 1628988)
+[2025-08-10 18:21:29] ✅ Cam Whitmore (ID: 1641715)
+[2025-08-10 18:21:31] ✅ Jack McVeigh (ID: 1629098)
+[2025-08-10 18:21:33] ✅ Josh Okogie (ID: 1629006)
+[2025-08-10 18:21:34] ✅ Alperen Sengun (ID: 1630578)
+[2025-08-10 18:21:36] ✅ Reed Sheppard (ID: 1642263)
+[2025-08-10 18:21:38] ✅ Jabari Smith Jr. (ID: 1631095)
+[2025-08-10 18:21:40] ✅ Jae'Sean Tate (ID: 1630256)
+[2025-08-10 18:21:42] ✅ Amen Thompson (ID: 1641708)
+[2025-08-10 18:21:44] ✅ Fred VanVleet (ID: 1627832)
+[2025-08-10 18:21:45] ⚠️ LAC: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\LAC.png'
+[2025-08-10 18:21:46] ⚠️ LAC: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\LAC.png'
+[2025-08-10 18:21:47] ⚠️ LAC: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\LAC.png'
+[2025-08-10 18:21:48] ⚠️ LAC: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\LAC.png'
+[2025-08-10 18:21:48] ❌ LAC: Todos los intentos fallaron
+[2025-08-10 18:21:48] ❌ No se pudo descargar logo para LAC
+[2025-08-10 18:21:48] 
+🏀 Procesando Los Angeles Clippers (22 jugadores)
+[2025-08-10 18:21:50] ✅ Patrick Baldwin Jr. (ID: 1631116)
+[2025-08-10 18:21:51] ✅ Nicolas Batum (ID: 201587)
+[2025-08-10 18:21:53] ✅ Bradley Beal (ID: 203078)
+[2025-08-10 18:21:55] ✅ Bogdan Bogdanović (ID: 203992)
+[2025-08-10 18:21:56] ✅ Kobe Brown (ID: 1641738)
+[2025-08-10 18:21:58] ✅ Cam Christie (ID: 1642353)
+[2025-08-10 18:22:00] ✅ Amari Bailey (ID: 1641735)
+[2025-08-10 18:22:02] ✅ John Collins (ID: 1628381)
+[2025-08-10 18:22:03] ✅ Kris Dunn (ID: 1627739)
+[2025-08-10 18:22:05] ✅ Trentyn Flowers (ID: 1642280)
+[2025-08-10 18:22:06] ✅ James Harden (ID: 201935)
+[2025-08-10 18:22:08] ✅ Derrick Jones Jr. (ID: 1627884)
+[2025-08-10 18:22:10] ✅ Kawhi Leonard (ID: 202695)
+[2025-08-10 18:22:11] ✅ Brook Lopez (ID: 201572)
+[2025-08-10 18:22:13] ✅ Jordan Miller (ID: 1641757)
+[2025-08-10 18:22:15] ✅ Patty Mills (ID: 201988)
+[2025-08-10 18:22:34] ❌ Fallo al descargar Yanic Konan Niederhäuser
+[2025-08-10 18:22:35] ✅ Chris Paul (ID: 101108)
+[2025-08-10 18:22:55] ❌ Fallo al descargar Kobe Sanders
+[2025-08-10 18:22:57] ✅ Ben Simmons (ID: 1627732)
+[2025-08-10 18:22:59] ✅ TyTy Washington Jr. (ID: 1631102)
+[2025-08-10 18:23:01] ✅ Ivica Zubac (ID: 1627826)
+[2025-08-10 18:23:03] ⚠️ LAL: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\LAL.png'
+[2025-08-10 18:23:06] ⚠️ LAL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\LAL.png'
+[2025-08-10 18:23:07] ❌ LAL: Todos los intentos fallaron
+[2025-08-10 18:23:07] ❌ No se pudo descargar logo para LAL
+[2025-08-10 18:23:07] 
+🏀 Procesando Los Angeles Lakers (22 jugadores)
+[2025-08-10 18:23:08] ✅ Deandre Ayton (ID: 1629028)
+[2025-08-10 18:23:10] ✅ Rui Hachimura (ID: 1629060)
+[2025-08-10 18:23:29] ❌ Fallo al descargar Eric Dixon
+[2025-08-10 18:23:31] ✅ Luka Dončić (ID: 1629029)
+[2025-08-10 18:23:32] ✅ Rui Hachimura (ID: 1629060)
+[2025-08-10 18:23:34] ✅ Jaxson Hayes (ID: 1629637)
+[2025-08-10 18:23:35] ✅ Bronny James (ID: 1642355)
+[2025-08-10 18:23:37] ✅ LeBron James (ID: 2544)
+[2025-08-10 18:23:56] ❌ Fallo al descargar Arthur Kaluma
+[2025-08-10 18:23:57] ✅ Maxi Kleber (ID: 1628467)
+[2025-08-10 18:23:59] ✅ Dalton Knecht (ID: 1642261)
+[2025-08-10 18:24:01] ✅ Christian Koloko (ID: 1631132)
+[2025-08-10 18:24:03] ✅ Jake LaRavia (ID: 1631222)
+[2025-08-10 18:24:05] ✅ Alex Len (ID: 203458)
+[2025-08-10 18:24:26] ❌ Fallo al descargar Chris Manon
+[2025-08-10 18:24:46] ❌ Fallo al descargar Augustas Marčiulionis
+[2025-08-10 18:24:49] ✅ Markieff Morris (ID: 202693)
+[2025-08-10 18:24:50] ✅ Austin Reaves (ID: 1630559)
+[2025-08-10 18:24:52] ✅ Marcus Smart (ID: 203935)
+[2025-08-10 18:25:12] ❌ Fallo al descargar Adou Thiero
+[2025-08-10 18:25:13] ✅ Jarred Vanderbilt (ID: 1629020)
+[2025-08-10 18:25:15] ✅ Gabe Vincent (ID: 1629216)
+[2025-08-10 18:25:18] ⚠️ MEM: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MEM.png'
+[2025-08-10 18:25:21] ⚠️ MEM: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MEM.png'
+[2025-08-10 18:25:21] ❌ MEM: Todos los intentos fallaron
+[2025-08-10 18:25:21] ❌ No se pudo descargar logo para MEM
+[2025-08-10 18:25:21] 
+🏀 Procesando Memphis Grizzlies (18 jugadores)
+[2025-08-10 18:25:22] ✅ Santi Aldama (ID: 1630583)
+[2025-08-10 18:25:24] ✅ Kentavious Caldwell-Pope (ID: 203484)
+[2025-08-10 18:25:25] ✅ Brandon Clarke (ID: 1629634)
+[2025-08-10 18:25:45] ❌ Fallo al descargar Cedric Coward
+[2025-08-10 18:25:47] ✅ Zach Edey (ID: 1641744)
+[2025-08-10 18:25:49] ✅ PJ Hall (ID: 1641790)
+[2025-08-10 18:25:50] ✅ GG Jackson (ID: 1641713)
+[2025-08-10 18:25:52] ✅ Jaren Jackson Jr. (ID: 1628991)
+[2025-08-10 18:25:54] ✅ Ty Jerome (ID: 1629660)
+[2025-08-10 18:25:56] ✅ John Konchar (ID: 1629723)
+[2025-08-10 18:25:58] ✅ Jock Landale (ID: 1629111)
+[2025-08-10 18:26:17] ❌ Fallo al descargar Jahmai Mashack
+[2025-08-10 18:26:19] ✅ Ja Morant (ID: 1629630)
+[2025-08-10 18:26:21] ✅ Scotty Pippen Jr. (ID: 1630590)
+[2025-08-10 18:26:40] ❌ Fallo al descargar Javon Small
+[2025-08-10 18:26:42] ✅ Cam Spencer (ID: 1642285)
+[2025-08-10 18:26:44] ✅ Jaylen Wells (ID: 1642377)
+[2025-08-10 18:26:46] ✅ Vince Williams Jr. (ID: 1631246)
+[2025-08-10 18:26:49] ⚠️ MIN: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIN.png'
+[2025-08-10 18:26:51] ⚠️ MIN: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIN.png'
+[2025-08-10 18:26:51] ❌ MIN: Todos los intentos fallaron
+[2025-08-10 18:26:51] ❌ No se pudo descargar logo para MIN
+[2025-08-10 18:26:51] 
+🏀 Procesando Minnesota Timberwolves (18 jugadores)
+[2025-08-10 18:27:10] ❌ Fallo al descargar Joan Beringer
+[2025-08-10 18:27:12] ✅ Jaylen Clark (ID: 1641740)
+[2025-08-10 18:27:13] ✅ Mike Conley (ID: 201144)
+[2025-08-10 18:27:15] ✅ Rob Dillingham (ID: 1642265)
+[2025-08-10 18:27:17] ✅ Donte DiVincenzo (ID: 1628978)
+[2025-08-10 18:27:19] ✅ Anthony Edwards (ID: 1630162)
+[2025-08-10 18:27:20] ✅ Jesse Edwards (ID: 1642399)
+[2025-08-10 18:27:22] ✅ Enrique Freeman (ID: 1642402)
+[2025-08-10 18:27:24] ✅ Rudy Gobert (ID: 203497)
+[2025-08-10 18:27:26] ✅ Bones Hyland (ID: 1630538)
+[2025-08-10 18:27:28] ✅ Joe Ingles (ID: 204060)
+[2025-08-10 18:27:30] ✅ Jaden McDaniels (ID: 1630183)
+[2025-08-10 18:27:32] ✅ Leonard Miller (ID: 1631159)
+[2025-08-10 18:27:33] ✅ Tristen Newton (ID: 1641803)
+[2025-08-10 18:27:35] ✅ Julius Randle (ID: 203944)
+[2025-08-10 18:27:37] ✅ Naz Reid (ID: 1629675)
+[2025-08-10 18:27:39] ✅ Terrence Shannon Jr. (ID: 1630545)
+[2025-08-10 18:27:58] ❌ Fallo al descargar Rocco Zikarsky
+[2025-08-10 18:27:58] ⚠️ NOP: Error con URL especial - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\NOP.png'
+[2025-08-10 18:28:05] ⚠️ NOP: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\NOP.png'
+[2025-08-10 18:28:05] ❌ NOP: Todos los intentos fallaron
+[2025-08-10 18:28:05] ❌ No se pudo descargar logo para NOP
+[2025-08-10 18:28:05] 
+🏀 Procesando New Orleans Pelicans (22 jugadores)
+[2025-08-10 18:28:07] ✅ Trey Alexander (ID: 1641725)
+[2025-08-10 18:28:08] ✅ Jose Alvarado (ID: 1630631)
+[2025-08-10 18:28:10] ✅ Saddiq Bey (ID: 1630180)
+[2025-08-10 18:28:12] ✅ Brandon Boston (ID: 1630527)
+[2025-08-10 18:28:14] ✅ Keion Brooks Jr. (ID: 1631232)
+[2025-08-10 18:28:34] ❌ Fallo al descargar Hunter Dickinson
+[2025-08-10 18:28:55] ❌ Fallo al descargar Jeremiah Fears
+[2025-08-10 18:28:57] ✅ Jordan Hawkins (ID: 1641722)
+[2025-08-10 18:28:58] ✅ Herbert Jones (ID: 1630529)
+[2025-08-10 18:29:00] ✅ Kevon Looney (ID: 1626172)
+[2025-08-10 18:29:02] ✅ Karlo Matković (ID: 1631255)
+[2025-08-10 18:29:03] ✅ Bryce McGowens (ID: 1631121)
+[2025-08-10 18:29:05] ✅ Yves Missi (ID: 1642274)
+[2025-08-10 18:29:07] ✅ Trey Murphy III (ID: 1630530)
+[2025-08-10 18:29:09] ✅ Dejounte Murray (ID: 1627749)
+[2025-08-10 18:29:10] ✅ Elfrid Payton (ID: 203901)
+[2025-08-10 18:29:30] ❌ Fallo al descargar Micah Peavy
+[2025-08-10 18:29:32] ✅ Jordan Poole (ID: 1629673)
+[2025-08-10 18:29:51] ❌ Fallo al descargar Derik Queen
+[2025-08-10 18:29:53] ✅ Jeremiah Robinson-Earl (ID: 1630526)
+[2025-08-10 18:29:55] ✅ Jaden Springer (ID: 1630531)
+[2025-08-10 18:29:56] ✅ Zion Williamson (ID: 1629627)
+[2025-08-10 18:29:59] ⚠️ OKC: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\OKC.png'
+[2025-08-10 18:30:02] ⚠️ OKC: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\OKC.png'
+[2025-08-10 18:30:02] ❌ OKC: Todos los intentos fallaron
+[2025-08-10 18:30:02] ❌ No se pudo descargar logo para OKC
+[2025-08-10 18:30:03] 
+🏀 Procesando Oklahoma City Thunder (19 jugadores)
+[2025-08-10 18:30:24] ❌ Fallo al descargar Brooks Barnhizer
+[2025-08-10 18:30:25] ✅ Branden Carlson (ID: 1642382)
+[2025-08-10 18:30:28] ✅ Alex Caruso (ID: 1627936)
+[2025-08-10 18:30:31] ✅ Ousmane Dieng (ID: 1631172)
+[2025-08-10 18:30:32] ✅ Luguentz Dort (ID: 1629652)
+[2025-08-10 18:30:35] ✅ Alex Ducas (ID: 1642505)
+[2025-08-10 18:30:37] ✅ Shai Gilgeous-Alexander (ID: 1628983)
+[2025-08-10 18:30:39] ✅ Isaiah Hartenstein (ID: 1628392)
+[2025-08-10 18:30:41] ✅ Chet Holmgren (ID: 1631096)
+[2025-08-10 18:30:43] ✅ Isaiah Joe (ID: 1630198)
+[2025-08-10 18:30:46] ✅ Malevy Leons (ID: 1642502)
+[2025-08-10 18:30:54] ✅ Ajay Mitchell (ID: 1642349)
+[2025-08-10 18:31:22] ❌ Fallo al descargar Thomas Sorber
+[2025-08-10 18:31:26] ✅ Nikola Topić (ID: 1642260)
+[2025-08-10 18:31:29] ✅ Cason Wallace (ID: 1641717)
+[2025-08-10 18:31:32] ✅ Aaron Wiggins (ID: 1630598)
+[2025-08-10 18:31:35] ✅ Jalen Williams (ID: 1631114)
+[2025-08-10 18:31:40] ✅ Jaylin Williams (ID: 1631119)
+[2025-08-10 18:31:42] ✅ Kenrich Williams (ID: 1629026)
+[2025-08-10 18:31:46] ⚠️ PHX: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\PHX.png'
+[2025-08-10 18:31:49] ⚠️ PHX: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\PHX.png'
+[2025-08-10 18:31:49] ❌ PHX: Todos los intentos fallaron
+[2025-08-10 18:31:49] ❌ No se pudo descargar logo para PHX
+[2025-08-10 18:31:49] 
+🏀 Procesando Phoenix Suns (22 jugadores)
+[2025-08-10 18:31:51] ✅ Grayson Allen (ID: 1628960)
+[2025-08-10 18:31:53] ✅ Bol Bol (ID: 1629626)
+[2025-08-10 18:31:55] ✅ Devin Booker (ID: 1626164)
+[2025-08-10 18:32:19] ❌ Fallo al descargar Koby Brea
+[2025-08-10 18:32:22] ✅ Jalen Bridges (ID: 1641779)
+[2025-08-10 18:32:24] ✅ Dillon Brooks (ID: 1628415)
+[2025-08-10 18:32:26] ✅ Jared Butler (ID: 1630215)
+[2025-08-10 18:32:28] ✅ Ryan Dunn (ID: 1642346)
+[2025-08-10 18:32:49] ❌ Fallo al descargar Rasheer Fleming
+[2025-08-10 18:32:51] ✅ Collin Gillespie (ID: 1631221)
+[2025-08-10 18:32:52] ✅ Jordan Goodwin (ID: 1630692)
+[2025-08-10 18:32:54] ✅ Jalen Green (ID: 1630224)
+[2025-08-10 18:32:56] ✅ Nigel Hayes-Davis (ID: 1628502)
+[2025-08-10 18:33:18] ❌ Fallo al descargar CJ Huntley
+[2025-08-10 18:33:21] ✅ Oso Ighodaro (ID: 1642345)
+[2025-08-10 18:33:23] ✅ Damion Lee (ID: 1627814)
+[2025-08-10 18:33:25] ✅ Isaiah Livers (ID: 1630587)
+[2025-08-10 18:33:48] ❌ Fallo al descargar Khaman Maluach
+[2025-08-10 18:33:51] ✅ Monté Morris (ID: 1628420)
+[2025-08-10 18:33:54] ✅ Royce O'Neale (ID: 1626220)
+[2025-08-10 18:33:57] ✅ Nick Richards (ID: 1630208)
+[2025-08-10 18:33:59] ✅ Mark Williams (ID: 1631109)
+[2025-08-10 18:34:04] ⚠️ POR: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\POR.png'
+[2025-08-10 18:34:08] ⚠️ POR: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\POR.png'
+[2025-08-10 18:34:08] ❌ POR: Todos los intentos fallaron
+[2025-08-10 18:34:08] ❌ No se pudo descargar logo para POR
+[2025-08-10 18:34:08] 
+🏀 Procesando Portland Trail Blazers (19 jugadores)
+[2025-08-10 18:34:10] ✅ Deni Avdija (ID: 1630166)
+[2025-08-10 18:34:12] ✅ Dalano Banton (ID: 1630625)
+[2025-08-10 18:34:14] ✅ Toumani Camara (ID: 1641739)
+[2025-08-10 18:34:16] ✅ Sidy Cissoko (ID: 1631321)
+[2025-08-10 18:34:18] ✅ Donovan Clingan (ID: 1642270)
+[2025-08-10 18:34:20] ✅ Jerami Grant (ID: 203924)
+[2025-08-10 18:34:22] ✅ Scoot Henderson (ID: 1630703)
+[2025-08-10 18:34:24] ✅ Jrue Holiday (ID: 201950)
+[2025-08-10 18:34:26] ✅ Damian Lillard (ID: 203081)
+[2025-08-10 18:34:45] ❌ Fallo al descargar Caleb Love
+[2025-08-10 18:34:47] ✅ Justin Minaya (ID: 1631303)
+[2025-08-10 18:34:49] ✅ Kris Murray (ID: 1631200)
+[2025-08-10 18:34:52] ✅ Duop Reath (ID: 1641871)
+[2025-08-10 18:34:54] ✅ Rayan Rupert (ID: 1641712)
+[2025-08-10 18:34:56] ✅ Shaedon Sharpe (ID: 1631101)
+[2025-08-10 18:34:59] ✅ Matisse Thybulle (ID: 1629680)
+[2025-08-10 18:35:01] ✅ Blake Wesley (ID: 1631104)
+[2025-08-10 18:35:03] ✅ Robert Williams III (ID: 1629057)
+[2025-08-10 18:35:23] ❌ Fallo al descargar Hansen Yang
+[2025-08-10 18:35:25] ⚠️ SAC: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\SAC.png'
+[2025-08-10 18:35:28] ⚠️ SAC: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\SAC.png'
+[2025-08-10 18:35:28] ❌ SAC: Todos los intentos fallaron
+[2025-08-10 18:35:28] ❌ No se pudo descargar logo para SAC
+[2025-08-10 18:35:28] 
+🏀 Procesando Sacramento Kings (22 jugadores)
+[2025-08-10 18:35:47] ❌ Fallo al descargar Dylan Cardwell
+[2025-08-10 18:35:50] ✅ Devin Carter (ID: 1642269)
+[2025-08-10 18:36:12] ❌ Fallo al descargar Nique Clifford
+[2025-08-10 18:36:15] ✅ Jae Crowder (ID: 203109)
+[2025-08-10 18:36:17] ✅ Terence Davis (ID: 1629056)
+[2025-08-10 18:36:19] ✅ DeMar DeRozan (ID: 201942)
+[2025-08-10 18:36:22] ✅ Keon Ellis (ID: 1631165)
+[2025-08-10 18:36:25] ✅ Drew Eubanks (ID: 1629234)
+[2025-08-10 18:36:28] ✅ Markelle Fultz (ID: 1628365)
+[2025-08-10 18:36:31] ✅ Isaac Jones (ID: 1642403)
+[2025-08-10 18:36:33] ✅ Mason Jones (ID: 1630222)
+[2025-08-10 18:36:35] ✅ Zach LaVine (ID: 203897)
+[2025-08-10 18:36:38] ✅ Trey Lyles (ID: 1626168)
+[2025-08-10 18:36:41] ✅ Doug McDermott (ID: 203926)
+[2025-08-10 18:36:44] ✅ Malik Monk (ID: 1628370)
+[2025-08-10 18:36:46] ✅ Keegan Murray (ID: 1631099)
+[2025-08-10 18:36:48] ✅ Daeqwon Plowden (ID: 1631342)
+[2025-08-10 18:37:12] ❌ Fallo al descargar Maxime Raynaud
+[2025-08-10 18:37:21] ✅ Domantas Sabonis (ID: 1627734)
+[2025-08-10 18:37:25] ✅ Dario Šarić (ID: 203967)
+[2025-08-10 18:37:27] ✅ Dennis Schröder (ID: 203471)
+[2025-08-10 18:37:29] ✅ Isaiah Stevens (ID: 1641815)
+[2025-08-10 18:37:33] ⚠️ SAS: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\SAS.png'
+[2025-08-10 18:37:36] ⚠️ SAS: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\SAS.png'
+[2025-08-10 18:37:36] ❌ SAS: Todos los intentos fallaron
+[2025-08-10 18:37:36] ❌ No se pudo descargar logo para SAS
+[2025-08-10 18:37:36] 
+🏀 Procesando San Antonio Spurs (22 jugadores)
+[2025-08-10 18:37:39] ✅ Harrison Barnes (ID: 203084)
+[2025-08-10 18:37:41] ✅ Charles Bassey (ID: 1629646)
+[2025-08-10 18:37:44] ✅ Bismack Biyombo (ID: 202687)
+[2025-08-10 18:38:06] ❌ Fallo al descargar Carter Bryant
+[2025-08-10 18:38:09] ✅ Stephon Castle (ID: 1642264)
+[2025-08-10 18:38:11] ✅ Julian Champagnie (ID: 1630577)
+[2025-08-10 18:38:13] ✅ David Duke Jr. (ID: 1630561)
+[2025-08-10 18:38:15] ✅ Adam Flagler (ID: 1641745)
+[2025-08-10 18:38:17] ✅ De'Aaron Fox (ID: 1628368)
+[2025-08-10 18:38:48] ❌ Fallo al descargar Dylan Harper
+[2025-08-10 18:38:50] ✅ Harrison Ingram (ID: 1631127)
+[2025-08-10 18:38:52] ✅ Keldon Johnson (ID: 1629640)
+[2025-08-10 18:38:54] ✅ David Jones Garcia (ID: 1642357)
+[2025-08-10 18:38:56] ✅ Luke Kornet (ID: 1628436)
+[2025-08-10 18:38:58] ✅ Jordan McLaughlin (ID: 1629162)
+[2025-08-10 18:39:02] ✅ Riley Minix (ID: 1642434)
+[2025-08-10 18:39:04] ✅ Kelly Olynyk (ID: 203482)
+[2025-08-10 18:39:06] ✅ Micah Potter (ID: 1630695)
+[2025-08-10 18:39:09] ✅ Jeremy Sochan (ID: 1631110)
+[2025-08-10 18:39:12] ✅ Devin Vassell (ID: 1630170)
+[2025-08-10 18:39:16] ✅ Lindy Waters III (ID: 1630322)
+[2025-08-10 18:39:18] ✅ Victor Wembanyama (ID: 1641705)
+[2025-08-10 18:39:21] ⚠️ UTA: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\UTA.png'
+[2025-08-10 18:39:24] ⚠️ UTA: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\UTA.png'
+[2025-08-10 18:39:26] ⚠️ UTA: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\UTA.png'
+[2025-08-10 18:39:26] ❌ UTA: Todos los intentos fallaron
+[2025-08-10 18:39:26] ❌ No se pudo descargar logo para UTA
+[2025-08-10 18:39:26] 
+🏀 Procesando Utah Jazz (19 jugadores)
+[2025-08-10 18:39:29] ✅ Kyle Anderson (ID: 203937)
+[2025-08-10 18:39:54] ❌ Fallo al descargar Ace Bailey
+[2025-08-10 18:40:15] ❌ Fallo al descargar Walter Clayton Jr.
+[2025-08-10 18:40:17] ✅ Isaiah Collier (ID: 1642268)
+[2025-08-10 18:40:18] ✅ Kyle Filipowski (ID: 1642271)
+[2025-08-10 18:40:20] ✅ Keyonte George (ID: 1641718)
+[2025-08-10 18:40:23] ✅ Elijah Harkless (ID: 1641989)
+[2025-08-10 18:40:24] ✅ Taylor Hendricks (ID: 1641707)
+[2025-08-10 18:40:26] ✅ Walker Kessler (ID: 1631117)
+[2025-08-10 18:40:28] ✅ Kevin Love (ID: 201567)
+[2025-08-10 18:40:30] ✅ Lauri Markkanen (ID: 1628374)
+[2025-08-10 18:40:33] ✅ KJ Martin (ID: 1630231)
+[2025-08-10 18:40:38] ✅ Svi Mykhailiuk (ID: 1629004)
+[2025-08-10 18:40:40] ✅ Georges Niang (ID: 1627777)
+[2025-08-10 18:40:43] ✅ Jusuf Nurkić (ID: 203994)
+[2025-08-10 18:40:47] ✅ Brice Sensabaugh (ID: 1641729)
+[2025-08-10 18:41:11] ❌ Fallo al descargar John Tonje
+[2025-08-10 18:41:15] ✅ Oscar Tshiebwe (ID: 1631131)
+[2025-08-10 18:41:18] ✅ Cody Williams (ID: 1642262)
+[2025-08-10 18:41:18] 
+==================================================
+[2025-08-10 18:41:18]                   RESUMEN FINAL                   
+[2025-08-10 18:41:18] ==================================================
+[2025-08-10 18:41:18] Equipos procesados: 30
+[2025-08-10 18:41:18] Logos descargados: 0/30
+[2025-08-10 18:41:18] Jugadores descargados: 527/604
+[2025-08-10 18:41:18] ==================================================
+
+
+
+=== Nueva ejecución: 2025-08-10 18:49:36 ===
+[2025-08-10 18:49:36] 
+⏩ Saltando equipo Boston Celtics - Filtrado
+[2025-08-10 18:49:39] 
+⏩ Saltando equipo Brooklyn Nets - Filtrado
+[2025-08-10 18:49:42] 
+⏩ Saltando equipo Charlotte Hornets - Filtrado
+[2025-08-10 18:49:45] 
+⏩ Saltando equipo Atlanta Hawks - Filtrado
+[2025-08-10 18:49:48] 
+⏩ Saltando equipo Chicago Bulls - Filtrado
+[2025-08-10 18:49:51] 
+⏩ Saltando equipo Cleveland Cavaliers - Filtrado
+[2025-08-10 18:49:54] 
+⏩ Saltando equipo Detroit Pistons - Filtrado
+[2025-08-10 18:49:57] 
+⏩ Saltando equipo Indiana Pacers - Filtrado
+[2025-08-10 18:50:00] 
+⏩ Saltando equipo Miami Heat - Filtrado
+[2025-08-10 18:50:03] 
+⏩ Saltando equipo Milwaukee Bucks - Filtrado
+[2025-08-10 18:50:06] 
+⏩ Saltando equipo New York Knicks - Filtrado
+[2025-08-10 18:50:09] 
+⏩ Saltando equipo Orlando Magic - Filtrado
+[2025-08-10 18:50:12] 
+⏩ Saltando equipo Philadelphia 76ers - Filtrado
+[2025-08-10 18:50:15] 
+⏩ Saltando equipo Toronto Raptors - Filtrado
+[2025-08-10 18:50:18] 
+⏩ Saltando equipo Washington Wizards - Filtrado
+[2025-08-10 18:50:21] 
+⏩ Saltando equipo Dallas Mavericks - Filtrado
+[2025-08-10 18:50:24] 
+⏩ Saltando equipo Denver Nuggets - Filtrado
+[2025-08-10 18:50:27] 
+⏩ Saltando equipo Golden State Warriors - Filtrado
+[2025-08-10 18:50:30] 
+⏩ Saltando equipo Houston Rockets - Filtrado
+[2025-08-10 18:50:33] 
+⏩ Saltando equipo Los Angeles Clippers - Filtrado
+[2025-08-10 18:50:36] 
+⏩ Saltando equipo Los Angeles Lakers - Filtrado
+[2025-08-10 18:50:39] 
+⏩ Saltando equipo Memphis Grizzlies - Filtrado
+[2025-08-10 18:50:42] 
+⏩ Saltando equipo Minnesota Timberwolves - Filtrado
+[2025-08-10 18:50:45] 
+⏩ Saltando equipo New Orleans Pelicans - Filtrado
+[2025-08-10 18:50:48] 
+⏩ Saltando equipo Oklahoma City Thunder - Filtrado
+[2025-08-10 18:50:51] 
+⏩ Saltando equipo Phoenix Suns - Filtrado
+[2025-08-10 18:50:54] 
+⏩ Saltando equipo Portland Trail Blazers - Filtrado
+[2025-08-10 18:50:57] 
+⏩ Saltando equipo Sacramento Kings - Filtrado
+
+
+=== Nueva ejecución: 2025-08-10 18:51:11 ===
+[2025-08-10 18:51:14] ⚠️ BOS: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BOS.png'
+[2025-08-10 18:51:16] ⚠️ BOS: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BOS.png'
+[2025-08-10 18:51:17] ⚠️ BOS: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BOS.png'
+[2025-08-10 18:51:17] ❌ BOS: Todos los intentos fallaron
+[2025-08-10 18:51:17] ❌ No se pudo descargar logo para BOS
+[2025-08-10 18:51:18] ⚠️ BKN: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BKN.png'
+[2025-08-10 18:51:19] ⚠️ BKN: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BKN.png'
+[2025-08-10 18:51:20] ⚠️ BKN: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BKN.png'
+[2025-08-10 18:51:21] ⚠️ BKN: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\BKN.png'
+[2025-08-10 18:51:21] ❌ BKN: Todos los intentos fallaron
+[2025-08-10 18:51:21] ❌ No se pudo descargar logo para BKN
+[2025-08-10 18:51:24] ⚠️ CHA: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CHA.png'
+[2025-08-10 18:51:26] ⚠️ CHA: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CHA.png'
+[2025-08-10 18:51:26] ❌ CHA: Todos los intentos fallaron
+[2025-08-10 18:51:26] ❌ No se pudo descargar logo para CHA
+[2025-08-10 18:51:29] ⚠️ ATL: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ATL.png'
+[2025-08-10 18:51:32] ⚠️ ATL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ATL.png'
+[2025-08-10 18:51:32] ❌ ATL: Todos los intentos fallaron
+[2025-08-10 18:51:32] ❌ No se pudo descargar logo para ATL
+[2025-08-10 18:51:34] ⚠️ CHI: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CHI.png'
+[2025-08-10 18:51:38] ⚠️ CHI: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CHI.png'
+[2025-08-10 18:51:38] ❌ CHI: Todos los intentos fallaron
+[2025-08-10 18:51:38] ❌ No se pudo descargar logo para CHI
+[2025-08-10 18:51:39] ⚠️ CLE: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CLE.png'
+[2025-08-10 18:51:40] ⚠️ CLE: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CLE.png'
+[2025-08-10 18:51:43] ⚠️ CLE: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CLE.png'
+[2025-08-10 18:51:44] ⚠️ CLE: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\CLE.png'
+[2025-08-10 18:51:44] ❌ CLE: Todos los intentos fallaron
+[2025-08-10 18:51:44] ❌ No se pudo descargar logo para CLE
+[2025-08-10 18:51:48] ⚠️ DET: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\DET.png'
+[2025-08-10 18:51:52] ⚠️ DET: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\DET.png'
+[2025-08-10 18:51:52] ❌ DET: Todos los intentos fallaron
+[2025-08-10 18:51:52] ❌ No se pudo descargar logo para DET
+[2025-08-10 18:51:55] ⚠️ IND: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\IND.png'
+[2025-08-10 18:51:59] ⚠️ IND: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\IND.png'
+[2025-08-10 18:51:59] ❌ IND: Todos los intentos fallaron
+[2025-08-10 18:51:59] ❌ No se pudo descargar logo para IND
+[2025-08-10 18:52:03] ⚠️ MIA: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIA.png'
+[2025-08-10 18:52:06] ⚠️ MIA: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIA.png'
+[2025-08-10 18:52:06] ❌ MIA: Todos los intentos fallaron
+[2025-08-10 18:52:06] ❌ No se pudo descargar logo para MIA
+[2025-08-10 18:52:09] ⚠️ MIL: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIL.png'
+[2025-08-10 18:52:12] ⚠️ MIL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\MIL.png'
+[2025-08-10 18:52:12] ❌ MIL: Todos los intentos fallaron
+[2025-08-10 18:52:12] ❌ No se pudo descargar logo para MIL
+[2025-08-10 18:52:14] ⚠️ NYK: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\NYK.png'
+[2025-08-10 18:52:17] ⚠️ NYK: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\NYK.png'
+[2025-08-10 18:52:17] ❌ NYK: Todos los intentos fallaron
+[2025-08-10 18:52:17] ❌ No se pudo descargar logo para NYK
+[2025-08-10 18:52:19] ⚠️ ORL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ORL.png'
+[2025-08-10 18:52:20] ⚠️ ORL: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ORL.png'
+[2025-08-10 18:52:21] ⚠️ ORL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ORL.png'
+[2025-08-10 18:52:22] ⚠️ ORL: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\ORL.png'
+[2025-08-10 18:52:22] ❌ ORL: Todos los intentos fallaron
+[2025-08-10 18:52:22] ❌ No se pudo descargar logo para ORL
+[2025-08-10 18:52:26] ⚠️ PHI: Error con a.espncdn.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\PHI.png'
+[2025-08-10 18:52:29] ⚠️ PHI: Error con cdn.nba.com - [Errno 2] No such file or directory: 'F:\\Programacion\\DESARROLLADOR PROFESIONAL\\IABet\\images_IABet\\images\\logos\\PHI.png'
+[2025-08-10 18:52:29] ❌ PHI: Todos los intentos fallaron
+[2025-08-10 18:52:29] ❌ No se pudo descargar logo para PHI
+
+
+=== Nueva ejecución: 2025-08-10 18:52:49 ===
+[2025-08-10 18:52:51] ✅ BOS: Logo descargado correctamente
+[2025-08-10 18:52:51] 🖼️ Logo de BOS descargado
+[2025-08-10 18:52:53] ✅ BKN: Logo descargado correctamente
+[2025-08-10 18:52:53] 🖼️ Logo de BKN descargado
+[2025-08-10 18:52:57] ✅ CHA: Logo descargado correctamente
+[2025-08-10 18:52:57] 🖼️ Logo de CHA descargado
+[2025-08-10 18:53:01] ✅ ATL: Logo descargado correctamente
+[2025-08-10 18:53:01] 🖼️ Logo de ATL descargado
+[2025-08-10 18:53:04] ✅ CHI: Logo descargado correctamente
+[2025-08-10 18:53:04] 🖼️ Logo de CHI descargado
+[2025-08-10 18:53:05] ✅ CLE: Logo descargado correctamente
+[2025-08-10 18:53:05] 🖼️ Logo de CLE descargado
+[2025-08-10 18:53:11] ✅ DET: Logo descargado correctamente
+[2025-08-10 18:53:11] 🖼️ Logo de DET descargado
+[2025-08-10 18:53:13] ✅ IND: Logo descargado correctamente
+[2025-08-10 18:53:13] 🖼️ Logo de IND descargado
+[2025-08-10 18:53:16] ✅ MIA: Logo descargado correctamente
+[2025-08-10 18:53:16] 🖼️ Logo de MIA descargado
+[2025-08-10 18:53:19] ✅ MIL: Logo descargado correctamente
+[2025-08-10 18:53:19] 🖼️ Logo de MIL descargado
+[2025-08-10 18:53:22] ✅ NYK: Logo descargado correctamente
+[2025-08-10 18:53:22] 🖼️ Logo de NYK descargado
+[2025-08-10 18:53:24] ✅ ORL: Logo descargado correctamente
+[2025-08-10 18:53:24] 🖼️ Logo de ORL descargado
+[2025-08-10 18:53:28] ✅ PHI: Logo descargado correctamente
+[2025-08-10 18:53:28] 🖼️ Logo de PHI descargado
+[2025-08-10 18:53:31] ✅ TOR: Logo descargado correctamente
+[2025-08-10 18:53:31] 🖼️ Logo de TOR descargado
+[2025-08-10 18:53:34] ✅ WAS: Logo descargado correctamente
+[2025-08-10 18:53:34] 🖼️ Logo de WAS descargado
+[2025-08-10 18:53:38] ✅ DAL: Logo descargado correctamente
+[2025-08-10 18:53:38] 🖼️ Logo de DAL descargado
+[2025-08-10 18:53:40] ✅ DEN: Logo descargado correctamente
+[2025-08-10 18:53:40] 🖼️ Logo de DEN descargado
+[2025-08-10 18:53:44] ✅ GSW: Logo descargado correctamente
+[2025-08-10 18:53:44] 🖼️ Logo de GSW descargado
+[2025-08-10 18:53:47] ✅ HOU: Logo descargado correctamente
+[2025-08-10 18:53:47] 🖼️ Logo de HOU descargado
+[2025-08-10 18:53:48] ✅ LAC: Logo descargado correctamente
+[2025-08-10 18:53:48] 🖼️ Logo de LAC descargado
+[2025-08-10 18:53:52] ✅ LAL: Logo descargado correctamente
+[2025-08-10 18:53:52] 🖼️ Logo de LAL descargado
+[2025-08-10 18:53:56] ✅ MEM: Logo descargado correctamente
+[2025-08-10 18:53:56] 🖼️ Logo de MEM descargado
+[2025-08-10 18:53:59] ✅ MIN: Logo descargado correctamente
+[2025-08-10 18:53:59] 🖼️ Logo de MIN descargado
+[2025-08-10 18:54:04] ⚠️ NOP: Error con URL especial - no library called "cairo-2" was found
+no library called "cairo" was found
+no library called "libcairo-2" was found
+cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'
+cannot load library 'libcairo.2.dylib': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'
+cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'
+[2025-08-10 18:54:10] ✅ NOP: Logo descargado correctamente
+[2025-08-10 18:54:10] 🖼️ Logo de NOP descargado
+[2025-08-10 18:54:12] ✅ OKC: Logo descargado correctamente
+[2025-08-10 18:54:12] 🖼️ Logo de OKC descargado
+[2025-08-10 18:54:16] ✅ PHX: Logo descargado correctamente
+[2025-08-10 18:54:16] 🖼️ Logo de PHX descargado
+[2025-08-10 18:54:19] ✅ POR: Logo descargado correctamente
+[2025-08-10 18:54:19] 🖼️ Logo de POR descargado
+[2025-08-10 18:54:21] ✅ SAC: Logo descargado correctamente
+[2025-08-10 18:54:21] 🖼️ Logo de SAC descargado
+[2025-08-10 18:54:24] ✅ SAS: Logo descargado correctamente
+[2025-08-10 18:54:24] 🖼️ Logo de SAS descargado
+[2025-08-10 18:54:27] ✅ UTA: Logo descargado correctamente
+[2025-08-10 18:54:27] 🖼️ Logo de UTA descargado
+[2025-08-10 18:54:28] 
+==================================================
+[2025-08-10 18:54:28]                   RESUMEN FINAL                   
+[2025-08-10 18:54:28] ==================================================
+[2025-08-10 18:54:28] Equipos procesados: 0
+[2025-08-10 18:54:28] Logos descargados: 30/30
+[2025-08-10 18:54:28] Jugadores descargados: 0/0
+[2025-08-10 18:54:28] ==================================================
+
+
+
+=== Nueva ejecución: 2025-08-10 19:37:14 ===
+[2025-08-10 19:37:14] 
+⏩ Saltando equipo Boston Celtics - Filtrado
+[2025-08-10 19:37:17] 
+⏩ Saltando equipo Brooklyn Nets - Filtrado
+[2025-08-10 19:37:20] 
+⏩ Saltando equipo Charlotte Hornets - Filtrado
+[2025-08-10 19:37:23] 
+⏩ Saltando equipo Atlanta Hawks - Filtrado
+[2025-08-10 19:37:26] 
+⏩ Saltando equipo Chicago Bulls - Filtrado
+[2025-08-10 19:37:29] 
+⏩ Saltando equipo Cleveland Cavaliers - Filtrado
+[2025-08-10 19:37:32] 
+⏩ Saltando equipo Detroit Pistons - Filtrado
+[2025-08-10 19:37:35] 
+⏩ Saltando equipo Indiana Pacers - Filtrado
+[2025-08-10 19:37:38] 
+⏩ Saltando equipo Miami Heat - Filtrado
+[2025-08-10 19:37:41] 
+⏩ Saltando equipo Milwaukee Bucks - Filtrado
+[2025-08-10 19:37:44] 
+⏩ Saltando equipo New York Knicks - Filtrado
+[2025-08-10 19:37:47] 
+⏩ Saltando equipo Orlando Magic - Filtrado
+[2025-08-10 19:37:50] 
+⏩ Saltando equipo Philadelphia 76ers - Filtrado
+[2025-08-10 19:37:53] 
+⏩ Saltando equipo Toronto Raptors - Filtrado
+[2025-08-10 19:38:00] ✅ WAS: Logo descargado correctamente
+[2025-08-10 19:38:00] 🖼️ Logo de WAS descargado
+[2025-08-10 19:38:00] 
+🏀 Procesando Washington Wizards (20 jugadores)
+[2025-08-10 19:38:02] ✅ Marvin Bagley III (ID: 1628963)
+[2025-08-10 19:38:04] ✅ Malaki Branham (ID: 1631103)
+[2025-08-10 19:38:05] ✅ Malcolm Brogdon (ID: 1627763)
+[2025-08-10 19:38:07] ✅ Bub Carrington (ID: 1642267)
+[2025-08-10 19:38:09] ✅ Justin Champagnie (ID: 1630551)
+[2025-08-10 19:38:11] ✅ Bilal Coulibaly (ID: 1641731)
+[2025-08-10 19:38:13] ✅ Kyshawn George (ID: 1642273)
+[2025-08-10 19:38:15] ✅ Anthony Gill (ID: 1630264)
+[2025-08-10 19:38:17] ✅ AJ Johnson (ID: 1642358)
+[2025-08-10 19:38:37] ❌ Fallo al descargar Tre Johnson
+[2025-08-10 19:38:38] ✅ Dillon Jones (ID: 1641794)
+[2025-08-10 19:38:40] ✅ Corey Kispert (ID: 1630557)
+[2025-08-10 19:38:41] ✅ CJ McCollum (ID: 203468)
+[2025-08-10 19:38:43] ✅ Khris Middleton (ID: 203114)
+[2025-08-10 19:39:03] ❌ Fallo al descargar Will Riley
+[2025-08-10 19:39:05] ✅ Alex Sarr (ID: 1642259)
+[2025-08-10 19:39:07] ✅ JT Thor (ID: 1630550)
+[2025-08-10 19:39:08] ✅ Tristan Vukcevic (ID: 1641774)
+[2025-08-10 19:39:28] ❌ Fallo al descargar Jamir Watkins
+[2025-08-10 19:39:30] ✅ Cam Whitmore (ID: 1641715)
+[2025-08-10 19:39:30] 
+⏩ Saltando equipo Dallas Mavericks - Filtrado
+[2025-08-10 19:39:33] 
+⏩ Saltando equipo Denver Nuggets - Filtrado
+[2025-08-10 19:39:36] 
+⏩ Saltando equipo Golden State Warriors - Filtrado
+[2025-08-10 19:39:39] 
+⏩ Saltando equipo Houston Rockets - Filtrado
+[2025-08-10 19:39:42] 
+⏩ Saltando equipo Los Angeles Clippers - Filtrado
+[2025-08-10 19:39:45] 
+⏩ Saltando equipo Los Angeles Lakers - Filtrado
+[2025-08-10 19:39:48] 
+⏩ Saltando equipo Memphis Grizzlies - Filtrado
+[2025-08-10 19:39:51] 
+⏩ Saltando equipo Minnesota Timberwolves - Filtrado
+[2025-08-10 19:39:54] 
+⏩ Saltando equipo New Orleans Pelicans - Filtrado
+[2025-08-10 19:39:57] 
+⏩ Saltando equipo Oklahoma City Thunder - Filtrado
+[2025-08-10 19:40:00] 
+⏩ Saltando equipo Phoenix Suns - Filtrado
+[2025-08-10 19:40:03] 
+⏩ Saltando equipo Portland Trail Blazers - Filtrado
+[2025-08-10 19:40:06] 
+⏩ Saltando equipo Sacramento Kings - Filtrado
+[2025-08-10 19:40:09] 
+⏩ Saltando equipo San Antonio Spurs - Filtrado
+[2025-08-10 19:40:12] 
+⏩ Saltando equipo Utah Jazz - Filtrado
+[2025-08-10 19:40:15] 
+==================================================
+[2025-08-10 19:40:15]                   RESUMEN FINAL                   
+[2025-08-10 19:40:15] ==================================================
+[2025-08-10 19:40:15] Equipos procesados: 1
+[2025-08-10 19:40:15] Logos descargados: 1/30
+[2025-08-10 19:40:15] Jugadores descargados: 17/20
+[2025-08-10 19:40:15] ==================================================
+
+
+
+=== Nueva ejecución: 2025-08-11 15:28:45 ===
+[2025-08-11 15:28:48] ✅ BOS: Logo descargado correctamente
+[2025-08-11 15:28:48] 🖼️ Logo de BOS descargado
+[2025-08-11 15:28:48] 
+🏀 Procesando Boston Celtics (20 jugadores)
+[2025-08-11 15:28:49] ✅ Jaylen Brown (ID: 1627759)
+[2025-08-11 15:28:51] ✅ Torrey Craig (ID: 1628470)
+[2025-08-11 15:28:53] ✅ Luka Garza (ID: 1630568)
+[2025-08-11 15:28:54] ✅ Hugo González (ID: 1642864)
+[2025-08-11 15:28:56] ✅ Hayden Gray (ID: 1643060)
+[2025-08-11 15:28:58] ✅ Sam Hauser (ID: 1630573)
+[2025-08-11 15:28:59] ✅ Al Horford (ID: 201143)
+[2025-08-11 15:29:01] ✅ Josh Minott (ID: 1631169)
+[2025-08-11 15:29:02] ✅ Georges Niang (ID: 1627777)
+[2025-08-11 15:29:04] ✅ Miles Norris (ID: 1641936)
+[2025-08-11 15:29:06] ✅ Payton Pritchard (ID: 1630202)
+[2025-08-11 15:29:07] ✅ Neemias Queta (ID: 1629674)
+[2025-08-11 15:29:09] ✅ Baylor Scheierman (ID: 1631248)
+[2025-08-11 15:29:10] ✅ Max Shulga (ID: 1642917)
+[2025-08-11 15:29:12] ✅ Anfernee Simons (ID: 1629014)
+[2025-08-11 15:29:13] ✅ Jayson Tatum (ID: 1628369)
+[2025-08-11 15:29:15] ✅ Xavier Tillman (ID: 1630214)
+[2025-08-11 15:29:17] ✅ Jordan Walsh (ID: 1641775)
+[2025-08-11 15:29:18] ✅ Derrick White (ID: 1628401)
+[2025-08-11 15:29:20] ✅ Amari Williams (ID: 1642873)
+[2025-08-11 15:29:22] ✅ BKN: Logo descargado correctamente
+[2025-08-11 15:29:22] 🖼️ Logo de BKN descargado
+[2025-08-11 15:29:22] 
+🏀 Procesando Brooklyn Nets (18 jugadores)
+[2025-08-11 15:29:23] ✅ Reece Beekman (ID: 1641736)
+[2025-08-11 15:29:25] ✅ Nic Claxton (ID: 1629651)
+[2025-08-11 15:29:27] ✅ Noah Clowney (ID: 1641730)
+[2025-08-11 15:29:28] ✅ Egor Dëmin (ID: 1642856)
+[2025-08-11 15:29:30] ✅ Tyson Etienne (ID: 1630623)
+[2025-08-11 15:29:31] ✅ Tosan Evbuomwan (ID: 1641787)
+[2025-08-11 15:29:33] ✅ Keon Johnson (ID: 1630553)
+[2025-08-11 15:29:35] ✅ Terance Mann (ID: 1629611)
+[2025-08-11 15:29:36] ✅ Tyrese Martin (ID: 1631213)
+[2025-08-11 15:29:38] ✅ Michael Porter Jr. (ID: 1629008)
+[2025-08-11 15:29:40] ✅ Drake Powell (ID: 1642962)
+[2025-08-11 15:29:41] ✅ Ben Saraf (ID: 1642879)
+[2025-08-11 15:29:43] ✅ Cam Thomas (ID: 1630560)
+[2025-08-11 15:29:45] ✅ Drew Timme (ID: 1631166)
+[2025-08-11 15:29:47] ✅ Nolan Traore (ID: 1642849)
+[2025-08-11 15:29:48] ✅ Dariq Whitehead (ID: 1641727)
+[2025-08-11 15:29:50] ✅ Jalen Wilson (ID: 1630592)
+[2025-08-11 15:29:51] ✅ Danny Wolf (ID: 1642874)
+[2025-08-11 15:29:55] ✅ CHA: Logo descargado correctamente
+[2025-08-11 15:29:55] 🖼️ Logo de CHA descargado
+[2025-08-11 15:29:55] 
+🏀 Procesando Charlotte Hornets (24 jugadores)
+[2025-08-11 15:29:56] ✅ LaMelo Ball (ID: 1630163)
+[2025-08-11 15:29:58] ✅ Miles Bridges (ID: 1628970)
+[2025-08-11 15:29:59] ✅ Pat Connaughton (ID: 1626192)
+[2025-08-11 15:30:01] ✅ Seth Curry (ID: 203552)
+[2025-08-11 15:30:03] ✅ Moussa Diabaté (ID: 1631217)
+[2025-08-11 15:30:04] ✅ Spencer Dinwiddie (ID: 203915)
+[2025-08-11 15:30:06] ✅ Taj Gibson (ID: 201959)
+[2025-08-11 15:30:07] ✅ Josh Green (ID: 1630182)
+[2025-08-11 15:30:09] ✅ Sion James (ID: 1642883)
+[2025-08-11 15:30:10] ✅ DaQuan Jeffries (ID: 1629610)
+[2025-08-11 15:30:12] ✅ Ryan Kalkbrenner (ID: 1641750)
+[2025-08-11 15:30:13] ✅ Kon Knueppel (ID: 1642851)
+[2025-08-11 15:30:15] ✅ Tre Mann (ID: 1630544)
+[2025-08-11 15:30:17] ✅ Liam McNeeley (ID: 1642862)
+[2025-08-11 15:30:18] ✅ Brandon Miller (ID: 1641706)
+[2025-08-11 15:30:20] ✅ Wendell Moore Jr. (ID: 1631111)
+[2025-08-11 15:30:21] ✅ Drew Peterson (ID: 1641809)
+[2025-08-11 15:30:23] ✅ Mason Plumlee (ID: 203486)
+[2025-08-11 15:30:24] ✅ Antonio Reeves (ID: 1641810)
+[2025-08-11 15:30:26] ✅ Tidjane Salaün (ID: 1642275)
+[2025-08-11 15:30:28] ✅ Collin Sexton (ID: 1629012)
+[2025-08-11 15:30:30] ✅ KJ Simpson (ID: 1642354)
+[2025-08-11 15:30:31] ✅ Nick Smith Jr. (ID: 1641733)
+[2025-08-11 15:30:33] ✅ Grant Williams (ID: 1629684)
+[2025-08-11 15:30:35] ✅ ATL: Logo descargado correctamente
+[2025-08-11 15:30:35] 🖼️ Logo de ATL descargado
+[2025-08-11 15:30:35] 
+🏀 Procesando Atlanta Hawks (17 jugadores)
+[2025-08-11 15:30:37] ✅ Nickeil Alexander-Walker (ID: 1629638)
+[2025-08-11 15:30:38] ✅ Kobe Bufkin (ID: 1641723)
+[2025-08-11 15:30:40] ✅ Dyson Daniels (ID: 1630700)
+[2025-08-11 15:30:42] ✅ Nikola Durišić (ID: 1642365)
+[2025-08-11 15:30:43] ✅ Mouhamed Gueye (ID: 1631243)
+[2025-08-11 15:30:45] ✅ Jalen Johnson (ID: 1630552)
+[2025-08-11 15:30:47] ✅ Luke Kennard (ID: 1628379)
+[2025-08-11 15:30:49] ✅ Vít Krejčí (ID: 1630249)
+[2025-08-11 15:30:50] ✅ Garrison Mathews (ID: 1629726)
+[2025-08-11 15:30:52] ✅ Eli John Ndiaye (ID: 1642947)
+[2025-08-11 15:30:54] ✅ Asa Newell (ID: 1642854)
+[2025-08-11 15:30:56] ✅ Onyeka Okongwu (ID: 1630168)
+[2025-08-11 15:30:58] ✅ Kristaps Porziņģis (ID: 204001)
+[2025-08-11 15:31:00] ✅ Zaccharie Risacher (ID: 1642258)
+[2025-08-11 15:31:02] ✅ Jacob Toppin (ID: 1631210)
+[2025-08-11 15:31:05] ✅ Keaton Wallace (ID: 1630811)
+[2025-08-11 15:31:06] ✅ Trae Young (ID: 1629027)
+[2025-08-11 15:31:09] ✅ CHI: Logo descargado correctamente
+[2025-08-11 15:31:09] 🖼️ Logo de CHI descargado
+[2025-08-11 15:31:09] 
+🏀 Procesando Chicago Bulls (22 jugadores)
+[2025-08-11 15:31:11] ✅ Matas Buzelis (ID: 1641824)
+[2025-08-11 15:31:13] ✅ Jevon Carter (ID: 1628975)
+[2025-08-11 15:31:15] ✅ Zach Collins (ID: 1628380)
+[2025-08-11 15:31:16] ✅ Ayo Dosunmu (ID: 1630245)
+[2025-08-11 15:31:18] ✅ Noa Essengue (ID: 1642855)
+[2025-08-11 15:31:19] ✅ Josh Giddey (ID: 1630581)
+[2025-08-11 15:31:21] ✅ Caleb Grill (ID: 1642934)
+[2025-08-11 15:31:23] ✅ Talen Horton-Tucker (ID: 1629659)
+[2025-08-11 15:31:25] ✅ Kevin Huerter (ID: 1628989)
+[2025-08-11 15:31:28] ✅ Tre Jones (ID: 1630200)
+[2025-08-11 15:31:29] ✅ Yuki Kawamura (ID: 1642530)
+[2025-08-11 15:31:31] ✅ E.J. Liddell (ID: 1630604)
+[2025-08-11 15:31:33] ✅ Emanuel Miller (ID: 1641801)
+[2025-08-11 15:31:35] ✅ Isaac Okoro (ID: 1630171)
+[2025-08-11 15:31:37] ✅ Lachlan Olbrich (ID: 1642950)
+[2025-08-11 15:31:38] ✅ Julian Phillips (ID: 1641763)
+[2025-08-11 15:31:40] ✅ Wooga Poplar (ID: 1642390)
+[2025-08-11 15:31:41] ✅ Jalen Smith (ID: 1630188)
+[2025-08-11 15:31:43] ✅ Dalen Terry (ID: 1631207)
+[2025-08-11 15:31:44] ✅ Nikola Vučević (ID: 202696)
+[2025-08-11 15:31:46] ✅ Coby White (ID: 1629632)
+[2025-08-11 15:31:48] ✅ Patrick Williams (ID: 1630172)
+[2025-08-11 15:31:49] ✅ CLE: Logo descargado correctamente
+[2025-08-11 15:31:49] 🖼️ Logo de CLE descargado
+[2025-08-11 15:31:49] 
+🏀 Procesando Cleveland Cavaliers (20 jugadores)
+[2025-08-11 15:31:51] ✅ Jarrett Allen (ID: 1628386)
+[2025-08-11 15:31:52] ✅ Lonzo Ball (ID: 1628366)
+[2025-08-11 15:31:54] ✅ Emoni Bates (ID: 1641734)
+[2025-08-11 15:31:55] ✅ Darius Garland (ID: 1629636)
+[2025-08-11 15:31:57] ✅ Javonte Green (ID: 1629750)
+[2025-08-11 15:31:58] ✅ De'Andre Hunter (ID: 1629631)
+[2025-08-11 15:32:00] ✅ Sam Merrill (ID: 1630241)
+[2025-08-11 15:32:01] ✅ Donovan Mitchell (ID: 1628378)
+[2025-08-11 15:32:03] ✅ Evan Mobley (ID: 1630596)
+[2025-08-11 15:32:05] ✅ Larry Nance Jr. (ID: 1626204)
+[2025-08-11 15:32:07] ✅ Saliou Niang (ID: 1643008)
+[2025-08-11 15:32:08] ✅ Chuma Okeke (ID: 1629643)
+[2025-08-11 15:32:10] ✅ Craig Porter Jr. (ID: 1641854)
+[2025-08-11 15:32:11] ✅ Tyrese Proctor (ID: 1642878)
+[2025-08-11 15:32:13] ✅ Max Strus (ID: 1629622)
+[2025-08-11 15:32:15] ✅ Tristan Thompson (ID: 202684)
+[2025-08-11 15:32:16] ✅ Nae'Qwan Tomlin (ID: 1641772)
+[2025-08-11 15:32:18] ✅ Luke Travers (ID: 1631247)
+[2025-08-11 15:32:20] ✅ Jaylon Tyson (ID: 1642281)
+[2025-08-11 15:32:21] ✅ Dean Wade (ID: 1629731)
+[2025-08-11 15:32:24] ✅ DET: Logo descargado correctamente
+[2025-08-11 15:32:24] 🖼️ Logo de DET descargado
+[2025-08-11 15:32:24] 
+🏀 Procesando Detroit Pistons (17 jugadores)
+[2025-08-11 15:32:26] ✅ Malik Beasley (ID: 1627736)
+[2025-08-11 15:32:27] ✅ Cade Cunningham (ID: 1630595)
+[2025-08-11 15:32:29] ✅ Jalen Duren (ID: 1631105)
+[2025-08-11 15:32:30] ✅ Tobias Harris (ID: 202699)
+[2025-08-11 15:32:32] ✅ Ronald Holland II (ID: 1641842)
+[2025-08-11 15:32:34] ✅ Jaden Ivey (ID: 1631093)
+[2025-08-11 15:32:35] ✅ Daniss Jenkins (ID: 1642450)
+[2025-08-11 15:32:37] ✅ Colby Jones (ID: 1641732)
+[2025-08-11 15:32:38] ✅ Bobi Klintman (ID: 1641752)
+[2025-08-11 15:32:40] ✅ Chaz Lanier (ID: 1642404)
+[2025-08-11 15:32:41] ✅ Caris LeVert (ID: 1627747)
+[2025-08-11 15:32:43] ✅ Paul Reed (ID: 1630194)
+[2025-08-11 15:32:45] ✅ Duncan Robinson (ID: 1629130)
+[2025-08-11 15:32:46] ✅ Marcus Sasser (ID: 1631204)
+[2025-08-11 15:32:48] ✅ Tolu Smith (ID: 1642449)
+[2025-08-11 15:32:49] ✅ Isaiah Stewart (ID: 1630191)
+[2025-08-11 15:32:51] ✅ Ausar Thompson (ID: 1641709)
+[2025-08-11 15:32:53] ✅ IND: Logo descargado correctamente
+[2025-08-11 15:32:53] 🖼️ Logo de IND descargado
+[2025-08-11 15:32:53] 
+🏀 Procesando Indiana Pacers (20 jugadores)
+[2025-08-11 15:32:55] ✅ Tony Bradley (ID: 1628396)
+[2025-08-11 15:32:56] ✅ Thomas Bryant (ID: 1628418)
+[2025-08-11 15:32:58] ✅ RayJ Dennis (ID: 1642484)
+[2025-08-11 15:33:00] ✅ Johnny Furphy (ID: 1642277)
+[2025-08-11 15:33:02] ✅ Tyrese Haliburton (ID: 1630169)
+[2025-08-11 15:33:03] ✅ Jay Huff (ID: 1630643)
+[2025-08-11 15:33:05] ✅ Isaiah Jackson (ID: 1630543)
+[2025-08-11 15:33:06] ✅ Quenton Jackson (ID: 1631245)
+[2025-08-11 15:33:08] ✅ James Johnson (ID: 201949)
+[2025-08-11 15:33:09] ✅ Kam Jones (ID: 1642880)
+[2025-08-11 15:33:11] ✅ Bennedict Mathurin (ID: 1631097)
+[2025-08-11 15:33:12] ✅ T.J. McConnell (ID: 204456)
+[2025-08-11 15:33:14] ✅ Andrew Nembhard (ID: 1629614)
+[2025-08-11 15:33:16] ✅ Aaron Nesmith (ID: 1630174)
+[2025-08-11 15:33:17] ✅ Taelon Peter (ID: 1643007)
+[2025-08-11 15:33:19] ✅ Ben Sheppard (ID: 1641767)
+[2025-08-11 15:33:20] ✅ Pascal Siakam (ID: 1627783)
+[2025-08-11 15:33:22] ✅ Obi Toppin (ID: 1630167)
+[2025-08-11 15:33:24] ✅ Jarace Walker (ID: 1641716)
+[2025-08-11 15:33:25] ✅ James Wiseman (ID: 1630164)
+[2025-08-11 15:33:29] ✅ MIA: Logo descargado correctamente
+[2025-08-11 15:33:29] 🖼️ Logo de MIA descargado
+[2025-08-11 15:33:29] 
+🏀 Procesando Miami Heat (19 jugadores)
+[2025-08-11 15:33:30] ✅ Tyler Herro (ID: 1629639)
+[2025-08-11 15:33:32] ✅ Bam Adebayo (ID: 1628389)
+[2025-08-11 15:33:33] ✅ Alec Burks (ID: 202692)
+[2025-08-11 15:33:35] ✅ Josh Christopher (ID: 1630528)
+[2025-08-11 15:33:37] ✅ Simone Fontecchio (ID: 1631323)
+[2025-08-11 15:33:38] ✅ Myron Gardner (ID: 1642066)
+[2025-08-11 15:33:40] ✅ Vladislav Goldin (ID: 1642884)
+[2025-08-11 15:33:41] ✅ Haywood Highsmith (ID: 1629312)
+[2025-08-11 15:33:43] ✅ Kasparas Jakučionis (ID: 1642857)
+[2025-08-11 15:33:44] ✅ Jaime Jaquez Jr. (ID: 1631170)
+[2025-08-11 15:33:46] ✅ Keshad Johnson (ID: 1642352)
+[2025-08-11 15:33:48] ✅ Nikola Jović (ID: 1631107)
+[2025-08-11 15:33:50] ✅ Pelle Larsson (ID: 1641796)
+[2025-08-11 15:33:51] ✅ Davion Mitchell (ID: 1630558)
+[2025-08-11 15:33:53] ✅ Norman Powell (ID: 1626181)
+[2025-08-11 15:33:55] ✅ Terry Rozier (ID: 1626179)
+[2025-08-11 15:33:56] ✅ Dru Smith (ID: 1630696)
+[2025-08-11 15:33:58] ✅ Kel'el Ware (ID: 1642276)
+[2025-08-11 15:34:00] ✅ Andrew Wiggins (ID: 203952)
+[2025-08-11 15:34:02] ✅ MIL: Logo descargado correctamente
+[2025-08-11 15:34:02] 🖼️ Logo de MIL descargado
+[2025-08-11 15:34:02] 
+🏀 Procesando Milwaukee Bucks (19 jugadores)
+[2025-08-11 15:34:04] ✅ Giannis Antetokounmpo (ID: 203507)
+[2025-08-11 15:34:05] ✅ Cole Anthony (ID: 1630175)
+[2025-08-11 15:34:07] ✅ Jamaree Bouyea (ID: 1631123)
+[2025-08-11 15:34:08] ✅ AJ Green (ID: 1631260)
+[2025-08-11 15:34:10] ✅ Gary Harris (ID: 203914)
+[2025-08-11 15:34:11] ✅ Andre Jackson Jr. (ID: 1641748)
+[2025-08-11 15:34:13] ✅ Kyle Kuzma (ID: 1628398)
+[2025-08-11 15:34:14] ✅ Chris Livingston (ID: 1641753)
+[2025-08-11 15:34:16] ✅ Bogoljub Marković (ID: 1642881)
+[2025-08-11 15:34:18] ✅ Pete Nance (ID: 1631250)
+[2025-08-11 15:34:20] ✅ Kevin Porter Jr. (ID: 1629645)
+[2025-08-11 15:34:21] ✅ Bobby Portis (ID: 1626171)
+[2025-08-11 15:34:23] ✅ Taurean Prince (ID: 1627752)
+[2025-08-11 15:34:25] ✅ Ryan Rollins (ID: 1631157)
+[2025-08-11 15:34:26] ✅ Mark Sears (ID: 1641813)
+[2025-08-11 15:34:28] ✅ Jericho Sims (ID: 1630579)
+[2025-08-11 15:34:30] ✅ Tyler Smith (ID: 1641890)
+[2025-08-11 15:34:32] ✅ Gary Trent Jr. (ID: 1629018)
+[2025-08-11 15:34:33] ✅ Myles Turner (ID: 1626167)
+[2025-08-11 15:34:36] ✅ NYK: Logo descargado correctamente
+[2025-08-11 15:34:36] 🖼️ Logo de NYK descargado
+[2025-08-11 15:34:36] 
+🏀 Procesando New York Knicks (21 jugadores)
+[2025-08-11 15:34:37] ✅ Precious Achiuwa (ID: 1630173)
+[2025-08-11 15:34:39] ✅ OG Anunoby (ID: 1628384)
+[2025-08-11 15:34:40] ✅ MarJon Beauchamp (ID: 1630699)
+[2025-08-11 15:34:42] ✅ Mikal Bridges (ID: 1628969)
+[2025-08-11 15:34:44] ✅ Jalen Brunson (ID: 1628973)
+[2025-08-11 15:34:46] ✅ Jordan Clarkson (ID: 203903)
+[2025-08-11 15:34:47] ✅ Pacôme Dadiet (ID: 1642359)
+[2025-08-11 15:34:49] ✅ Mohamed Diawara (ID: 1642885)
+[2025-08-11 15:34:50] ✅ Josh Hart (ID: 1628404)
+[2025-08-11 15:34:52] ✅ Ariel Hukporti (ID: 1630574)
+[2025-08-11 15:34:54] ✅ Tyler Kolek (ID: 1642278)
+[2025-08-11 15:34:55] ✅ Miles McBride (ID: 1630540)
+[2025-08-11 15:34:57] ✅ Kevin McCullar Jr. (ID: 1641755)
+[2025-08-11 15:34:59] ✅ Cameron Payne (ID: 1626166)
+[2025-08-11 15:35:00] ✅ Mitchell Robinson (ID: 1629011)
+[2025-08-11 15:35:02] ✅ Landry Shamet (ID: 1629013)
+[2025-08-11 15:35:03] ✅ Karl-Anthony Towns (ID: 1626157)
+[2025-08-11 15:35:05] ✅ P.J. Tucker (ID: 200782)
+[2025-08-11 15:35:07] ✅ Anton Watson (ID: 1641817)
+[2025-08-11 15:35:08] ✅ Delon Wright (ID: 1626153)
+[2025-08-11 15:35:10] ✅ Guerschon Yabusele (ID: 1627824)
+[2025-08-11 15:35:12] ✅ ORL: Logo descargado correctamente
+[2025-08-11 15:35:12] 🖼️ Logo de ORL descargado
+[2025-08-11 15:35:12] 
+🏀 Procesando Orlando Magic (20 jugadores)
+[2025-08-11 15:35:13] ✅ Paolo Banchero (ID: 1631094)
+[2025-08-11 15:35:15] ✅ Desmond Bane (ID: 1630217)
+[2025-08-11 15:35:17] ✅ Goga Bitadze (ID: 1629048)
+[2025-08-11 15:35:18] ✅ Anthony Black (ID: 1641710)
+[2025-08-11 15:35:20] ✅ Jamal Cain (ID: 1631288)
+[2025-08-11 15:35:21] ✅ Wendell Carter Jr. (ID: 1628976)
+[2025-08-11 15:35:23] ✅ Tristan da Silva (ID: 1641783)
+[2025-08-11 15:35:24] ✅ Caleb Houstan (ID: 1631216)
+[2025-08-11 15:35:26] ✅ Jett Howard (ID: 1641724)
+[2025-08-11 15:35:28] ✅ Jonathan Isaac (ID: 1628371)
+[2025-08-11 15:35:30] ✅ Tyus Jones (ID: 1626145)
+[2025-08-11 15:35:32] ✅ Cory Joseph (ID: 202709)
+[2025-08-11 15:35:34] ✅ Mac McClung (ID: 1630644)
+[2025-08-11 15:35:36] ✅ Noah Penda (ID: 1642869)
+[2025-08-11 15:35:38] ✅ Trevelin Queen (ID: 1630243)
+[2025-08-11 15:35:39] ✅ Jase Richardson (ID: 1642859)
+[2025-08-11 15:35:41] ✅ Orlando Robinson (ID: 1631115)
+[2025-08-11 15:35:42] ✅ Jalen Suggs (ID: 1630591)
+[2025-08-11 15:35:44] ✅ Franz Wagner (ID: 1630532)
+[2025-08-11 15:35:46] ✅ Moritz Wagner (ID: 1629021)
+[2025-08-11 15:35:48] ✅ PHI: Logo descargado correctamente
+[2025-08-11 15:35:48] 🖼️ Logo de PHI descargado
+[2025-08-11 15:35:48] 
+🏀 Procesando Philadelphia 76ers (21 jugadores)
+[2025-08-11 15:35:50] ✅ Dominick Barlow (ID: 1631230)
+[2025-08-11 15:35:51] ✅ Adem Bona (ID: 1641737)
+[2025-08-11 15:35:53] ✅ Johni Broome (ID: 1641780)
+[2025-08-11 15:35:54] ✅ Jeff Dowtin Jr. (ID: 1630288)
+[2025-08-11 15:35:56] ✅ Andre Drummond (ID: 203083)
+[2025-08-11 15:35:57] ✅ VJ Edgecombe (ID: 1642845)
+[2025-08-11 15:35:59] ✅ Justin Edwards (ID: 1642348)
+[2025-08-11 15:36:00] ✅ Joel Embiid (ID: 203954)
+[2025-08-11 15:36:02] ✅ Paul George (ID: 202331)
+[2025-08-11 15:36:03] ✅ Eric Gordon (ID: 201569)
+[2025-08-11 15:36:05] ✅ Quentin Grimes (ID: 1629656)
+[2025-08-11 15:36:06] ✅ Jalen Hood-Schifino (ID: 1641720)
+[2025-08-11 15:36:08] ✅ Kyle Lowry (ID: 200768)
+[2025-08-11 15:36:09] ✅ Tyrese Maxey (ID: 1630178)
+[2025-08-11 15:36:11] ✅ Jared McCain (ID: 1642272)
+[2025-08-11 15:36:12] ✅ Igor Milicic Jr. (ID: 1642945)
+[2025-08-11 15:36:14] ✅ Kelly Oubre Jr. (ID: 1626162)
+[2025-08-11 15:36:15] ✅ Hunter Sallis (ID: 1642282)
+[2025-08-11 15:36:17] ✅ Jabari Walker (ID: 1631133)
+[2025-08-11 15:36:18] ✅ Lonnie Walker IV (ID: 1629022)
+[2025-08-11 15:36:20] ✅ Trendon Watford (ID: 1630570)
+[2025-08-11 15:36:23] ✅ TOR: Logo descargado correctamente
+[2025-08-11 15:36:23] 🖼️ Logo de TOR descargado
+[2025-08-11 15:36:23] 
+🏀 Procesando Toronto Raptors (21 jugadores)
+[2025-08-11 15:36:24] ✅ Ochai Agbaji (ID: 1630534)
+[2025-08-11 15:36:26] ✅ Scottie Barnes (ID: 1630567)
+[2025-08-11 15:36:27] ✅ RJ Barrett (ID: 1629628)
+[2025-08-11 15:36:29] ✅ Jamison Battle (ID: 1642419)
+[2025-08-11 15:36:31] ✅ Chris Boucher (ID: 1628449)
+[2025-08-11 15:36:32] ✅ Ulrich Chomche (ID: 1642279)
+[2025-08-11 15:36:34] ✅ Gradey Dick (ID: 1641711)
+[2025-08-11 15:36:35] ✅ Chucky Hepburn (ID: 1642935)
+[2025-08-11 15:36:37] ✅ Brandon Ingram (ID: 1627742)
+[2025-08-11 15:36:39] ✅ A.J. Lawson (ID: 1630639)
+[2025-08-11 15:36:40] ✅ Sandro Mamukelashvili (ID: 1630572)
+[2025-08-11 15:36:42] ✅ Alijah Martin (ID: 1642918)
+[2025-08-11 15:36:43] ✅ Jonathan Mogbo (ID: 1642367)
+[2025-08-11 15:36:45] ✅ Collin Murray-Boyles (ID: 1642867)
+[2025-08-11 15:36:47] ✅ Jakob Poeltl (ID: 1627751)
+[2025-08-11 15:36:48] ✅ Immanuel Quickley (ID: 1630193)
+[2025-08-11 15:36:50] ✅ David Roddy (ID: 1631223)
+[2025-08-11 15:36:52] ✅ Olivier Sarr (ID: 1630846)
+[2025-08-11 15:36:55] ✅ Jamal Shead (ID: 1642347)
+[2025-08-11 15:36:57] ✅ Garrett Temple (ID: 202066)
+[2025-08-11 15:36:59] ✅ Ja'Kobe Walter (ID: 1642266)
+[2025-08-11 15:37:03] ✅ WAS: Logo descargado correctamente
+[2025-08-11 15:37:03] 🖼️ Logo de WAS descargado
+[2025-08-11 15:37:03] 
+🏀 Procesando Washington Wizards (20 jugadores)
+[2025-08-11 15:37:05] ✅ Marvin Bagley III (ID: 1628963)
+[2025-08-11 15:37:07] ✅ Malaki Branham (ID: 1631103)
+[2025-08-11 15:37:09] ✅ Malcolm Brogdon (ID: 1627763)
+[2025-08-11 15:37:10] ✅ Bub Carrington (ID: 1642267)
+[2025-08-11 15:37:12] ✅ Justin Champagnie (ID: 1630551)
+[2025-08-11 15:37:13] ✅ Bilal Coulibaly (ID: 1641731)
+[2025-08-11 15:37:15] ✅ Kyshawn George (ID: 1642273)
+[2025-08-11 15:37:17] ✅ Anthony Gill (ID: 1630264)
+[2025-08-11 15:37:18] ✅ AJ Johnson (ID: 1642358)
+[2025-08-11 15:37:21] ✅ Tre Johnson (ID: 1642848)
+[2025-08-11 15:37:23] ✅ Dillon Jones (ID: 1641794)
+[2025-08-11 15:37:25] ✅ Corey Kispert (ID: 1630557)
+[2025-08-11 15:37:26] ✅ CJ McCollum (ID: 203468)
+[2025-08-11 15:37:28] ✅ Khris Middleton (ID: 203114)
+[2025-08-11 15:37:30] ✅ Will Riley (ID: 1642860)
+[2025-08-11 15:37:32] ✅ Alex Sarr (ID: 1642259)
+[2025-08-11 15:37:33] ✅ JT Thor (ID: 1630550)
+[2025-08-11 15:37:35] ✅ Tristan Vukcevic (ID: 1641774)
+[2025-08-11 15:37:36] ✅ Jamir Watkins (ID: 1642364)
+[2025-08-11 15:37:38] ✅ Cam Whitmore (ID: 1641715)
+[2025-08-11 15:37:40] ✅ DAL: Logo descargado correctamente
+[2025-08-11 15:37:40] 🖼️ Logo de DAL descargado
+[2025-08-11 15:37:40] 
+🏀 Procesando Dallas Mavericks (22 jugadores)
+[2025-08-11 15:37:42] ✅ Max Christie (ID: 1631108)
+[2025-08-11 15:37:44] ✅ Moussa Cisse (ID: 1630619)
+[2025-08-11 15:37:45] ✅ Matthew Cleveland (ID: 1642888)
+[2025-08-11 15:37:47] ✅ Anthony Davis (ID: 203076)
+[2025-08-11 15:37:48] ✅ Kessler Edwards (ID: 1630556)
+[2025-08-11 15:37:51] ✅ Danté Exum (ID: 203957)
+[2025-08-11 15:37:52] ✅ Cooper Flagg (ID: 1642843)
+[2025-08-11 15:37:54] ✅ Daniel Gafford (ID: 1629655)
+[2025-08-11 15:37:56] ✅ Jaden Hardy (ID: 1630702)
+[2025-08-11 15:37:57] ✅ Kyrie Irving (ID: 202681)
+[2025-08-11 15:37:59] ✅ Kai Jones (ID: 1630539)
+[2025-08-11 15:38:01] ✅ Miles Kelly (ID: 1642939)
+[2025-08-11 15:38:03] ✅ Dereck Lively II (ID: 1641726)
+[2025-08-11 15:38:05] ✅ Naji Marshall (ID: 1630230)
+[2025-08-11 15:38:06] ✅ Caleb Martin (ID: 1628997)
+[2025-08-11 15:38:08] ✅ Ryan Nembhard (ID: 1642948)
+[2025-08-11 15:38:10] ✅ Dwight Powell (ID: 203939)
+[2025-08-11 15:38:12] ✅ Olivier-Maxence Prosper (ID: 1641765)
+[2025-08-11 15:38:14] ✅ D'Angelo Russell (ID: 1626156)
+[2025-08-11 15:38:15] ✅ Klay Thompson (ID: 202691)
+[2025-08-11 15:38:17] ✅ P.J. Washington (ID: 1629023)
+[2025-08-11 15:38:20] ✅ Brandon Williams (ID: 1630314)
+[2025-08-11 15:38:22] ✅ DEN: Logo descargado correctamente
+[2025-08-11 15:38:22] 🖼️ Logo de DEN descargado
+[2025-08-11 15:38:22] 
+🏀 Procesando Denver Nuggets (20 jugadores)
+[2025-08-11 15:38:24] ✅ Tamar Bates (ID: 1642926)
+[2025-08-11 15:38:26] ✅ Christian Braun (ID: 1631128)
+[2025-08-11 15:38:27] ✅ Bruce Brown (ID: 1628971)
+[2025-08-11 15:38:29] ✅ Vlatko Čančar (ID: 1628427)
+[2025-08-11 15:38:31] ✅ Aaron Gordon (ID: 203932)
+[2025-08-11 15:38:33] ✅ Tim Hardaway Jr. (ID: 203501)
+[2025-08-11 15:38:34] ✅ Dalen Terry (ID: 1631207)
+[2025-08-11 15:38:36] ✅ Cameron Johnson (ID: 1629661)
+[2025-08-11 15:38:38] ✅ Nikola Jokić (ID: 203999)
+[2025-08-11 15:38:39] ✅ Curtis Jones (ID: 1642938)
+[2025-08-11 15:38:41] ✅ Spencer Jones (ID: 1642461)
+[2025-08-11 15:38:43] ✅ DeAndre Jordan (ID: 201599)
+[2025-08-11 15:38:44] ✅ Jamal Murray (ID: 1627750)
+[2025-08-11 15:38:46] ✅ Zeke Nnaji (ID: 1630192)
+[2025-08-11 15:38:47] ✅ Jalen Pickett (ID: 1629618)
+[2025-08-11 15:38:49] ✅ Julian Strawther (ID: 1631124)
+[2025-08-11 15:38:50] ✅ Hunter Tyson (ID: 1641816)
+[2025-08-11 15:38:52] ✅ Jonas Valančiūnas (ID: 202685)
+[2025-08-11 15:38:54] ✅ Peyton Watson (ID: 1631212)
+[2025-08-11 15:38:55] ✅ Russell Westbrook (ID: 201566)
+[2025-08-11 15:38:58] ✅ GSW: Logo descargado correctamente
+[2025-08-11 15:38:58] 🖼️ Logo de GSW descargado
+[2025-08-11 15:38:58] 
+🏀 Procesando Golden State Warriors (18 jugadores)
+[2025-08-11 15:39:00] ✅ Taran Armstrong (ID: 1642379)
+[2025-08-11 15:39:02] ✅ Jimmy Butler III (ID: 202710)
+[2025-08-11 15:39:03] ✅ Stephen Curry (ID: 201939)
+[2025-08-11 15:39:05] ✅ Draymond Green (ID: 203110)
+[2025-08-11 15:39:06] ✅ Buddy Hield (ID: 1627741)
+[2025-08-11 15:39:08] ✅ Trayce Jackson-Davis (ID: 1631218)
+[2025-08-11 15:39:10] ✅ Braxton Key (ID: 1630296)
+[2025-08-11 15:39:12] ✅ Kevin Knox II (ID: 1628995)
+[2025-08-11 15:39:13] ✅ Jonathan Kuminga (ID: 1630228)
+[2025-08-11 15:39:15] ✅ Moses Moody (ID: 1630541)
+[2025-08-11 15:39:17] ✅ Gary Payton II (ID: 1627780)
+[2025-08-11 15:39:19] ✅ Brandin Podziemski (ID: 1641764)
+[2025-08-11 15:39:20] ✅ Quinten Post (ID: 1642366)
+[2025-08-11 15:39:22] ✅ Will Richard (ID: 1642954)
+[2025-08-11 15:39:23] ✅ Jackson Rowe (ID: 1642050)
+[2025-08-11 15:39:25] ✅ Gui Santos (ID: 1630611)
+[2025-08-11 15:39:27] ✅ Pat Spencer (ID: 1630311)
+[2025-08-11 15:39:27] ✅ Alex Toohey (ID: 1642893)
+[2025-08-11 15:39:29] ✅ HOU: Logo descargado correctamente
+[2025-08-11 15:39:29] 🖼️ Logo de HOU descargado
+[2025-08-11 15:39:29] 
+🏀 Procesando Houston Rockets (20 jugadores)
+[2025-08-11 15:39:31] ✅ Steven Adams (ID: 203500)
+[2025-08-11 15:39:33] ✅ Clint Capela (ID: 203991)
+[2025-08-11 15:39:34] ✅ Isaiah Crawford (ID: 1642384)
+[2025-08-11 15:39:36] ✅ N'Faly Dante (ID: 1642368)
+[2025-08-11 15:39:37] ✅ JD Davison (ID: 1631120)
+[2025-08-11 15:39:39] ✅ Kevin Durant (ID: 201142)
+[2025-08-11 15:39:41] ✅ Tari Eason (ID: 1631106)
+[2025-08-11 15:39:42] ✅ Dorian Finney-Smith (ID: 1627827)
+[2025-08-11 15:39:44] ✅ Jett Howard (ID: 1641724)
+[2025-08-11 15:39:46] ✅ Kevon Harris (ID: 1630284)
+[2025-08-11 15:39:47] ✅ Aaron Holiday (ID: 1628988)
+[2025-08-11 15:39:49] ✅ Cam Whitmore (ID: 1641715)
+[2025-08-11 15:39:51] ✅ Jack McVeigh (ID: 1629098)
+[2025-08-11 15:39:53] ✅ Josh Okogie (ID: 1629006)
+[2025-08-11 15:39:54] ✅ Alperen Sengun (ID: 1630578)
+[2025-08-11 15:39:56] ✅ Reed Sheppard (ID: 1642263)
+[2025-08-11 15:39:58] ✅ Jabari Smith Jr. (ID: 1631095)
+[2025-08-11 15:40:00] ✅ Jae'Sean Tate (ID: 1630256)
+[2025-08-11 15:40:01] ✅ Amen Thompson (ID: 1641708)
+[2025-08-11 15:40:03] ✅ Fred VanVleet (ID: 1627832)
+[2025-08-11 15:40:04] ✅ LAC: Logo descargado correctamente
+[2025-08-11 15:40:04] 🖼️ Logo de LAC descargado
+[2025-08-11 15:40:04] 
+🏀 Procesando Los Angeles Clippers (22 jugadores)
+[2025-08-11 15:40:05] ✅ Patrick Baldwin Jr. (ID: 1631116)
+[2025-08-11 15:40:07] ✅ Nicolas Batum (ID: 201587)
+[2025-08-11 15:40:09] ✅ Bradley Beal (ID: 203078)
+[2025-08-11 15:40:11] ✅ Bogdan Bogdanović (ID: 203992)
+[2025-08-11 15:40:12] ✅ Kobe Brown (ID: 1641738)
+[2025-08-11 15:40:14] ✅ Cam Christie (ID: 1642353)
+[2025-08-11 15:40:15] ✅ Amari Bailey (ID: 1641735)
+[2025-08-11 15:40:17] ✅ John Collins (ID: 1628381)
+[2025-08-11 15:40:19] ✅ Kris Dunn (ID: 1627739)
+[2025-08-11 15:40:20] ✅ Trentyn Flowers (ID: 1642280)
+[2025-08-11 15:40:22] ✅ James Harden (ID: 201935)
+[2025-08-11 15:40:24] ✅ Derrick Jones Jr. (ID: 1627884)
+[2025-08-11 15:40:25] ✅ Kawhi Leonard (ID: 202695)
+[2025-08-11 15:40:27] ✅ Brook Lopez (ID: 201572)
+[2025-08-11 15:40:28] ✅ Jordan Miller (ID: 1641757)
+[2025-08-11 15:40:30] ✅ Patty Mills (ID: 201988)
+[2025-08-11 15:40:31] ✅ Yanic Konan Niederhäuser (ID: 1642949)
+[2025-08-11 15:40:33] ✅ Chris Paul (ID: 101108)
+[2025-08-11 15:40:35] ✅ Kobe Sanders (ID: 1642920)
+[2025-08-11 15:40:36] ✅ Ben Simmons (ID: 1627732)
+[2025-08-11 15:40:38] ✅ TyTy Washington Jr. (ID: 1631102)
+[2025-08-11 15:40:40] ✅ Ivica Zubac (ID: 1627826)
+[2025-08-11 15:40:42] ✅ LAL: Logo descargado correctamente
+[2025-08-11 15:40:42] 🖼️ Logo de LAL descargado
+[2025-08-11 15:40:42] 
+🏀 Procesando Los Angeles Lakers (22 jugadores)
+[2025-08-11 15:40:45] ✅ Deandre Ayton (ID: 1629028)
+[2025-08-11 15:40:47] ✅ Rui Hachimura (ID: 1629060)
+[2025-08-11 15:40:48] ✅ Eric Dixon (ID: 1642915)
+[2025-08-11 15:40:50] ✅ Luka Dončić (ID: 1629029)
+[2025-08-11 15:40:51] ✅ Rui Hachimura (ID: 1629060)
+[2025-08-11 15:40:53] ✅ Jaxson Hayes (ID: 1629637)
+[2025-08-11 15:40:54] ✅ Bronny James (ID: 1642355)
+[2025-08-11 15:40:56] ✅ LeBron James (ID: 2544)
+[2025-08-11 15:40:57] ✅ Arthur Kaluma (ID: 1641751)
+[2025-08-11 15:40:59] ✅ Maxi Kleber (ID: 1628467)
+[2025-08-11 15:41:01] ✅ Dalton Knecht (ID: 1642261)
+[2025-08-11 15:41:02] ✅ Christian Koloko (ID: 1631132)
+[2025-08-11 15:41:04] ✅ Jake LaRavia (ID: 1631222)
+[2025-08-11 15:41:06] ✅ Alex Len (ID: 203458)
+[2025-08-11 15:41:07] ✅ Chris Manon (ID: 1643024)
+[2025-08-11 15:41:09] ✅ Augustas Marčiulionis (ID: 1643051)
+[2025-08-11 15:41:10] ✅ Markieff Morris (ID: 202693)
+[2025-08-11 15:41:12] ✅ Austin Reaves (ID: 1630559)
+[2025-08-11 15:41:13] ✅ Marcus Smart (ID: 203935)
+[2025-08-11 15:41:15] ✅ Adou Thiero (ID: 1642876)
+[2025-08-11 15:41:17] ✅ Jarred Vanderbilt (ID: 1629020)
+[2025-08-11 15:41:18] ✅ Gabe Vincent (ID: 1629216)
+[2025-08-11 15:41:21] ✅ MEM: Logo descargado correctamente
+[2025-08-11 15:41:21] 🖼️ Logo de MEM descargado
+[2025-08-11 15:41:21] 
+🏀 Procesando Memphis Grizzlies (18 jugadores)
+[2025-08-11 15:41:22] ✅ Santi Aldama (ID: 1630583)
+[2025-08-11 15:41:24] ✅ Kentavious Caldwell-Pope (ID: 203484)
+[2025-08-11 15:41:25] ✅ Brandon Clarke (ID: 1629634)
+[2025-08-11 15:41:27] ✅ Cedric Coward (ID: 1642907)
+[2025-08-11 15:41:29] ✅ Zach Edey (ID: 1641744)
+[2025-08-11 15:41:30] ✅ PJ Hall (ID: 1641790)
+[2025-08-11 15:41:32] ✅ GG Jackson (ID: 1641713)
+[2025-08-11 15:41:33] ✅ Jaren Jackson Jr. (ID: 1628991)
+[2025-08-11 15:41:35] ✅ Ty Jerome (ID: 1629660)
+[2025-08-11 15:41:37] ✅ John Konchar (ID: 1629723)
+[2025-08-11 15:41:38] ✅ Jock Landale (ID: 1629111)
+[2025-08-11 15:41:40] ✅ Jahmai Mashack (ID: 1642942)
+[2025-08-11 15:41:41] ✅ Ja Morant (ID: 1629630)
+[2025-08-11 15:41:43] ✅ Scotty Pippen Jr. (ID: 1630590)
+[2025-08-11 15:41:44] ✅ Javon Small (ID: 1642914)
+[2025-08-11 15:41:46] ✅ Cam Spencer (ID: 1642285)
+[2025-08-11 15:41:48] ✅ Jaylen Wells (ID: 1642377)
+[2025-08-11 15:41:49] ✅ Vince Williams Jr. (ID: 1631246)
+[2025-08-11 15:41:52] ✅ MIN: Logo descargado correctamente
+[2025-08-11 15:41:52] 🖼️ Logo de MIN descargado
+[2025-08-11 15:41:52] 
+🏀 Procesando Minnesota Timberwolves (18 jugadores)
+[2025-08-11 15:41:53] ✅ Joan Beringer (ID: 1642866)
+[2025-08-11 15:41:55] ✅ Jaylen Clark (ID: 1641740)
+[2025-08-11 15:41:57] ✅ Mike Conley (ID: 201144)
+[2025-08-11 15:41:58] ✅ Rob Dillingham (ID: 1642265)
+[2025-08-11 15:42:00] ✅ Donte DiVincenzo (ID: 1628978)
+[2025-08-11 15:42:02] ✅ Anthony Edwards (ID: 1630162)
+[2025-08-11 15:42:03] ✅ Jesse Edwards (ID: 1642399)
+[2025-08-11 15:42:05] ✅ Enrique Freeman (ID: 1642402)
+[2025-08-11 15:42:06] ✅ Rudy Gobert (ID: 203497)
+[2025-08-11 15:42:08] ✅ Bones Hyland (ID: 1630538)
+[2025-08-11 15:42:10] ✅ Joe Ingles (ID: 204060)
+[2025-08-11 15:42:12] ✅ Jaden McDaniels (ID: 1630183)
+[2025-08-11 15:42:13] ✅ Leonard Miller (ID: 1631159)
+[2025-08-11 15:42:15] ✅ Tristen Newton (ID: 1641803)
+[2025-08-11 15:42:16] ✅ Julius Randle (ID: 203944)
+[2025-08-11 15:42:18] ✅ Naz Reid (ID: 1629675)
+[2025-08-11 15:42:19] ✅ Terrence Shannon Jr. (ID: 1630545)
+[2025-08-11 15:42:21] ✅ Rocco Zikarsky (ID: 1642911)
+[2025-08-11 15:42:23] ⚠️ NOP: Error con URL especial - no library called "cairo-2" was found
+no library called "cairo" was found
+no library called "libcairo-2" was found
+cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'
+cannot load library 'libcairo.2.dylib': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'
+cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'
+[2025-08-11 15:42:28] ✅ NOP: Logo descargado correctamente
+[2025-08-11 15:42:28] 🖼️ Logo de NOP descargado
+[2025-08-11 15:42:28] 
+🏀 Procesando New Orleans Pelicans (22 jugadores)
+[2025-08-11 15:42:29] ✅ Trey Alexander (ID: 1641725)
+[2025-08-11 15:42:31] ✅ Jose Alvarado (ID: 1630631)
+[2025-08-11 15:42:32] ✅ Saddiq Bey (ID: 1630180)
+[2025-08-11 15:42:34] ✅ Brandon Boston (ID: 1630527)
+[2025-08-11 15:42:36] ✅ Keion Brooks Jr. (ID: 1631232)
+[2025-08-11 15:42:37] ✅ Hunter Dickinson (ID: 1630621)
+[2025-08-11 15:42:39] ✅ Jeremiah Fears (ID: 1642847)
+[2025-08-11 15:42:41] ✅ Jordan Hawkins (ID: 1641722)
+[2025-08-11 15:42:42] ✅ Herbert Jones (ID: 1630529)
+[2025-08-11 15:42:44] ✅ Kevon Looney (ID: 1626172)
+[2025-08-11 15:42:45] ✅ Karlo Matković (ID: 1631255)
+[2025-08-11 15:42:47] ✅ Bryce McGowens (ID: 1631121)
+[2025-08-11 15:42:49] ✅ Yves Missi (ID: 1642274)
+[2025-08-11 15:42:50] ✅ Trey Murphy III (ID: 1630530)
+[2025-08-11 15:42:52] ✅ Dejounte Murray (ID: 1627749)
+[2025-08-11 15:42:54] ✅ Elfrid Payton (ID: 203901)
+[2025-08-11 15:42:55] ✅ Micah Peavy (ID: 1642877)
+[2025-08-11 15:42:57] ✅ Jordan Poole (ID: 1629673)
+[2025-08-11 15:42:59] ✅ Derik Queen (ID: 1642852)
+[2025-08-11 15:43:01] ✅ Jeremiah Robinson-Earl (ID: 1630526)
+[2025-08-11 15:43:02] ✅ Jaden Springer (ID: 1630531)
+[2025-08-11 15:43:04] ✅ Zion Williamson (ID: 1629627)
+[2025-08-11 15:43:06] ✅ OKC: Logo descargado correctamente
+[2025-08-11 15:43:06] 🖼️ Logo de OKC descargado
+[2025-08-11 15:43:06] 
+🏀 Procesando Oklahoma City Thunder (19 jugadores)
+[2025-08-11 15:43:08] ✅ Brooks Barnhizer (ID: 1642964)
+[2025-08-11 15:43:09] ✅ Branden Carlson (ID: 1642382)
+[2025-08-11 15:43:11] ✅ Alex Caruso (ID: 1627936)
+[2025-08-11 15:43:13] ✅ Ousmane Dieng (ID: 1631172)
+[2025-08-11 15:43:14] ✅ Luguentz Dort (ID: 1629652)
+[2025-08-11 15:43:16] ✅ Alex Ducas (ID: 1642505)
+[2025-08-11 15:43:18] ✅ Shai Gilgeous-Alexander (ID: 1628983)
+[2025-08-11 15:43:21] ✅ Isaiah Hartenstein (ID: 1628392)
+[2025-08-11 15:43:22] ✅ Chet Holmgren (ID: 1631096)
+[2025-08-11 15:43:24] ✅ Isaiah Joe (ID: 1630198)
+[2025-08-11 15:43:25] ✅ Malevy Leons (ID: 1642502)
+[2025-08-11 15:43:27] ✅ Ajay Mitchell (ID: 1642349)
+[2025-08-11 15:43:29] ✅ Thomas Sorber (ID: 1642850)
+[2025-08-11 15:43:30] ✅ Nikola Topić (ID: 1642260)
+[2025-08-11 15:43:32] ✅ Cason Wallace (ID: 1641717)
+[2025-08-11 15:43:34] ✅ Aaron Wiggins (ID: 1630598)
+[2025-08-11 15:43:36] ✅ Jalen Williams (ID: 1631114)
+[2025-08-11 15:43:38] ✅ Jaylin Williams (ID: 1631119)
+[2025-08-11 15:43:40] ✅ Kenrich Williams (ID: 1629026)
+[2025-08-11 15:43:42] ✅ PHX: Logo descargado correctamente
+[2025-08-11 15:43:42] 🖼️ Logo de PHX descargado
+[2025-08-11 15:43:42] 
+🏀 Procesando Phoenix Suns (22 jugadores)
+[2025-08-11 15:43:44] ✅ Grayson Allen (ID: 1628960)
+[2025-08-11 15:43:45] ✅ Bol Bol (ID: 1629626)
+[2025-08-11 15:43:47] ✅ Devin Booker (ID: 1626164)
+[2025-08-11 15:43:48] ✅ Koby Brea (ID: 1642886)
+[2025-08-11 15:43:50] ✅ Jalen Bridges (ID: 1641779)
+[2025-08-11 15:43:52] ✅ Dillon Brooks (ID: 1628415)
+[2025-08-11 15:43:54] ✅ Jared Butler (ID: 1630215)
+[2025-08-11 15:43:56] ✅ Ryan Dunn (ID: 1642346)
+[2025-08-11 15:43:58] ✅ Rasheer Fleming (ID: 1642853)
+[2025-08-11 15:44:00] ✅ Collin Gillespie (ID: 1631221)
+[2025-08-11 15:44:02] ✅ Jordan Goodwin (ID: 1630692)
+[2025-08-11 15:44:04] ✅ Jalen Green (ID: 1630224)
+[2025-08-11 15:44:05] ✅ Nigel Hayes-Davis (ID: 1628502)
+[2025-08-11 15:44:07] ✅ CJ Huntley (ID: 1643047)
+[2025-08-11 15:44:09] ✅ Oso Ighodaro (ID: 1642345)
+[2025-08-11 15:44:11] ✅ Damion Lee (ID: 1627814)
+[2025-08-11 15:44:13] ✅ Isaiah Livers (ID: 1630587)
+[2025-08-11 15:44:15] ✅ Khaman Maluach (ID: 1642863)
+[2025-08-11 15:44:17] ✅ Monté Morris (ID: 1628420)
+[2025-08-11 15:44:18] ✅ Royce O'Neale (ID: 1626220)
+[2025-08-11 15:44:20] ✅ Nick Richards (ID: 1630208)
+[2025-08-11 15:44:22] ✅ Mark Williams (ID: 1631109)
+[2025-08-11 15:44:25] ✅ POR: Logo descargado correctamente
+[2025-08-11 15:44:25] 🖼️ Logo de POR descargado
+[2025-08-11 15:44:25] 
+🏀 Procesando Portland Trail Blazers (19 jugadores)
+[2025-08-11 15:44:26] ✅ Deni Avdija (ID: 1630166)
+[2025-08-11 15:44:27] ✅ Dalano Banton (ID: 1630625)
+[2025-08-11 15:44:29] ✅ Toumani Camara (ID: 1641739)
+[2025-08-11 15:44:31] ✅ Sidy Cissoko (ID: 1631321)
+[2025-08-11 15:44:32] ✅ Donovan Clingan (ID: 1642270)
+[2025-08-11 15:44:34] ✅ Jerami Grant (ID: 203924)
+[2025-08-11 15:44:35] ✅ Scoot Henderson (ID: 1630703)
+[2025-08-11 15:44:37] ✅ Jrue Holiday (ID: 201950)
+[2025-08-11 15:44:39] ✅ Damian Lillard (ID: 203081)
+[2025-08-11 15:44:41] ✅ Caleb Love (ID: 1631126)
+[2025-08-11 15:44:42] ✅ Justin Minaya (ID: 1631303)
+[2025-08-11 15:44:44] ✅ Kris Murray (ID: 1631200)
+[2025-08-11 15:44:46] ✅ Duop Reath (ID: 1641871)
+[2025-08-11 15:44:48] ✅ Rayan Rupert (ID: 1641712)
+[2025-08-11 15:44:49] ✅ Shaedon Sharpe (ID: 1631101)
+[2025-08-11 15:44:51] ✅ Matisse Thybulle (ID: 1629680)
+[2025-08-11 15:44:54] ✅ Blake Wesley (ID: 1631104)
+[2025-08-11 15:44:56] ✅ Robert Williams III (ID: 1629057)
+[2025-08-11 15:44:58] ✅ Hansen Yang (ID: 1642905)
+[2025-08-11 15:45:00] ✅ SAC: Logo descargado correctamente
+[2025-08-11 15:45:00] 🖼️ Logo de SAC descargado
+[2025-08-11 15:45:00] 
+🏀 Procesando Sacramento Kings (22 jugadores)
+[2025-08-11 15:45:02] ✅ Dylan Cardwell (ID: 1642928)
+[2025-08-11 15:45:03] ✅ Devin Carter (ID: 1642269)
+[2025-08-11 15:45:05] ✅ Nique Clifford (ID: 1642363)
+[2025-08-11 15:45:07] ✅ Jae Crowder (ID: 203109)
+[2025-08-11 15:45:09] ✅ Terence Davis (ID: 1629056)
+[2025-08-11 15:45:10] ✅ DeMar DeRozan (ID: 201942)
+[2025-08-11 15:45:12] ✅ Keon Ellis (ID: 1631165)
+[2025-08-11 15:45:14] ✅ Drew Eubanks (ID: 1629234)
+[2025-08-11 15:45:15] ✅ Markelle Fultz (ID: 1628365)
+[2025-08-11 15:45:17] ✅ Isaac Jones (ID: 1642403)
+[2025-08-11 15:45:18] ✅ Mason Jones (ID: 1630222)
+[2025-08-11 15:45:20] ✅ Zach LaVine (ID: 203897)
+[2025-08-11 15:45:21] ✅ Trey Lyles (ID: 1626168)
+[2025-08-11 15:45:23] ✅ Doug McDermott (ID: 203926)
+[2025-08-11 15:45:24] ✅ Malik Monk (ID: 1628370)
+[2025-08-11 15:45:26] ✅ Keegan Murray (ID: 1631099)
+[2025-08-11 15:45:28] ✅ Daeqwon Plowden (ID: 1631342)
+[2025-08-11 15:45:29] ✅ Maxime Raynaud (ID: 1642875)
+[2025-08-11 15:45:31] ✅ Domantas Sabonis (ID: 1627734)
+[2025-08-11 15:45:33] ✅ Dario Šarić (ID: 203967)
+[2025-08-11 15:45:35] ✅ Dennis Schröder (ID: 203471)
+[2025-08-11 15:45:37] ✅ Isaiah Stevens (ID: 1641815)
+[2025-08-11 15:45:39] ✅ SAS: Logo descargado correctamente
+[2025-08-11 15:45:39] 🖼️ Logo de SAS descargado
+[2025-08-11 15:45:39] 
+🏀 Procesando San Antonio Spurs (22 jugadores)
+[2025-08-11 15:45:41] ✅ Harrison Barnes (ID: 203084)
+[2025-08-11 15:45:43] ✅ Charles Bassey (ID: 1629646)
+[2025-08-11 15:45:44] ✅ Bismack Biyombo (ID: 202687)
+[2025-08-11 15:45:46] ✅ Carter Bryant (ID: 1642868)
+[2025-08-11 15:45:48] ✅ Stephon Castle (ID: 1642264)
+[2025-08-11 15:45:49] ✅ Julian Champagnie (ID: 1630577)
+[2025-08-11 15:45:51] ✅ David Duke Jr. (ID: 1630561)
+[2025-08-11 15:45:53] ✅ Adam Flagler (ID: 1641745)
+[2025-08-11 15:45:56] ✅ De'Aaron Fox (ID: 1628368)
+[2025-08-11 15:45:57] ✅ Dylan Harper (ID: 1642844)
+[2025-08-11 15:45:59] ✅ Harrison Ingram (ID: 1631127)
+[2025-08-11 15:46:01] ✅ Keldon Johnson (ID: 1629640)
+[2025-08-11 15:46:03] ✅ David Jones Garcia (ID: 1642357)
+[2025-08-11 15:46:05] ✅ Luke Kornet (ID: 1628436)
+[2025-08-11 15:46:07] ✅ Jordan McLaughlin (ID: 1629162)
+[2025-08-11 15:46:09] ✅ Riley Minix (ID: 1642434)
+[2025-08-11 15:46:11] ✅ Kelly Olynyk (ID: 203482)
+[2025-08-11 15:46:13] ✅ Micah Potter (ID: 1630695)
+[2025-08-11 15:46:15] ✅ Jeremy Sochan (ID: 1631110)
+[2025-08-11 15:46:17] ✅ Devin Vassell (ID: 1630170)
+[2025-08-11 15:46:19] ✅ Lindy Waters III (ID: 1630322)
+[2025-08-11 15:46:20] ✅ Victor Wembanyama (ID: 1641705)
+[2025-08-11 15:46:21] ✅ UTA: Logo descargado correctamente
+[2025-08-11 15:46:21] 🖼️ Logo de UTA descargado
+[2025-08-11 15:46:21] 
+🏀 Procesando Utah Jazz (19 jugadores)
+[2025-08-11 15:46:23] ✅ Kyle Anderson (ID: 203937)
+[2025-08-11 15:46:24] ✅ Ace Bailey (ID: 1642846)
+[2025-08-11 15:46:26] ✅ Walter Clayton Jr. (ID: 1642383)
+[2025-08-11 15:46:28] ✅ Isaiah Collier (ID: 1642268)
+[2025-08-11 15:46:30] ✅ Kyle Filipowski (ID: 1642271)
+[2025-08-11 15:46:31] ✅ Keyonte George (ID: 1641718)
+[2025-08-11 15:46:33] ✅ Elijah Harkless (ID: 1641989)
+[2025-08-11 15:46:35] ✅ Taylor Hendricks (ID: 1641707)
+[2025-08-11 15:46:37] ✅ Walker Kessler (ID: 1631117)
+[2025-08-11 15:46:39] ✅ Kevin Love (ID: 201567)
+[2025-08-11 15:46:41] ✅ Lauri Markkanen (ID: 1628374)
+[2025-08-11 15:46:42] ✅ KJ Martin (ID: 1630231)
+[2025-08-11 15:46:44] ✅ Svi Mykhailiuk (ID: 1629004)
+[2025-08-11 15:46:46] ✅ Georges Niang (ID: 1627777)
+[2025-08-11 15:46:48] ✅ Jusuf Nurkić (ID: 203994)
+[2025-08-11 15:46:49] ✅ Brice Sensabaugh (ID: 1641729)
+[2025-08-11 15:46:51] ✅ John Tonje (ID: 1642910)
+[2025-08-11 15:46:53] ✅ Oscar Tshiebwe (ID: 1631131)
+[2025-08-11 15:46:55] ✅ Cody Williams (ID: 1642262)
+[2025-08-11 15:46:55] 
+==================================================
+[2025-08-11 15:46:55]                   RESUMEN FINAL                   
+[2025-08-11 15:46:55] ==================================================
+[2025-08-11 15:46:55] Equipos procesados: 30
+[2025-08-11 15:46:55] Logos descargados: 30/30
+[2025-08-11 15:46:55] Jugadores descargados: 604/604
+[2025-08-11 15:46:55] ==================================================
+

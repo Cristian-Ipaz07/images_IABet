@@ -159,7 +159,7 @@ def descargar_imagen_jugador(player_id, nombre, equipo_dir):
                 time.sleep(DELAY_BETWEEN_PLAYERS * (attempt + 0.5))
                 response = requests.get(url, stream=True, timeout=15)
                 
-                if response.status_code == 200 and len(response.content) > 5000:
+                if response.status_code == 200 and len(response.content) > 2000:
                     with open(filename, "wb") as f:
                         f.write(response.content)
                     jugadores_descargados += 1
