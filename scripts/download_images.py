@@ -1,250 +1,204 @@
-import requests
-import json
-import os
+from __future__ import annotations
+
 import time
-from unidecode import unidecode
-from datetime import datetime
+import json
+from typing import Optional, Iterable, Dict, Any
 from pathlib import Path
 
-# CONFIGURACION DE RUTAS 
+import requests
+from unidecode import unidecode
 
+# ---------------------------------------------
+# Configuración (sin efectos en disco)
+# ---------------------------------------------
+
+# Solo necesitas estas rutas si vas a cargar los JSON de IDs.
+# Si prefieres, pásalos como dicts a las funciones públicas.
 BASE_DIR = Path(r"F:\Programacion\DESARROLLADOR PROFESIONAL\IABet\images_IABet")
 PLAYERS_JSON = BASE_DIR / "data" / "players_id.json"
 LOGOS_JSON = BASE_DIR / "data" / "teams_id.json"
-IMAGES_DIR = BASE_DIR / "images"
-PLAYERS_DIR = IMAGES_DIR / "players"
-LOGOS_DIR = IMAGES_DIR / "logos"
-LOG_DIR = BASE_DIR / "logs"
-LOG_FILE = LOG_DIR / "download_log.txt"
-
-# CONFIGURACION DE DESCARGA
 
 DELAY_BETWEEN_PLAYERS = 1.5
-DELAY_BETWEEN_TEAMS = 3
 MAX_RETRIES = 3
 TIMEOUT = 15
 
-# URL QUE SE USARAN PARA LA DESCARGA, MULTIPLES FUENTES
-
-LOGO_URLS = [
-    # Opción 1 - NBA CDN (PNG)
-    "https://cdn.nba.com/logos/nba/{team_id}/primary/D/logo.png",
-    # Opción 2 - ESPN (PNG)
-    "https://a.espncdn.com/i/teamlogos/nba/500/{team_code}.png",
-    # Opción 3 - NBA CDN alternativa
-    "https://cdn.nba.com/logos/nba/{team_id}/global/D/logo.png",
-    # URL especial para New Orleans Pelicans (NOP)
-    "https://cdn.nba.com/logos/nba/{team_id}/global/L/logo.svg"
-]
-
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-    'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8',
-    'Referer': 'https://www.nba.com/'
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    ),
+    "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "Referer": "https://www.nba.com/",
 }
 
+PLAYER_URLS = [
+    "https://cdn.nba.com/headshots/nba/latest/260x190/{player_id}.png",
+    "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/{player_id}.png",
+]
 
-# FILTROS PARA LA DESCARGA
+LOGO_URLS = [
+    # NBA CDN (PNG)
+    "https://cdn.nba.com/logos/nba/{team_id}/primary/D/logo.png",
+    # ESPN (PNG)
+    "https://a.espncdn.com/i/teamlogos/nba/500/{team_code}.png",
+    # NBA CDN alternativa (PNG)
+    "https://cdn.nba.com/logos/nba/{team_id}/global/D/logo.png",
+    # Variante SVG (algunas franquicias)
+    "https://cdn.nba.com/logos/nba/{team_id}/global/L/logo.svg",
+]
 
-EQUIPOS_A_DESCARGAR = []
-EQUIPOS_A_EXCLUIR = []
-DESCARGAR_SOLO_LOGOS = False
-EXCLUIR_TODOS_EQUIPOS = False
+# ---------------------------------------------
+# Utilidades
+# ---------------------------------------------
 
-# VARIABLES GLOBALES PARA ESTADÍSTICAS
-logos_descargados = 0
-jugadores_descargados = 0
-jugadores_fallidos = 0
-total_jugadores = 0
-equipos_procesados = 0
-log_active = False
-
-# funciones auxiliares
-
-def setup_directories():
-    """crea las carpetas que no existen"""
-    for directory in [PLAYERS_DIR,  LOG_DIR]:
-        directory.mkdir(parents=True, exist_ok=True)
-
-
-def setup_logging():
-    """Configura el archivo de log"""
+def _http_get_bytes(url: str, timeout: int = TIMEOUT) -> Optional[bytes]:
+    """Devuelve bytes del recurso o None si falla."""
     try:
-        if not LOG_FILE.exists():
-            LOG_FILE.touch()
-        with open(LOG_FILE, 'a', encoding='utf-8') as f:
-            f.write(f"\n\n=== Nueva ejecución: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===\n")
-        return True
-    except Exception as e:
-        print(f"AVISO: No se pudo configurar logging ({e})")
-        return False
+        resp = requests.get(url, headers=HEADERS, timeout=timeout)
+        if resp.status_code == 200 and resp.content and len(resp.content) > 1000:
+            return resp.content
+    except Exception:
+        pass
+    return None
 
-def log_message(message, log_active=True):
-    """Escribe en log y consola"""
-    print(message)
-    if log_active:
-        try:
-            with open(LOG_FILE, 'a', encoding='utf-8') as f:
-                f.write(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {message}\n")
-        except:
-            pass
 
-def descargar_logo(equipo_abrev, logos_data):
-    """Descarga el logo del equipo con múltiples fuentes de respaldo"""
-    global logos_descargados
-    
-    if equipo_abrev not in logos_data:
-        log_message(f"❌ Equipo no encontrado: {equipo_abrev}", True)
-        return False
+def _safe_name(name: str) -> str:
+    """Normaliza el nombre para usarlo como clave/filename (si hiciera falta)."""
+    return (
+        unidecode(name)
+        .replace(" ", "_")
+        .replace("'", "")
+        .replace("-", "_")
+        .strip()
+    )
 
-    team_id = logos_data[equipo_abrev]["id"]
-    
-    # Caso especial para New Orleans Pelicans (NOP)
-    if equipo_abrev == "NOP":
-        nop_url = "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg"
-        try:
-            response = requests.get(nop_url, headers=HEADERS, timeout=TIMEOUT)
-            if response.status_code == 200:
-                with open(LOGOS_DIR / "NOP.png", 'wb') as f:
-                    import cairosvg
-                    from io import BytesIO
-                    png_data = cairosvg.svg2png(bytestring=response.content)
-                    f.write(png_data)
-                logos_descargados += 1
-                log_message("✅ NOP: Logo descargado y convertido a PNG", True)
-                return True
-        except Exception as e:
-            log_message(f"⚠️ NOP: Error con URL especial - {str(e)}", True)
 
-    # Intentar todas las URLs disponibles
-    for url_template in LOGO_URLS:
-        try:
-            url = url_template.format(team_id=team_id, team_code=equipo_abrev)
-            response = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-            
-            if response.status_code == 200:
-                with open(LOGOS_DIR / f"{equipo_abrev}.png", 'wb') as f:
-                    f.write(response.content)
-                
-                if os.path.getsize(LOGOS_DIR / f"{equipo_abrev}.png") > 1024:
-                    logos_descargados += 1
-                    log_message(f"✅ {equipo_abrev}: Logo descargado correctamente", True)
-                    return True
-                else:
-                    os.remove(LOGOS_DIR / f"{equipo_abrev}.png")
-                    log_message(f"⚠️ {equipo_abrev}: Archivo descargado vacío", True)
-                    
-        except Exception as e:
-            log_message(f"⚠️ {equipo_abrev}: Error con {url.split('/')[2]} - {str(e)}", True)
+# ---------------------------------------------
+# Funciones públicas (NO escriben en disco)
+# ---------------------------------------------
+
+def fetch_player_image(player_id: int | str, *, retries: int = MAX_RETRIES, delay: float = DELAY_BETWEEN_PLAYERS) -> Optional[bytes]:
+    """
+    Devuelve los bytes de la foto del jugador (PNG) o None si no se pudo.
+    No guarda archivos, no crea carpetas.
+    """
+    for attempt in range(retries):
+        for template in PLAYER_URLS:
+            url = template.format(player_id=player_id)
+            data = _http_get_bytes(url)
+            if data:
+                return data
+        # backoff simple entre reintentos
+        time.sleep(delay * (attempt + 1))
+    return None
+
+
+def fetch_team_logo(team_id: int | str, team_code: str, *, timeout: int = TIMEOUT) -> Optional[bytes]:
+    """
+    Devuelve los bytes del logo del equipo.
+    Si la URL es SVG e incluye contenido SVG, intenta convertir a PNG en memoria (opcional).
+    """
+    for template in LOGO_URLS:
+        url = template.format(team_id=team_id, team_code=team_code)
+        data = _http_get_bytes(url, timeout=timeout)
+        if not data:
             continue
-    
-    log_message(f"❌ {equipo_abrev}: Todos los intentos fallaron", True)
-    return False
 
-def descargar_imagen_jugador(player_id, nombre, equipo_dir):
-    """Descarga la imagen de un jugador con reintentos"""
-    global jugadores_descargados, jugadores_fallidos
-    
-    urls = [
-        f"https://cdn.nba.com/headshots/nba/latest/260x190/{player_id}.png",
-        f"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/{player_id}.png"
-    ]
-    
-    safe_name = unidecode(nombre).replace(' ', '_').replace("'", "").replace("-", "_")
-    filename = equipo_dir / f"{safe_name}.jpg"
-
-    for attempt in range(MAX_RETRIES):
-        for url in urls:
+        # Si parece SVG, intenta convertir a PNG (recomendado para uso homogéneo)
+        if data[:100].lstrip().startswith(b"<") and b"<svg" in data[:400].lower():
             try:
-                time.sleep(DELAY_BETWEEN_PLAYERS * (attempt + 0.5))
-                response = requests.get(url, stream=True, timeout=15)
-                
-                if response.status_code == 200 and len(response.content) > 2000:
-                    with open(filename, "wb") as f:
-                        f.write(response.content)
-                    jugadores_descargados += 1
-                    return True
-            except Exception as e:
-                continue
-    
-    jugadores_fallidos += 1
-    return False
-
-def deberia_procesar_equipo(equipo_abrev):
-    """Filtra equipos según configuración"""
-    if EXCLUIR_TODOS_EQUIPOS and equipo_abrev not in EQUIPOS_A_DESCARGAR:
-        return False
-    if EQUIPOS_A_DESCARGAR and equipo_abrev not in EQUIPOS_A_DESCARGAR:
-        return False
-    if equipo_abrev in EQUIPOS_A_EXCLUIR:
-        return False
-    return True
-
-def procesar_equipo(equipo_abrev, equipo_data, logos_data, log_active):
-    """Procesa un equipo completo (logo + jugadores)"""
-    global total_jugadores, equipos_procesados
-    
-    if not deberia_procesar_equipo(equipo_abrev):
-        log_message(f"\n⏩ Saltando equipo {equipo_data['nombre_completo']} - Filtrado", log_active)
-        return
-    
-    # Descargar logo
-    if descargar_logo(equipo_abrev, logos_data):
-        log_message(f"🖼️ Logo de {equipo_abrev} descargado", log_active)
-    else:
-        log_message(f"❌ No se pudo descargar logo para {equipo_abrev}", log_active)
-    
-    if DESCARGAR_SOLO_LOGOS:
-        return
-    
-    # Procesar jugadores
-    equipo_dir = PLAYERS_DIR / equipo_abrev
-    equipo_dir.mkdir(exist_ok=True)
-    
-    total_jugadores += len(equipo_data['jugadores'])
-    equipos_procesados += 1
-    
-    log_message(f"\n🏀 Procesando {equipo_data['nombre_completo']} ({len(equipo_data['jugadores'])} jugadores)", log_active)
-    
-    for jugador in equipo_data['jugadores']:
-        if descargar_imagen_jugador(jugador['id'], jugador['nombre'], equipo_dir):
-            log_message(f"✅ {jugador['nombre']} (ID: {jugador['id']})", log_active)
+                import cairosvg  # asegúrate de incluir 'cairosvg' en requirements.txt
+                png_bytes = cairosvg.svg2png(bytestring=data)
+                if png_bytes and len(png_bytes) > 1000:
+                    return png_bytes
+            except Exception:
+                # Si falla la conversión, devuelve el SVG original por si el consumidor lo acepta
+                return data
         else:
-            log_message(f"❌ Fallo al descargar {jugador['nombre']}", log_active)
+            return data
 
-def main():
-    """Función principal"""
-    global log_active
-    setup_directories()
-    log_active = setup_logging()
-    
-    try:
-        with open(PLAYERS_JSON, 'r', encoding='utf-8') as f:
-            players_data = json.load(f)
-        with open(LOGOS_JSON, 'r', encoding='utf-8') as f:
-            logos_data = json.load(f)
-    except Exception as e:
-        log_message(f"ERROR cargando JSON: {str(e)}", log_active)
-        return
-    
-    # Procesar cada equipo
+    return None
+
+
+# ---------------------------------------------
+# Funciones de “batch” que devuelven resultados en memoria
+# ---------------------------------------------
+
+def load_players_data(path: Path = PLAYERS_JSON) -> Dict[str, Any]:
+    """Carga y retorna el dict de jugadores por equipo desde JSON (en memoria)."""
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def load_logos_data(path: Path = LOGOS_JSON) -> Dict[str, Any]:
+    """Carga y retorna el dict con metadatos de equipos (ids, etc.)."""
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def fetch_team_players_images(
+    equipo_abrev: str,
+    equipo_data: Dict[str, Any],
+    *,
+    retries: int = MAX_RETRIES,
+    delay: float = DELAY_BETWEEN_PLAYERS,
+) -> Dict[str, Optional[bytes]]:
+    """
+    Devuelve un dict {nombre_normalizado: bytes|None} con las fotos de los jugadores del equipo.
+    No escribe en disco.
+    """
+    results: Dict[str, Optional[bytes]] = {}
+    for jugador in equipo_data.get("jugadores", []):
+        player_id = jugador["id"]
+        nombre = jugador["nombre"]
+        key = _safe_name(nombre)
+        results[key] = fetch_player_image(player_id, retries=retries, delay=delay)
+    return results
+
+
+def fetch_everything_in_memory(
+    players_data: Dict[str, Any],
+    logos_data: Dict[str, Any],
+    equipos_a_descargar: Iterable[str] | None = None,
+    equipos_a_excluir: Iterable[str] | None = None,
+    solo_logos: bool = False,
+) -> Dict[str, Dict[str, Any]]:
+    """
+    Recorre equipos **en memoria** y devuelve un resumen con bytes:
+    {
+      'LAL': {
+          'logo': b'...',            # bytes o None
+          'jugadores': {'LeBron_James': b'...', ...}  # si solo_logos=False
+      },
+      ...
+    }
+    """
+    equipos_a_descargar = set(equipos_a_descargar or [])
+    equipos_a_excluir = set(equipos_a_excluir or [])
+
+    out: Dict[str, Dict[str, Any]] = {}
+
     for equipo_abrev, equipo_data in players_data.items():
-        start_time = time.time()
-        procesar_equipo(equipo_abrev, equipo_data, logos_data, log_active)
-        elapsed_time = time.time() - start_time
-        remaining_delay = max(0, DELAY_BETWEEN_TEAMS - elapsed_time)
-        time.sleep(remaining_delay)
-    
-    # Resumen final
-    log_message("\n" + "="*50, log_active)
-    log_message(" RESUMEN FINAL ".center(50), log_active)
-    log_message("="*50, log_active)
-    log_message(f"Equipos procesados: {equipos_procesados}", log_active)
-    log_message(f"Logos descargados: {logos_descargados}/{len(players_data)}", log_active)
-    log_message(f"Jugadores descargados: {jugadores_descargados}/{total_jugadores}", log_active)
-    log_message("="*50 + "\n", log_active)
+        if equipos_a_excluir and equipo_abrev in equipos_a_excluir:
+            continue
+        if equipos_a_descargar and equipo_abrev not in equipos_a_descargar:
+            continue
 
-if __name__ == "__main__":
-    main()
+        # logo
+        team_meta = logos_data.get(equipo_abrev, {})
+        team_id = team_meta.get("id")
+        logo_bytes = None
+        if team_id is not None:
+            logo_bytes = fetch_team_logo(team_id=team_id, team_code=equipo_abrev)
 
+        entry: Dict[str, Any] = {"logo": logo_bytes}
 
+        # jugadores
+        if not solo_logos:
+            entry["jugadores"] = fetch_team_players_images(equipo_abrev, equipo_data)
+
+        out[equipo_abrev] = entry
+
+    return out
+
+# Nota: NO hay bloque if __name__ == "__main__":  -> al importar no hace nada.
